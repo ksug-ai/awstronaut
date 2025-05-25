@@ -483,18 +483,17 @@
   "website": "",
   "avatar": "/avatars/JohnHite.jpg"
 }
-,
-{
-  "name": "Jaswinder Singh Bhui",
-  "github": "jaswinderbhui",
+  {
+  "name": "Clement Pakkam Isaac",
+  "github": "cpraveenc",
   "certs": ["awstronaut"],
-  "city": "Dallas",
+  "city": "Orlando",
   "country": "USA",
-  "date": "2025-05-02",
-  "bio": "Senior Delivery Executive | Digital Transformation & Cloud Migration Specialist | Technology Sales Leader | AI, ML & Gen AI Innovator | Multi-Certified Professional",
+  "date": "2024-04-30",
+  "bio": "AWS Golden Jacket",
   "twitter": "",
-  "linkedin": "jaswinderbhui",
+  "linkedin": "clement-isaac",
   "website": "",
-  "avatar": "/avatars/JaswinderPic2025.jpg"
+  "avatar": "/avatars/Clement_pic.png"
 }
 ]
