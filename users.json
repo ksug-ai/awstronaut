@@ -628,5 +628,15 @@
     "date": "2025-06-27",
     "linkedin": "maxim-filipovich-61771223",
     "avatar": "/avatars/maximfilip.png"
+  },
+  {
+    "name": "Sai Vivek Potnuru",
+    "github": "saivivekpotnuru",
+    "certs": ["awstronaut"],
+    "city": "Hyderabad",
+    "country": "India",
+    "date": "2025-06-19",
+    "bio": "Operations Engineer at AWS",
+    "linkedin": "Saivivek Potnuru"
   }
 ]
