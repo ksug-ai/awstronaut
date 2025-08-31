@@ -766,6 +766,17 @@
     "linkedin": "ashutosh2206"
   },
   {
+    "name": "Jesus Alcoba Castillo",
+    "github": "jdalcoba",
+    "certs": ["awstronaut"],
+    "city": "Sevilla",
+    "country": "Spain",
+    "date": "2025-07-30",
+    "bio": "Software Engineer Lead at Capgemini",
+    "linkedin": "jesus-alcoba-castillo",
+    "avatar": "/avatars/JesusAlcoba.png"
+  },
+  {
     "name": "Boris Bradić",
     "github": "borisbradic",
     "certs": [
