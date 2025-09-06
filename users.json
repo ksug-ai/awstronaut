@@ -790,5 +790,18 @@
     "twitter": "boris_bradic",
     "linkedin": "borisbradic",
     "avatar": "/avatars/borisbradic.jpg"
-  }
+  },
+  {
+  "name": "Makendran G",
+  "github": "MakendranG",
+  "certs": ["awstronaut"],
+  "city": "Pondicherry",
+  "country": "India",
+  "date": "2025-01-08",
+  "bio": "AWS Community Star | Multi Cloud Certified | 12x AWS | 18x Azure | 4x GCP | 1x IBM | 1x OCI | MCSA | Blogger | Youtuber | Cloud Support Eng II (DMI)",
+  "twitter": "MakendranG",
+  "linkedin": "makendran",
+  "website": "https://bio.link/makendran",
+  "avatar": "/avatars/Makendran.png"
+}
 ]
