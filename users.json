@@ -803,5 +803,16 @@
   "linkedin": "makendran",
   "website": "https://bio.link/makendran",
   "avatar": "/avatars/Makendran.png"
+},
+{
+  "name": "Phyllis Tarisai Madaba",
+  "github": "kyptonian",
+  "certs": ["awstronaut"],
+  "city": "Johannesburg",
+  "country": "South Africa",
+  "date": "2025-09-08",
+  "bio": "AWS Community Builder | Multi Cloud Certified | 13x AWS | DevSecOps Engineer | Amazon Q Champion | AWS User Group Leader",
+  "linkedin": "phyllis-m-15a8945a",
+  "avatar": "/avatars/phyllism.png"
 }
 ]
