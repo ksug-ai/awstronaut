@@ -814,5 +814,16 @@
   "bio": "AWS Community Builder | Multi Cloud Certified | 13x AWS | DevSecOps Engineer | Amazon Q Champion | AWS User Group Leader",
   "linkedin": "phyllis-m-15a8945a",
   "avatar": "/avatars/phyllism.png"
+},
+{
+  "name": "Vadim Sorokin",
+  "github": "vadim-sorokin-andersenlab",
+  "certs": ["awstronaut"],
+  "city": "Minsk",
+  "country": "Belarus",
+  "date": "2025-09-11",
+  "bio": "Solutions Architect | 14x AWS certified",
+  "linkedin": "vadim-sorokin-b34772153",
+  "avatar": "/avatars/vadimsorokin.png"
 }
 ]
