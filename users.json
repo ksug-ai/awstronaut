@@ -1,818 +1,890 @@
 [
-  {
-    "name": "Yujun Liang",
-    "github": "yujunliang",
-    "certs": [
-      "awstronaut",
-      "kubestronaut"
-    ],
-    "city": "Dallas",
-    "country": "USA",
-    "date": "2024-07-01",
-    "bio": "Certification King | kubestrong | awstronaut | kubestronaut | AWS Builder | Google GDE 2025 | Multi-Cloud",
-    "twitter": "yujunliang",
-    "linkedin": "yujunliang",
-    "website": "",
-    "avatar": "/avatars/yujunliang.png"
-  },
-  {
-    "name": "Yongkang He",
-    "github": "yongkanghe",
-    "certs": [
-      "awstronaut",
-      "kubestronaut"
-    ],
-    "city": "Melbourne",
-    "country": "Australia",
-    "date": "2024-07-01",
-    "bio": "Founder @KSUG.AI | Creator @kubestrong & @awstronaut | kubestronaut | Akamai Advocate | AWS Builder | Azure MVP | Google GDE | Alibaba MVP | Multi-Cloud | Community Reach | DevRel | 100K Social Reach",
-    "twitter": "yongkanghe",
-    "linkedin": "yongkanghe",
-    "website": "https://ksug.ai",
-    "avatar": "/avatars/yongkanghe.png"
-  },
-  {
-    "name": "Dennis John",
-    "certs": [
-      "awstronaut",
-      "kubestronaut"
-    ],
-    "city": "Canberra",
-    "country": "Australia",
-    "date": "2025-05-05",
-    "linkedin": "dennisjohnkn",
-    "avatar": "/avatars/dennisjohn.png"
-  },
-  {
-    "name": "Leonid Kopylov",
-    "certs": [
-      "awstronaut",
-      "kubestronaut"
-    ],
-    "city": "Ashkelon",
-    "country": "Israel",
-    "date": "2025-05-05",
-    "linkedin": "leonchik1976",
-    "avatar": "/avatars/leonidkopylov.png"
-  },
-  {
-    "name": "Bangaly KABA, PhD",
-    "certs": [
-      "awstronaut",
-      "kubestronaut"
-    ],
-    "city": "Paris",
-    "country": "France",
-    "date": "2025-05-05",
-    "linkedin": "bangaly-kaba-phd-6aa51925",
-    "avatar": "/avatars/bangalykaba.png"
-  },
-  {
-    "name": "Sammy Cheung",
-    "certs": [
-      "awstronaut",
-      "kubestronaut"
-    ],
-    "city": "Austin",
-    "country": "USA",
-    "date": "2025-05-05",
-    "linkedin": "sammy-cheung",
-    "avatar": "/avatars/sammycheung.png"
-  },
-  {
-    "name": "Stanislav Kolenkin",
-    "certs": [
-      "awstronaut",
-      "kubestronaut"
-    ],
-    "city": "Warsaw",
-    "country": "Poland",
-    "date": "2025-05-05",
-    "linkedin": "stanislav-kolenkin-4b6b96a",
-    "avatar": "/avatars/stanislavkolenkin.png"
-  },
-  {
-    "name": "Bolivar David Llerena Fuenmayor",
-    "certs": [
-      "awstronaut",
-      "kubestronaut"
-    ],
-    "city": "Quito",
-    "country": "Ecuador",
-    "date": "2025-05-05",
-    "linkedin": "bdllerena",
-    "avatar": "/avatars/bolivardavidllerenafuenmayor.png"
-  },
-  {
-    "name": "Shinji AIBARA",
-    "certs": [
-      "awstronaut",
-      "kubestronaut"
-    ],
-    "city": "Fujisawa",
-    "country": "Japan",
-    "date": "2025-05-05",
-    "linkedin": "shinji-aibara-595a26329",
-    "avatar": "/avatars/shinjiaibara.png"
-  },
-  {
-    "name": "Junichi Miyagawa",
-    "certs": [
-      "awstronaut",
-      "kubestronaut"
-    ],
-    "city": "Tokyo",
-    "country": "Japan",
-    "date": "2025-05-05",
-    "linkedin": "junichi-miyagawa-ab67bb228",
-    "avatar": "/avatars/junichimiyagawa.png"
-  },
-  {
-    "name": "Geoff Loh",
-    "certs": [
-      "awstronaut",
-      "kubestronaut"
-    ],
-    "city": "Auckland",
-    "country": "New Zealand",
-    "date": "2025-05-05",
-    "linkedin": "geoff-loh",
-    "avatar": "/avatars/geoffloh.png"
-  },
-  {
-    "name": "Jason Khoi",
-    "certs": [
-      "awstronaut",
-      "kubestronaut"
-    ],
-    "city": "Melbourne",
-    "country": "Australia",
-    "date": "2025-05-05",
-    "linkedin": "jason-khoi-977b231a1",
-    "avatar": "/avatars/jasonkhoi.png"
-  },
-  {
-    "name": "Ihor Matsapura",
-    "certs": [
-      "awstronaut",
-      "kubestronaut"
-    ],
-    "city": "Kyiv",
-    "country": "Ukraine",
-    "date": "2025-05-05",
-    "linkedin": "ihor-matsapura",
-    "avatar": "/avatars/ihormatsapura.png"
-  },
-  {
-    "name": "V-ris Jaijongrak",
-    "certs": [
-      "awstronaut",
-      "kubestronaut"
-    ],
-    "city": "Bangkok",
-    "country": "Thailand",
-    "date": "2025-05-05",
-    "linkedin": "v-ris-jaijongrak",
-    "avatar": "/avatars/vrisjaijongrak.png"
-  },
-  {
-    "name": "Eric Schüler",
-    "certs": [
-      "awstronaut",
-      "kubestronaut"
-    ],
-    "city": "Nuremberg",
-    "country": "Germany",
-    "date": "2025-05-05",
-    "linkedin": "ericschueler",
-    "avatar": "/avatars/ericschueler.png"
-  },
-  {
-    "name": "Yuriy Bezsonov",
-    "certs": [
-      "awstronaut",
-      "kubestronaut"
-    ],
-    "city": "Paderborn",
-    "country": "Germany",
-    "date": "2025-05-05",
-    "linkedin": "yuriybezsonov",
-    "avatar": "/avatars/yuriybezsonov.png"
-  },
-  {
-    "name": "Dinesh Singh Bisht",
-    "certs": [
-      "awstronaut",
-      "kubestronaut"
-    ],
-    "city": "Helsinki",
-    "country": "Finland",
-    "date": "2025-05-05",
-    "linkedin": "dineshsinghbisht",
-    "avatar": "/avatars/dineshsinghbisht.png"
-  },
-  {
-    "name": "Piotr Pabis",
-    "certs": [
-      "awstronaut"
-    ],
-    "city": "Berlin",
-    "country": "Germany",
-    "date": "2025-02-17",
-    "linkedin": "piotr-pabis",
-    "avatar": "/avatars/piotrpabis.png",
-    "website": "https://pabis.eu",
-    "github": "ppabis",
-    "bio": "15x AWS Certified and Community Builder :: Follow me on LinkedIn to know more 😄"
-  },
-  {
-    "name": "Sebastian Spal",
-    "certs": [
-      "awstronaut"
-    ],
-    "city": "Wellington",
-    "country": "USA",
-    "date": "2025-05-11",
-    "linkedin": "sebastian-spal-b1677162",
-    "avatar": "/avatars/SebastianSpal.png",
-    "website": "https://blog.seabasslab2021.com"
-  },
-  {
-    "name": "Kiyomasa Miyamoto",
-    "certs": [
-      "awstronaut"
-    ],
-    "city": "Tokyo",
-    "country": "Japan",
-    "date": "2025-05-11",
-    "linkedin": "duelist2020jp-a03b55227",
-    "avatar": "/avatars/kiyomasamiyamoto.jpg",
-    "bio": "15x AWS Certified and Community Builder :: Follow me on LinkedIn to know more 😄"
-  },
-  {
-    "name": "Vishnu Rachapudi",
-    "github": "aquavis12",
-    "certs": [
-      "awstronaut"
-    ],
-    "city": "Hyderabad",
-    "country": "India",
-    "date": "2025-03-05",
-    "bio": "🔐 AWS Community Builder – Security | 🧑‍🚀AWStronaut (12x AWS) | AWS Golden Jacket holder 🧥 |Works on AWS Cloud and DevOps | Passionate about Gen AI & Cloud Security | Blogger at Techno Diary",
-    "linkedin": "venkata-pavan-vishnu-rachapudi-28956920b",
-    "website": "https://technodiaryvishnu.hashnode.dev/",
-    "avatar": "/avatars/Rachapudi.png"
-  },
-  {
-    "name": "Gustavo Alejandro Romero Sanchez ",
-    "certs": [
-      "awstronaut"
-    ],
-    "city": "La Paz",
-    "country": "Bolivia",
-    "date": "2025-05-12",
-    "linkedin": "gustavo-alejandro-romero",
-    "avatar": "/avatars/GustavoRomero.png",
-    "github": "gustavo-romero",
-    "bio": "AWS Community Builder | DevOps/Cloud Architect | 12x AWS | 5x Microsoft Azure | 2x GCP :: Let's connect on LinkedIn!"
-  },
-  {
-    "name": "Prabhakaran Ravichandran",
-    "github": "pbkn",
-    "certs": [
-      "awstronaut"
-    ],
-    "city": "Chennai",
-    "country": "India",
-    "date": "2025-01-08",
-    "bio": "Senior Application Engineer @ Amazon | 12x AWS Certified (AWStronaut) | Official AWS SME & Community Builder | Driving Innovation & Mentoring Talent",
-    "linkedin": "pbkn",
-    "website": "https://whysurfswim.com/",
-    "avatar": "/avatars/Prabhakaran_Ravichandran.jpg"
-  },
-  {
-    "name": "Cristian Cortez",
-    "github": "cortezcristian",
-    "certs": [
-      "awstronaut"
-    ],
-    "city": "Dublin",
-    "country": "Ireland",
-    "date": "2025-01-18",
-    "bio": "12x AWS | 4x K8S | 1x GCP | 1x Azure | IBMer | ex AWS | SME",
-    "twitter": "cortezcristian",
-    "linkedin": "cortezcristian",
-    "website": "https://cortezcristian.com/",
-    "avatar": "/avatars/cortezcristian.png"
-  },
-  {
-    "name": "Vineethkumar Marpadge",
-    "github": "vmarpadge",
-    "certs": ["awstronaut"],
-    "city": "Hyderabad",
-    "country": "India",
-    "date": "2025-03-21",
-    "bio": "Cloud Support Engineer 2 at AWS | CodeSuite & Elastic Beanstalk SME🏅| 12 x AWS Certified🧥",
-    "twitter": "vmarpadge",
-    "linkedin": "vmarpadge",
-    "avatar": "/avatars/vineethkumarmarpadge.png"
-  },
-  {
-    "name": "Bojan Sovilj",
-    "github": "bojansovilj",
-    "certs": ["awstronaut"],
-    "city": "Belgrade",
-    "country": "Serbia",
-    "date": "2024-10-25",
-    "bio": "CEO Cloudwalker",
-    "twitter": "extraequal",
-    "linkedin": "bojansovilj",
-    "website": "",
-    "avatar": "/avatars/bojansovilj.jpg"
-  },
     {
-    "name": "Daniel Gaina",
-    "github": "tz0py",
-    "certs": ["awstronaut"],
-    "city": "Cambridge",
-    "country": "United Kingdom",
-    "date": "2024-08-01",
-    "bio": "12 X AWS Certified | AWS Golden Jacket | Senior Cloud Engineer | AWS Community Builder",
-    "linkedin": "danielgaina",
-    "website": "",
-    "avatar": "/avatars/DanielGaina.jpg"
-  },
-  {
-    "name": "Thilina Munasinghe",
-    "github": "thilinamgit",
-    "certs": [
-      "awstronaut"
-    ],
-    "city": "Singapore",
-    "country": "Singapore",
-    "date": "2025-01-18",
-    "bio": "Lead CloudOps Engineer | 🧑‍🚀 AWStronaut (13x AWS) | AWS Golden Jacket holder 🧥 | SME",
-    "linkedin": "thilina-munasinghe",
-    "avatar": "/avatars/thilinamunasinghe.png"
-  },
-  {
-    "name": "Allen R. Chan",
-    "github": "allenrchan",
-    "certs": [
-      "awstronaut",
-      "kubestronaut",
-      "golden kubestronaut"
-    ],
-    "city": "Sunnyvale",
-    "country": "USA",
-    "date": "2025-05-17",
-    "bio": "Head of DevOps and Engineering Management | Kubestronaut+AWStronaut | 3x Founder | 10x Azure | 5x PMI | 4x ISACA | 3x IAPP",
-    "linkedin": "allenchan",
-    "website": "https://aidr.dev",
-    "avatar": "/avatars/allen-r-chan.png"
-  },
-  {
-    "name": "Shaoyi Li",
-    "github": "szl0144",
-    "certs": [
-      "awstronaut"
-    ],
-    "city": "Jacksonville",
-    "country": "USA",
-    "date": "2025-05-19",
-    "bio": "Lead Cloud Engineer | AWS Hero | 85x AWS Badges | AWS UG China Leader | 145K+ followers",
-    "linkedin": "shaoyi-li-cloud",
-    "website": "https://aws.amazon.com/developer/community/heroes/shaoyi-li/?did=dh_card&trk=dh_card",
-    "avatar": "/avatars/shaoyi-li.png"
-  },
-  {
-    "name": "Jasbir Singh",
-    "github": "jasbir84",
-    "certs": [
-      "awstronaut"
-    ],
-    "city": "Eindhoven",
-    "country": "Netherlands",
-    "date": "2025-05-21",
-    "bio": "Staff Consulting Architect @ Rackspace Technology | 12x AWS Certified (AWStronaut) | 14x GCP Certified| 13x Azure Certified| Redefining Cloud Possibilities, Leading With Google Cloud",
-    "linkedin": "jasbir84",
-    "website": "https://www.linkedin.com/in/jasbir84/",
-    "avatar": "/avatars/Jasbir.jpg"
-  },
-  {
-    "name": "Oguzhan Hiziroglu",
-    "certs": [
-      "awstronaut"
-    ],
-    "city": "Istanbul",
-    "country": "Turkey",
-    "date": "2023-09-08",
-    "linkedin": "oguzhanselcukhiziroglu",
-    "avatar": "/avatars/oguzhanselcukhiziroglu.png",
-    "bio": "AWS Ambassador | Turkey's #1 AWS Golden Jacket (15 X AWS) | AWS AAI Community Difference Maker | Champion AWS Authorized Instructor (AAI) | AWS Community Builder"
-  },
-  {
-    "name": "Colin Barker",
-    "github": "mystcb",
-    "certs": [
-      "awstronaut"
-    ],
-    "city": "Billingshurst",
-    "country": "United Kingdom",
-    "date": "2025-01-25",
-    "bio": "Head of AWS | AWS Lead Certification SME | AWS Ambassador | AWS Community Builder | Chair of Tokonatsu",
-    "linkedin": "colinbarker",
-    "website": "https://colinbarker.me.uk",
-    "avatar": "/avatars/colinbarker.jpg"
-  },
-  {
-    "name": "Nizar Ajroud",
-    "github": "nizarajroud",
-    "certs": [
-      "awstronaut"
-    ],
-    "city": "Montreal",
-    "country": "Canada",
-    "date": "2025-05-16",
-    "linkedin": "nizarajroud",
-    "avatar": "/avatars/nizarajroud.jpg",
-    "bio": "12x AWS Certified :: Follow me on LinkedIn to know more 😄"
-  },
-  {
-    "name": "Jenn Bergstrom",
-    "github": "jennbergs",
-    "certs": [
-      "awstronaut"
-    ],
-    "city": "Denver",
-    "country": "USA",
-    "date": "2025-05-22",
-    "bio": "VP, Cloud and Data Solutions @ Parsons | AWS Ambassador | AWS Community Builder | AWStronaut (12x AWS) | 3x Azure | 3x GCP | 3X OCI | PMP | Chaos Engineer | Purple Unicorn",
-    "linkedin": "jenn-bergstrom",
-    "avatar": "/avatars/jenn-bergstrom.jpg"
-  },
-  {
-    "name": "Marko Sluga",
-    "github": "markosluga",
-    "certs": ["awstronaut"],
-    "city": "Toronto",
-    "country": "Canada",
-    "date": "2025-01-16",
-    "bio": "Learn cloud ☁️ and make it rain! 🤑",
-    "linkedin": "markosluga",
-    "website": "https://markocloud.com",
-    "avatar": "/avatars/marko-orange2.png"
-  },
-  {
-    "name": "José E. Vera",
-    "github": "jose-emilio",
-    "certs": ["awstronaut"],
-    "city": "Madrid",
-    "country": "Spain",
-    "date": "2025-04-16",
-    "bio": "Champion AWS Authorized Instructor | AWS Community Builder",
-    "linkedin": "joseemiliovera",
-    "avatar": "/avatars/JoseEmilioVera.png"
-  },
-  {
-    "name": "Nishith Shah",
-    "github": "nishithshah1990-hash",
-    "certs": ["awstronaut"],
-    "city": "New York",
-    "country": "USA",
-    "date": "2025-01-13",
-    "bio": "DevOps/Delivery Lead Manager @ Accenture, ISC2 | 14x AWS | 2x Azure | 2x ServiceNow | 2x Salesforce AI | Databricks GenAI Certified | GCP Certified | Terraform Certified | 6x Databricks Accredited",
-    "linkedin": "nishithshah90",
-    "website": "",
-    "avatar": "/avatars/Nishith.jpg"
-  },
-  {
-    "name": "John Hite",
-    "github": "john916",
-    "certs": ["awstronaut"],
-    "city": "Folsom",
-    "country": "USA",
-    "date": "2025-05-09",
-    "bio": "AWS Golden Jacket",
-    "linkedin": "john-hite-mscsia-cissp-pmp-ceh-enp-026239208",
-    "website": "",
-    "avatar": "/avatars/JohnHite.jpg"
-  },
-  {
-    "name": "Jaswinder Singh Bhui",
-    "github": "jaswinderbhui",
-    "certs": ["awstronaut"],
-    "city": "Dallas",
-    "country": "USA",
-    "date": "2025-05-02",
-    "bio": "Senior Delivery Executive | Digital Transformation & Cloud Migration Specialist | Technology Sales Leader | AI, ML & Gen AI Innovator | Multi-Certified Professional",
-    "linkedin": "jaswinderbhui",
-    "website": "",
-    "avatar": "/avatars/JaswinderPic2025.jpg"
-  },
-  {
-    "name": "Jin Ming Cheong",
-    "github": "jmcheong85",
-    "certs": ["awstronaut"],
-    "city": "Kuala Lumpur",
-    "country": "Malaysia",
-    "date": "2025-02-11",
-    "bio": "AWS Golden Jacket",
-    "linkedin": "cheong-jin-ming",
-    "website": "",
-    "avatar": "/avatars/jin.jpg"
-  },
-  {
-    "name": "Ravi Nandru",
-    "certs": ["awstronaut"],
-    "city": "Boston",
-    "country": "USA",
-    "date": "2025-05-05",
-    "linkedin": "ravinandru",
-    "avatar": "/avatars/Ravi.jpg"
-  },
-  {
-    "name": "Mohamed BENALI",
-    "certs": ["awstronaut"],
-    "city": "Antibes",
-    "country": "France",
-    "bio": "Cloud & Devops Engineer | AWS Solution Architect (AWS Golden Jacket)",
-    "date": "2025-04-29",
-    "linkedin": "mohamed-benali-ba70426a",
-    "avatar": "/avatars/MohamedBenali.jpg"
-  },
-  {
-    "name": "Ernesto Larios",
-    "github": "ernestol0817",
-    "certs": ["awstronaut"],
-    "city": "Denver",
-    "country": "USA",
-    "date": "2025-01-22",
-    "bio": "AI Ambassador & Principal Architect - Bridging Builders and Boardrooms",
-    "linkedin": "ernestolarios",
-    "website": "",
-    "avatar": "/avatars/ernestolarios.jpg"
-  },
-  {
-    "name": "Pragesh Trivedi",
-    "certs": [
-      "awstronaut",
-      "kubestronaut"
-    ],
-    "city": "Abu Dhabi",
-    "country": "United Arab Emirates",
-    "date": "2025-05-17",
-    "linkedin": "prageshtrivedi",
-    "avatar": "/avatars/tpragesh.png"
-  },
-  {
-    "name": "Kimi Huang",
-    "github": "shiningmosquito",
-    "certs": [
-      "awstronaut",
-      "kubestronaut"
-    ],
-    "city": "Kaohsiung",
-    "country": "Taiwan",
-    "date": "2024-06-17",
-    "linkedin": "yu-lin-huang-b2096a87",
-    "avatar": "/avatars/kimihuang.png"
-  },
-  {
-    "name": "Adeyemi Alatishe",
-    "github": "archyemi",
-    "certs": [
-      "awstronaut"
-    ],
-    "city": "Peterborough",
-    "country": "United Kingdom",
-    "date": "2024-10-28",
-    "bio": "Senior Manager, Technology Services @ Wipro | AWStronaut (12x AWS) | AWS SME | 2x Azure | 3x GCP | Quantic CTO",
-    "linkedin": "adeyemi-alatishe",
-    "avatar": "/avatars/adeyemi-alatishe.jpeg"
-  },
-  {
-    "name": "Mai Nishitani",
-    "github": "electrokat",
-    "certs": ["awstronaut"],
-    "city": "Brisbane",
-    "country": "Australia",
-    "date": "2025-06-02",
-    "linkedin": "mai-nishitani",
-    "avatar": "/avatars/mainishitani.png"
-  },
-  {
-    "name": "Harry Mylonas",
-    "github": "hmylonas",
-    "certs": [ "awstronaut" ],
-    "city": "Athens",
-    "country": "Greece",
-    "date": "2025-01-13",
-    "bio": "AWS SME | Cloud & Big Data Strategist | Driving TCO Optimisation & Mission-Critical Innovation | Architect of the AVSI - IARMF Framework",
-    "twitter": "h_mylonas",
-    "linkedin": "hmylonas",
-    "website": "https://www.linkedin.com/newsletters/7291574782074970114/",
-    "avatar": "/avatars/harry_mylonas.png"
-  },
-  {
-    "name": "Ankit Haseeja",
-    "github": "Ankit-Haseeja",
-    "certs": ["awstronaut"],
-    "city": "Bareilly",
-    "country": "India",
-    "date": "2024-06-14",
-    "bio": "Cloud Engineer at AWS",
-    "linkedin": "ankithaseeja"
-  },
-  {
-    "name": "Yevhen Skyba",
-    "certs": [
-      "kubestrong",
-      "awstronaut"
-    ],
-    "city": "Kharkiv",
-    "country": "Ukraine",
-    "date": "2025-06-27",
-    "linkedin": "yevhen-skyba",
-    "avatar": "/avatars/yevhenskyba.jpg"
-  },
-  {
-    "name": "Maxim Filipovich",
-    "certs": ["awstronaut", "kubestronaut"],
-    "city": "Warsaw",
-    "country": "Poland",
-    "date": "2025-06-27",
-    "linkedin": "maxim-filipovich-61771223",
-    "avatar": "/avatars/maximfilip.png"
-  },
- {
-  "name": "Zwivhuya Lucky Khoza",
-  "certs": [
-    "awstronaut"
-  ],
-  "city": "Pretoria",
-  "country": "South Africa",
-  "date": "2025-06-04",
-  "linkedin": "zwivhuya-khoza-733982101",
-  "avatar": "/avatars/zwivhuya.jpeg"
- },
-  {
-    "name": "Sai Vivek Potnuru",
-    "github": "saivivekpotnuru",
-    "certs": ["awstronaut"],
-    "city": "Hyderabad",
-    "country": "India",
-    "date": "2025-06-19",
-    "bio": "Operations Engineer at AWS",
-    "avatar": "/avatars/SaivivekPotnuru.png",
-    "linkedin": "saivivekpotnuru"
-  },
-  {
-    "name": "Adit Modi",
-    "github": "AditModi",
-    "certs": ["awstronaut"],
-    "city": "Bengaluru",
-    "country": "India",
-    "date": "2025-01-13",
-    "bio": "Solution Architect at Lauren",
-    "avatar": "/avatars/AditModi.jpg",
-    "linkedin": "adit-n-modi"
-  },
-  {
-    "name": "Mankwong Chi",
-    "github": "mankwongchi",
-    "certs": ["awstronaut"],
-    "city": "Tokyo",
-    "country": "Japan",
-    "date": "2025-07-08",
-    "avatar": "/avatars/mankwongchi.jpg",
-    "linkedin": "mankwongchi"
-  },
-  {
-    "name": "Luis Miguel Bastante Quijano",
-    "github": "lumibasqui",
-    "certs": ["awstronaut"],
-    "city": "Albacete",
-    "country": "Spain",
-    "date": "2025-06-30",
-    "bio": "AWS Cloud CoE Architect & CCA Lead at Capgemini",
-    "linkedin": "luis-miguel-bastante-quijano",
-    "avatar": "/avatars/LuismiBastante.png"
-  },
-  {
-    "name": "Will Laws",
-    "github": "jeeshofone",
-    "certs": ["awstronaut"],
-    "city": "Sydney",
-    "country": "Australia",
-    "date": "2025-04-01",
-    "bio": "Senior Solutions Architect @AWS | 12 AWS Certs in 12 weeks | re:Invent Speaker | Startup Co-founder",
-    "linkedin": "lwsw",
-    "website": "https://www.123cloud.st",
-    "avatar": "/avatars/willlaws.png"
-  },
-  {
-    "name": "Angelo Mao",
-    "github": "angelomao",
-    "certs": ["awstronaut"],
-    "city": "Hong Kong Island",
-    "country": "Hong Kong SAR",
-    "date": "2025-07-13",
-    "bio": "Infra Architect @ WKCDA | AWS Community Builder (Containers) | 13X AWS | 10X Azure | 8X GCP | 2X Splunk | CKA | Terraform",
-    "linkedin": "angelo-m-6b4a1951",
-    "avatar": "/avatars/angelomao.png"
-  },
-  {
-    "name": "Sviatoslav Hryb",
-    "github": "hrybs",
-    "certs": ["awstronaut"],
-    "city": "New York",
-    "country": "USA",
-    "date": "2024-11-03",
-    "bio": "Software Engineer | Secure Development World Cup 2024 Winner | AWS Golden Jacket | 12X AWS Certified | 3X Oracle Java PRO Certified | VMware Spring PRO Certified",
-    "linkedin": "svhryb",
-    "avatar": "/avatars/sviatoslav_hryb.jpg"
-  },
-  {
-    "name": "Serhii Kaidalov",
-    "github": "wiseelf",
-    "certs": ["awstronaut"],
-    "city": "Kamianets-Podilskyi",
-    "country": "Ukraine",
-    "date": "2025-07-13",
-    "linkedin": "serhii-kaidalov",
-    "website": "https://kaidalov.com",
-    "avatar": "/avatars/SerhiiKaidalov.jpg"
-  },
-  {
-    "name": "Alceu Conerado Neto",
-    "github": "alceuconerado",
-    "certs": ["awstronaut"],
-    "city": "Curitiba",
-    "country": "Brazil",
-    "date": "2025-07-14",
-    "bio": "COO (Chief Operating Officer) | AWS Solutions Architect na DATI | 12x AWS Certified | AWS User Group Leader | AWS Architect",
-    "linkedin": "alceu-conerado-neto-0b4b6334",
-    "avatar": "/avatars/alceuconerado.jpg"
-  },
-  {
-    "name": "Ashutosh Upadhyay",
-    "github": "aupadh12",
-    "certs": ["awstronaut"],
-    "city": "Antwerp",
-    "country": "Belgium",
-    "date": "2025-07-09",
-    "avatar": "/avatars/Ashutosh_Upadhyay.jpeg",
-    "linkedin": "ashutosh2206"
-  },
-  {
-    "name": "Jesus Alcoba Castillo",
-    "github": "jdalcoba",
-    "certs": ["awstronaut"],
-    "city": "Sevilla",
-    "country": "Spain",
-    "date": "2025-07-30",
-    "bio": "Software Engineer Lead at Capgemini",
-    "linkedin": "jesus-alcoba-castillo",
-    "avatar": "/avatars/JesusAlcoba.png"
-  },
-  {
-    "name": "Boris Bradić",
-    "github": "borisbradic",
-    "certs": [
-      "awstronaut",
-      "kubestronaut"
-    ],
-    "city": "Kiseljak",
-    "country": "Bosnia and Herzegovina",
-    "date": "2025-08-16",
-    "bio": "DevOps Engineer focused on Kubernetes, containers, networking, and security. A continuous learner who likes to share knowledge and help others in the learning process. Member of the AWS Community Builders program in Containers category",
-    "twitter": "boris_bradic",
-    "linkedin": "borisbradic",
-    "avatar": "/avatars/borisbradic.jpg"
-  },
-  {
-  "name": "Makendran G",
-  "github": "MakendranG",
-  "certs": ["awstronaut"],
-  "city": "Pondicherry",
-  "country": "India",
-  "date": "2025-01-08",
-  "bio": "AWS Community Star | Multi Cloud Certified | 12x AWS | 18x Azure | 4x GCP | 1x IBM | 1x OCI | MCSA | Blogger | Youtuber | Cloud Support Eng II (DMI)",
-  "twitter": "MakendranG",
-  "linkedin": "makendran",
-  "website": "https://bio.link/makendran",
-  "avatar": "/avatars/Makendran.png"
-},
-{
-  "name": "Phyllis Tarisai Madaba",
-  "github": "kyptonian",
-  "certs": ["awstronaut"],
-  "city": "Johannesburg",
-  "country": "South Africa",
-  "date": "2025-09-08",
-  "bio": "AWS Community Builder | Multi Cloud Certified | 13x AWS | DevSecOps Engineer | Amazon Q Champion | AWS User Group Leader",
-  "linkedin": "phyllis-m-15a8945a",
-  "avatar": "/avatars/phyllism.png"
-}
+        "name": "Yujun Liang",
+        "github": "yujunliang",
+        "certs": [
+            "awstronaut",
+            "kubestronaut"
+        ],
+        "city": "Dallas",
+        "country": "USA",
+        "date": "2024-07-01",
+        "bio": "Certification King | kubestrong | awstronaut | kubestronaut | AWS Builder | Google GDE 2025 | Multi-Cloud",
+        "twitter": "yujunliang",
+        "linkedin": "yujunliang",
+        "website": "",
+        "avatar": "/avatars/yujunliang.png"
+    },
+    {
+        "name": "Yongkang He",
+        "github": "yongkanghe",
+        "certs": [
+            "awstronaut",
+            "kubestronaut"
+        ],
+        "city": "Melbourne",
+        "country": "Australia",
+        "date": "2024-07-01",
+        "bio": "Founder @KSUG.AI | Creator @kubestrong & @awstronaut | kubestronaut | Akamai Advocate | AWS Builder | Azure MVP | Google GDE | Alibaba MVP | Multi-Cloud | Community Reach | DevRel | 100K Social Reach",
+        "twitter": "yongkanghe",
+        "linkedin": "yongkanghe",
+        "website": "https://ksug.ai",
+        "avatar": "/avatars/yongkanghe.png"
+    },
+    {
+        "name": "Dennis John",
+        "certs": [
+            "awstronaut",
+            "kubestronaut"
+        ],
+        "city": "Canberra",
+        "country": "Australia",
+        "date": "2025-05-05",
+        "linkedin": "dennisjohnkn",
+        "avatar": "/avatars/dennisjohn.png"
+    },
+    {
+        "name": "Leonid Kopylov",
+        "certs": [
+            "awstronaut",
+            "kubestronaut"
+        ],
+        "city": "Ashkelon",
+        "country": "Israel",
+        "date": "2025-05-05",
+        "linkedin": "leonchik1976",
+        "avatar": "/avatars/leonidkopylov.png"
+    },
+    {
+        "name": "Bangaly KABA, PhD",
+        "certs": [
+            "awstronaut",
+            "kubestronaut"
+        ],
+        "city": "Paris",
+        "country": "France",
+        "date": "2025-05-05",
+        "linkedin": "bangaly-kaba-phd-6aa51925",
+        "avatar": "/avatars/bangalykaba.png"
+    },
+    {
+        "name": "Sammy Cheung",
+        "certs": [
+            "awstronaut",
+            "kubestronaut"
+        ],
+        "city": "Austin",
+        "country": "USA",
+        "date": "2025-05-05",
+        "linkedin": "sammy-cheung",
+        "avatar": "/avatars/sammycheung.png"
+    },
+    {
+        "name": "Stanislav Kolenkin",
+        "certs": [
+            "awstronaut",
+            "kubestronaut"
+        ],
+        "city": "Warsaw",
+        "country": "Poland",
+        "date": "2025-05-05",
+        "linkedin": "stanislav-kolenkin-4b6b96a",
+        "avatar": "/avatars/stanislavkolenkin.png"
+    },
+    {
+        "name": "Bolivar David Llerena Fuenmayor",
+        "certs": [
+            "awstronaut",
+            "kubestronaut"
+        ],
+        "city": "Quito",
+        "country": "Ecuador",
+        "date": "2025-05-05",
+        "linkedin": "bdllerena",
+        "avatar": "/avatars/bolivardavidllerenafuenmayor.png"
+    },
+    {
+        "name": "Shinji AIBARA",
+        "certs": [
+            "awstronaut",
+            "kubestronaut"
+        ],
+        "city": "Fujisawa",
+        "country": "Japan",
+        "date": "2025-05-05",
+        "linkedin": "shinji-aibara-595a26329",
+        "avatar": "/avatars/shinjiaibara.png"
+    },
+    {
+        "name": "Junichi Miyagawa",
+        "certs": [
+            "awstronaut",
+            "kubestronaut"
+        ],
+        "city": "Tokyo",
+        "country": "Japan",
+        "date": "2025-05-05",
+        "linkedin": "junichi-miyagawa-ab67bb228",
+        "avatar": "/avatars/junichimiyagawa.png"
+    },
+    {
+        "name": "Geoff Loh",
+        "certs": [
+            "awstronaut",
+            "kubestronaut"
+        ],
+        "city": "Auckland",
+        "country": "New Zealand",
+        "date": "2025-05-05",
+        "linkedin": "geoff-loh",
+        "avatar": "/avatars/geoffloh.png"
+    },
+    {
+        "name": "Jason Khoi",
+        "certs": [
+            "awstronaut",
+            "kubestronaut"
+        ],
+        "city": "Melbourne",
+        "country": "Australia",
+        "date": "2025-05-05",
+        "linkedin": "jason-khoi-977b231a1",
+        "avatar": "/avatars/jasonkhoi.png"
+    },
+    {
+        "name": "Ihor Matsapura",
+        "certs": [
+            "awstronaut",
+            "kubestronaut"
+        ],
+        "city": "Kyiv",
+        "country": "Ukraine",
+        "date": "2025-05-05",
+        "linkedin": "ihor-matsapura",
+        "avatar": "/avatars/ihormatsapura.png"
+    },
+    {
+        "name": "V-ris Jaijongrak",
+        "certs": [
+            "awstronaut",
+            "kubestronaut"
+        ],
+        "city": "Bangkok",
+        "country": "Thailand",
+        "date": "2025-05-05",
+        "linkedin": "v-ris-jaijongrak",
+        "avatar": "/avatars/vrisjaijongrak.png"
+    },
+    {
+        "name": "Eric Schüler",
+        "certs": [
+            "awstronaut",
+            "kubestronaut"
+        ],
+        "city": "Nuremberg",
+        "country": "Germany",
+        "date": "2025-05-05",
+        "linkedin": "ericschueler",
+        "avatar": "/avatars/ericschueler.png"
+    },
+    {
+        "name": "Yuriy Bezsonov",
+        "certs": [
+            "awstronaut",
+            "kubestronaut"
+        ],
+        "city": "Paderborn",
+        "country": "Germany",
+        "date": "2025-05-05",
+        "linkedin": "yuriybezsonov",
+        "avatar": "/avatars/yuriybezsonov.png"
+    },
+    {
+        "name": "Dinesh Singh Bisht",
+        "certs": [
+            "awstronaut",
+            "kubestronaut"
+        ],
+        "city": "Helsinki",
+        "country": "Finland",
+        "date": "2025-05-05",
+        "linkedin": "dineshsinghbisht",
+        "avatar": "/avatars/dineshsinghbisht.png"
+    },
+    {
+        "name": "Piotr Pabis",
+        "certs": [
+            "awstronaut"
+        ],
+        "city": "Berlin",
+        "country": "Germany",
+        "date": "2025-02-17",
+        "linkedin": "piotr-pabis",
+        "avatar": "/avatars/piotrpabis.png",
+        "website": "https://pabis.eu",
+        "github": "ppabis",
+        "bio": "15x AWS Certified and Community Builder :: Follow me on LinkedIn to know more 😄"
+    },
+    {
+        "name": "Sebastian Spal",
+        "certs": [
+            "awstronaut"
+        ],
+        "city": "Wellington",
+        "country": "USA",
+        "date": "2025-05-11",
+        "linkedin": "sebastian-spal-b1677162",
+        "avatar": "/avatars/SebastianSpal.png",
+        "website": "https://blog.seabasslab2021.com"
+    },
+    {
+        "name": "Kiyomasa Miyamoto",
+        "certs": [
+            "awstronaut"
+        ],
+        "city": "Tokyo",
+        "country": "Japan",
+        "date": "2025-05-11",
+        "linkedin": "duelist2020jp-a03b55227",
+        "avatar": "/avatars/kiyomasamiyamoto.jpg",
+        "bio": "15x AWS Certified and Community Builder :: Follow me on LinkedIn to know more 😄"
+    },
+    {
+        "name": "Vishnu Rachapudi",
+        "github": "aquavis12",
+        "certs": [
+            "awstronaut"
+        ],
+        "city": "Hyderabad",
+        "country": "India",
+        "date": "2025-03-05",
+        "bio": "🔐 AWS Community Builder – Security | 🧑‍🚀AWStronaut (12x AWS) | AWS Golden Jacket holder 🧥 |Works on AWS Cloud and DevOps | Passionate about Gen AI & Cloud Security | Blogger at Techno Diary",
+        "linkedin": "venkata-pavan-vishnu-rachapudi-28956920b",
+        "website": "https://technodiaryvishnu.hashnode.dev/",
+        "avatar": "/avatars/Rachapudi.png"
+    },
+    {
+        "name": "Gustavo Alejandro Romero Sanchez ",
+        "certs": [
+            "awstronaut"
+        ],
+        "city": "La Paz",
+        "country": "Bolivia",
+        "date": "2025-05-12",
+        "linkedin": "gustavo-alejandro-romero",
+        "avatar": "/avatars/GustavoRomero.png",
+        "github": "gustavo-romero",
+        "bio": "AWS Community Builder | DevOps/Cloud Architect | 12x AWS | 5x Microsoft Azure | 2x GCP :: Let's connect on LinkedIn!"
+    },
+    {
+        "name": "Prabhakaran Ravichandran",
+        "github": "pbkn",
+        "certs": [
+            "awstronaut"
+        ],
+        "city": "Chennai",
+        "country": "India",
+        "date": "2025-01-08",
+        "bio": "Senior Application Engineer @ Amazon | 12x AWS Certified (AWStronaut) | Official AWS SME & Community Builder | Driving Innovation & Mentoring Talent",
+        "linkedin": "pbkn",
+        "website": "https://whysurfswim.com/",
+        "avatar": "/avatars/Prabhakaran_Ravichandran.jpg"
+    },
+    {
+        "name": "Cristian Cortez",
+        "github": "cortezcristian",
+        "certs": [
+            "awstronaut"
+        ],
+        "city": "Dublin",
+        "country": "Ireland",
+        "date": "2025-01-18",
+        "bio": "12x AWS | 4x K8S | 1x GCP | 1x Azure | IBMer | ex AWS | SME",
+        "twitter": "cortezcristian",
+        "linkedin": "cortezcristian",
+        "website": "https://cortezcristian.com/",
+        "avatar": "/avatars/cortezcristian.png"
+    },
+    {
+        "name": "Vineethkumar Marpadge",
+        "github": "vmarpadge",
+        "certs": [
+            "awstronaut"
+        ],
+        "city": "Hyderabad",
+        "country": "India",
+        "date": "2025-03-21",
+        "bio": "Cloud Support Engineer 2 at AWS | CodeSuite & Elastic Beanstalk SME🏅| 12 x AWS Certified🧥",
+        "twitter": "vmarpadge",
+        "linkedin": "vmarpadge",
+        "avatar": "/avatars/vineethkumarmarpadge.png"
+    },
+    {
+        "name": "Bojan Sovilj",
+        "github": "bojansovilj",
+        "certs": [
+            "awstronaut"
+        ],
+        "city": "Belgrade",
+        "country": "Serbia",
+        "date": "2024-10-25",
+        "bio": "CEO Cloudwalker",
+        "twitter": "extraequal",
+        "linkedin": "bojansovilj",
+        "website": "",
+        "avatar": "/avatars/bojansovilj.jpg"
+    },
+    {
+        "name": "Daniel Gaina",
+        "github": "tz0py",
+        "certs": [
+            "awstronaut"
+        ],
+        "city": "Cambridge",
+        "country": "United Kingdom",
+        "date": "2024-08-01",
+        "bio": "12 X AWS Certified | AWS Golden Jacket | Senior Cloud Engineer | AWS Community Builder",
+        "linkedin": "danielgaina",
+        "website": "",
+        "avatar": "/avatars/DanielGaina.jpg"
+    },
+    {
+        "name": "Thilina Munasinghe",
+        "github": "thilinamgit",
+        "certs": [
+            "awstronaut"
+        ],
+        "city": "Singapore",
+        "country": "Singapore",
+        "date": "2025-01-18",
+        "bio": "Lead CloudOps Engineer | 🧑‍🚀 AWStronaut (13x AWS) | AWS Golden Jacket holder 🧥 | SME",
+        "linkedin": "thilina-munasinghe",
+        "avatar": "/avatars/thilinamunasinghe.png"
+    },
+    {
+        "name": "Allen R. Chan",
+        "github": "allenrchan",
+        "certs": [
+            "awstronaut",
+            "kubestronaut",
+            "golden kubestronaut"
+        ],
+        "city": "Sunnyvale",
+        "country": "USA",
+        "date": "2025-05-17",
+        "bio": "Head of DevOps and Engineering Management | Kubestronaut+AWStronaut | 3x Founder | 10x Azure | 5x PMI | 4x ISACA | 3x IAPP",
+        "linkedin": "allenchan",
+        "website": "https://aidr.dev",
+        "avatar": "/avatars/allen-r-chan.png"
+    },
+    {
+        "name": "Shaoyi Li",
+        "github": "szl0144",
+        "certs": [
+            "awstronaut"
+        ],
+        "city": "Jacksonville",
+        "country": "USA",
+        "date": "2025-05-19",
+        "bio": "Lead Cloud Engineer | AWS Hero | 85x AWS Badges | AWS UG China Leader | 145K+ followers",
+        "linkedin": "shaoyi-li-cloud",
+        "website": "https://aws.amazon.com/developer/community/heroes/shaoyi-li/?did=dh_card&trk=dh_card",
+        "avatar": "/avatars/shaoyi-li.png"
+    },
+    {
+        "name": "Jasbir Singh",
+        "github": "jasbir84",
+        "certs": [
+            "awstronaut"
+        ],
+        "city": "Eindhoven",
+        "country": "Netherlands",
+        "date": "2025-05-21",
+        "bio": "Staff Consulting Architect @ Rackspace Technology | 12x AWS Certified (AWStronaut) | 14x GCP Certified| 13x Azure Certified| Redefining Cloud Possibilities, Leading With Google Cloud",
+        "linkedin": "jasbir84",
+        "website": "https://www.linkedin.com/in/jasbir84/",
+        "avatar": "/avatars/Jasbir.jpg"
+    },
+    {
+        "name": "Oguzhan Hiziroglu",
+        "certs": [
+            "awstronaut"
+        ],
+        "city": "Istanbul",
+        "country": "Turkey",
+        "date": "2023-09-08",
+        "linkedin": "oguzhanselcukhiziroglu",
+        "avatar": "/avatars/oguzhanselcukhiziroglu.png",
+        "bio": "AWS Ambassador | Turkey's #1 AWS Golden Jacket (15 X AWS) | AWS AAI Community Difference Maker | Champion AWS Authorized Instructor (AAI) | AWS Community Builder"
+    },
+    {
+        "name": "Colin Barker",
+        "github": "mystcb",
+        "certs": [
+            "awstronaut"
+        ],
+        "city": "Billingshurst",
+        "country": "United Kingdom",
+        "date": "2025-01-25",
+        "bio": "Head of AWS | AWS Lead Certification SME | AWS Ambassador | AWS Community Builder | Chair of Tokonatsu",
+        "linkedin": "colinbarker",
+        "website": "https://colinbarker.me.uk",
+        "avatar": "/avatars/colinbarker.jpg"
+    },
+    {
+        "name": "Nizar Ajroud",
+        "github": "nizarajroud",
+        "certs": [
+            "awstronaut"
+        ],
+        "city": "Montreal",
+        "country": "Canada",
+        "date": "2025-05-16",
+        "linkedin": "nizarajroud",
+        "avatar": "/avatars/nizarajroud.jpg",
+        "bio": "12x AWS Certified :: Follow me on LinkedIn to know more 😄"
+    },
+    {
+        "name": "Jenn Bergstrom",
+        "github": "jennbergs",
+        "certs": [
+            "awstronaut"
+        ],
+        "city": "Denver",
+        "country": "USA",
+        "date": "2025-05-22",
+        "bio": "VP, Cloud and Data Solutions @ Parsons | AWS Ambassador | AWS Community Builder | AWStronaut (12x AWS) | 3x Azure | 3x GCP | 3X OCI | PMP | Chaos Engineer | Purple Unicorn",
+        "linkedin": "jenn-bergstrom",
+        "avatar": "/avatars/jenn-bergstrom.jpg"
+    },
+    {
+        "name": "Marko Sluga",
+        "github": "markosluga",
+        "certs": [
+            "awstronaut"
+        ],
+        "city": "Toronto",
+        "country": "Canada",
+        "date": "2025-01-16",
+        "bio": "Learn cloud ☁️ and make it rain! 🤑",
+        "linkedin": "markosluga",
+        "website": "https://markocloud.com",
+        "avatar": "/avatars/marko-orange2.png"
+    },
+    {
+        "name": "José E. Vera",
+        "github": "jose-emilio",
+        "certs": [
+            "awstronaut"
+        ],
+        "city": "Madrid",
+        "country": "Spain",
+        "date": "2025-04-16",
+        "bio": "Champion AWS Authorized Instructor | AWS Community Builder",
+        "linkedin": "joseemiliovera",
+        "avatar": "/avatars/JoseEmilioVera.png"
+    },
+    {
+        "name": "Nishith Shah",
+        "github": "nishithshah1990-hash",
+        "certs": [
+            "awstronaut"
+        ],
+        "city": "New York",
+        "country": "USA",
+        "date": "2025-01-13",
+        "bio": "DevOps/Delivery Lead Manager @ Accenture, ISC2 | 14x AWS | 2x Azure | 2x ServiceNow | 2x Salesforce AI | Databricks GenAI Certified | GCP Certified | Terraform Certified | 6x Databricks Accredited",
+        "linkedin": "nishithshah90",
+        "website": "",
+        "avatar": "/avatars/Nishith.jpg"
+    },
+    {
+        "name": "John Hite",
+        "github": "john916",
+        "certs": [
+            "awstronaut"
+        ],
+        "city": "Folsom",
+        "country": "USA",
+        "date": "2025-05-09",
+        "bio": "AWS Golden Jacket",
+        "linkedin": "john-hite-mscsia-cissp-pmp-ceh-enp-026239208",
+        "website": "",
+        "avatar": "/avatars/JohnHite.jpg"
+    },
+    {
+        "name": "Jaswinder Singh Bhui",
+        "github": "jaswinderbhui",
+        "certs": [
+            "awstronaut"
+        ],
+        "city": "Dallas",
+        "country": "USA",
+        "date": "2025-05-02",
+        "bio": "Senior Delivery Executive | Digital Transformation & Cloud Migration Specialist | Technology Sales Leader | AI, ML & Gen AI Innovator | Multi-Certified Professional",
+        "linkedin": "jaswinderbhui",
+        "website": "",
+        "avatar": "/avatars/JaswinderPic2025.jpg"
+    },
+    {
+        "name": "Jin Ming Cheong",
+        "github": "jmcheong85",
+        "certs": [
+            "awstronaut"
+        ],
+        "city": "Kuala Lumpur",
+        "country": "Malaysia",
+        "date": "2025-02-11",
+        "bio": "AWS Golden Jacket",
+        "linkedin": "cheong-jin-ming",
+        "website": "",
+        "avatar": "/avatars/jin.jpg"
+    },
+    {
+        "name": "Ravi Nandru",
+        "certs": [
+            "awstronaut"
+        ],
+        "city": "Boston",
+        "country": "USA",
+        "date": "2025-05-05",
+        "linkedin": "ravinandru",
+        "avatar": "/avatars/Ravi.jpg"
+    },
+    {
+        "name": "Mohamed BENALI",
+        "certs": [
+            "awstronaut"
+        ],
+        "city": "Antibes",
+        "country": "France",
+        "bio": "Cloud & Devops Engineer | AWS Solution Architect (AWS Golden Jacket)",
+        "date": "2025-04-29",
+        "linkedin": "mohamed-benali-ba70426a",
+        "avatar": "/avatars/MohamedBenali.jpg"
+    },
+    {
+        "name": "Ernesto Larios",
+        "github": "ernestol0817",
+        "certs": [
+            "awstronaut"
+        ],
+        "city": "Denver",
+        "country": "USA",
+        "date": "2025-01-22",
+        "bio": "AI Ambassador & Principal Architect - Bridging Builders and Boardrooms",
+        "linkedin": "ernestolarios",
+        "website": "",
+        "avatar": "/avatars/ernestolarios.jpg"
+    },
+    {
+        "name": "Pragesh Trivedi",
+        "certs": [
+            "awstronaut",
+            "kubestronaut"
+        ],
+        "city": "Abu Dhabi",
+        "country": "United Arab Emirates",
+        "date": "2025-05-17",
+        "linkedin": "prageshtrivedi",
+        "avatar": "/avatars/tpragesh.png"
+    },
+    {
+        "name": "Kimi Huang",
+        "github": "shiningmosquito",
+        "certs": [
+            "awstronaut",
+            "kubestronaut"
+        ],
+        "city": "Kaohsiung",
+        "country": "Taiwan",
+        "date": "2024-06-17",
+        "linkedin": "yu-lin-huang-b2096a87",
+        "avatar": "/avatars/kimihuang.png"
+    },
+    {
+        "name": "Adeyemi Alatishe",
+        "github": "archyemi",
+        "certs": [
+            "awstronaut"
+        ],
+        "city": "Peterborough",
+        "country": "United Kingdom",
+        "date": "2024-10-28",
+        "bio": "Senior Manager, Technology Services @ Wipro | AWStronaut (12x AWS) | AWS SME | 2x Azure | 3x GCP | Quantic CTO",
+        "linkedin": "adeyemi-alatishe",
+        "avatar": "/avatars/adeyemi-alatishe.jpeg"
+    },
+    {
+        "name": "Mai Nishitani",
+        "github": "electrokat",
+        "certs": [
+            "awstronaut"
+        ],
+        "city": "Brisbane",
+        "country": "Australia",
+        "date": "2025-06-02",
+        "linkedin": "mai-nishitani",
+        "avatar": "/avatars/mainishitani.png"
+    },
+    {
+        "name": "Harry Mylonas",
+        "github": "hmylonas",
+        "certs": [
+            "awstronaut"
+        ],
+        "city": "Athens",
+        "country": "Greece",
+        "date": "2025-01-13",
+        "bio": "AWS SME | Cloud & Big Data Strategist | Driving TCO Optimisation & Mission-Critical Innovation | Architect of the AVSI - IARMF Framework",
+        "twitter": "h_mylonas",
+        "linkedin": "hmylonas",
+        "website": "https://www.linkedin.com/newsletters/7291574782074970114/",
+        "avatar": "/avatars/harry_mylonas.png"
+    },
+    {
+        "name": "Ankit Haseeja",
+        "github": "Ankit-Haseeja",
+        "certs": [
+            "awstronaut"
+        ],
+        "city": "Bareilly",
+        "country": "India",
+        "date": "2024-06-14",
+        "bio": "Cloud Engineer at AWS",
+        "linkedin": "ankithaseeja"
+    },
+    {
+        "name": "Yevhen Skyba",
+        "certs": [
+            "kubestrong",
+            "awstronaut"
+        ],
+        "city": "Kharkiv",
+        "country": "Ukraine",
+        "date": "2025-06-27",
+        "linkedin": "yevhen-skyba",
+        "avatar": "/avatars/yevhenskyba.jpg"
+    },
+    {
+        "name": "Maxim Filipovich",
+        "certs": [
+            "awstronaut",
+            "kubestronaut"
+        ],
+        "city": "Warsaw",
+        "country": "Poland",
+        "date": "2025-06-27",
+        "linkedin": "maxim-filipovich-61771223",
+        "avatar": "/avatars/maximfilip.png"
+    },
+    {
+        "name": "Zwivhuya Lucky Khoza",
+        "certs": [
+            "awstronaut"
+        ],
+        "city": "Pretoria",
+        "country": "South Africa",
+        "date": "2025-06-04",
+        "linkedin": "zwivhuya-khoza-733982101",
+        "avatar": "/avatars/zwivhuya.jpeg"
+    },
+    {
+        "name": "Sai Vivek Potnuru",
+        "github": "saivivekpotnuru",
+        "certs": [
+            "awstronaut"
+        ],
+        "city": "Hyderabad",
+        "country": "India",
+        "date": "2025-06-19",
+        "bio": "Operations Engineer at AWS",
+        "avatar": "/avatars/SaivivekPotnuru.png",
+        "linkedin": "saivivekpotnuru"
+    },
+    {
+        "name": "Adit Modi",
+        "github": "AditModi",
+        "certs": [
+            "awstronaut"
+        ],
+        "city": "Bengaluru",
+        "country": "India",
+        "date": "2025-01-13",
+        "bio": "Solution Architect at Lauren",
+        "avatar": "/avatars/AditModi.jpg",
+        "linkedin": "adit-n-modi"
+    },
+    {
+        "name": "Mankwong Chi",
+        "github": "mankwongchi",
+        "certs": [
+            "awstronaut"
+        ],
+        "city": "Tokyo",
+        "country": "Japan",
+        "date": "2025-07-08",
+        "avatar": "/avatars/mankwongchi.jpg",
+        "linkedin": "mankwongchi"
+    },
+    {
+        "name": "Luis Miguel Bastante Quijano",
+        "github": "lumibasqui",
+        "certs": [
+            "awstronaut"
+        ],
+        "city": "Albacete",
+        "country": "Spain",
+        "date": "2025-06-30",
+        "bio": "AWS Cloud CoE Architect & CCA Lead at Capgemini",
+        "linkedin": "luis-miguel-bastante-quijano",
+        "avatar": "/avatars/LuismiBastante.png"
+    },
+    {
+        "name": "Will Laws",
+        "github": "jeeshofone",
+        "certs": [
+            "awstronaut"
+        ],
+        "city": "Sydney",
+        "country": "Australia",
+        "date": "2025-04-01",
+        "bio": "Senior Solutions Architect @AWS | 12 AWS Certs in 12 weeks | re:Invent Speaker | Startup Co-founder",
+        "linkedin": "lwsw",
+        "website": "https://www.123cloud.st",
+        "avatar": "/avatars/willlaws.png"
+    },
+    {
+        "name": "Angelo Mao",
+        "github": "angelomao",
+        "certs": [
+            "awstronaut"
+        ],
+        "city": "Hong Kong Island",
+        "country": "Hong Kong SAR",
+        "date": "2025-07-13",
+        "bio": "Infra Architect @ WKCDA | AWS Community Builder (Containers) | 13X AWS | 10X Azure | 8X GCP | 2X Splunk | CKA | Terraform",
+        "linkedin": "angelo-m-6b4a1951",
+        "avatar": "/avatars/angelomao.png"
+    },
+    {
+        "name": "Sviatoslav Hryb",
+        "github": "hrybs",
+        "certs": [
+            "awstronaut"
+        ],
+        "city": "New York",
+        "country": "USA",
+        "date": "2024-11-03",
+        "bio": "Software Engineer | Secure Development World Cup 2024 Winner | AWS Golden Jacket | 12X AWS Certified | 3X Oracle Java PRO Certified | VMware Spring PRO Certified",
+        "linkedin": "svhryb",
+        "avatar": "/avatars/sviatoslav_hryb.jpg"
+    },
+    {
+        "name": "Serhii Kaidalov",
+        "github": "wiseelf",
+        "certs": [
+            "awstronaut"
+        ],
+        "city": "Kamianets-Podilskyi",
+        "country": "Ukraine",
+        "date": "2025-07-13",
+        "linkedin": "serhii-kaidalov",
+        "website": "https://kaidalov.com",
+        "avatar": "/avatars/SerhiiKaidalov.jpg"
+    },
+    {
+        "name": "Alceu Conerado Neto",
+        "github": "alceuconerado",
+        "certs": [
+            "awstronaut"
+        ],
+        "city": "Curitiba",
+        "country": "Brazil",
+        "date": "2025-07-14",
+        "bio": "COO (Chief Operating Officer) | AWS Solutions Architect na DATI | 12x AWS Certified | AWS User Group Leader | AWS Architect",
+        "linkedin": "alceu-conerado-neto-0b4b6334",
+        "avatar": "/avatars/alceuconerado.jpg"
+    },
+    {
+        "name": "Ashutosh Upadhyay",
+        "github": "aupadh12",
+        "certs": [
+            "awstronaut"
+        ],
+        "city": "Antwerp",
+        "country": "Belgium",
+        "date": "2025-07-09",
+        "avatar": "/avatars/Ashutosh_Upadhyay.jpeg",
+        "linkedin": "ashutosh2206"
+    },
+    {
+        "name": "Jesus Alcoba Castillo",
+        "github": "jdalcoba",
+        "certs": [
+            "awstronaut"
+        ],
+        "city": "Sevilla",
+        "country": "Spain",
+        "date": "2025-07-30",
+        "bio": "Software Engineer Lead at Capgemini",
+        "linkedin": "jesus-alcoba-castillo",
+        "avatar": "/avatars/JesusAlcoba.png"
+    },
+    {
+        "name": "Boris Bradić",
+        "github": "borisbradic",
+        "certs": [
+            "awstronaut",
+            "kubestronaut"
+        ],
+        "city": "Kiseljak",
+        "country": "Bosnia and Herzegovina",
+        "date": "2025-08-16",
+        "bio": "DevOps Engineer focused on Kubernetes, containers, networking, and security. A continuous learner who likes to share knowledge and help others in the learning process. Member of the AWS Community Builders program in Containers category",
+        "twitter": "boris_bradic",
+        "linkedin": "borisbradic",
+        "avatar": "/avatars/borisbradic.jpg"
+    },
+    {
+        "name": "Makendran G",
+        "github": "MakendranG",
+        "certs": [
+            "awstronaut"
+        ],
+        "city": "Pondicherry",
+        "country": "India",
+        "date": "2025-01-08",
+        "bio": "AWS Community Star | Multi Cloud Certified | 12x AWS | 18x Azure | 4x GCP | 1x IBM | 1x OCI | MCSA | Blogger | Youtuber | Cloud Support Eng II (DMI)",
+        "twitter": "MakendranG",
+        "linkedin": "makendran",
+        "website": "https://bio.link/makendran",
+        "avatar": "/avatars/Makendran.png"
+    },
+    {
+        "name": "Phyllis Tarisai Madaba",
+        "github": "kyptonian",
+        "certs": [
+            "awstronaut"
+        ],
+        "city": "Johannesburg",
+        "country": "South Africa",
+        "date": "2025-09-08",
+        "bio": "AWS Community Builder | Multi Cloud Certified | 13x AWS | DevSecOps Engineer | Amazon Q Champion | AWS User Group Leader",
+        "linkedin": "phyllis-m-15a8945a",
+        "avatar": "/avatars/phyllism.png"
+    },
+    {
+        "name": "Samsul Adam M",
+        "github": "samsulcloud",
+        "certs": [
+            "awstronaut"
+        ],
+        "city": "Bayan Lepas,Penang,Malaysia",
+        "country": "Malaysia",
+        "date": "2025-01-14",
+        "bio": "AWStronaut | AWS Community Builder | Malaysia's 2nd Goldent Jacket Recipient | Multi Cloud Certified | 12x AWS | 1x Azure | 1x GCP | 1x Aviatrix | 1x GitHub | VMWare VCP | Blogger | Mentor | Multi Cloud Architect",
+        "linkedin": "samsuladam",
+        "avatar": "/avatars/samsulcloud.jpeg"
+    }
 ]
