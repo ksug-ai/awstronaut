@@ -792,19 +792,19 @@
     "avatar": "/avatars/borisbradic.jpg"
   },
   {
-  "name": "Makendran G",
-  "github": "MakendranG",
-  "certs": ["awstronaut"],
-  "city": "Pondicherry",
-  "country": "India",
-  "date": "2025-01-08",
-  "bio": "AWS Community Star | Multi Cloud Certified | 12x AWS | 18x Azure | 4x GCP | 1x IBM | 1x OCI | MCSA | Blogger | Youtuber | Cloud Support Eng II (DMI)",
-  "twitter": "MakendranG",
-  "linkedin": "makendran",
-  "website": "https://bio.link/makendran",
-  "avatar": "/avatars/Makendran.png"
-},
-{
+    "name": "Makendran G",
+    "github": "MakendranG",
+    "certs": ["awstronaut"],
+    "city": "Pondicherry",
+    "country": "India",
+    "date": "2025-01-08",
+    "bio": "AWS Community Star | Multi Cloud Certified | 12x AWS | 18x Azure | 4x GCP | 1x IBM | 1x OCI | MCSA | Blogger | Youtuber | Cloud Support Eng II (DMI)",
+    "twitter": "MakendranG",
+    "linkedin": "makendran",
+    "website": "https://bio.link/makendran",
+    "avatar": "/avatars/Makendran.png"
+  },
+  {
   "name": "Phyllis Tarisai Madaba",
   "github": "kyptonian",
   "certs": ["awstronaut"],
@@ -814,15 +814,28 @@
   "bio": "AWS Community Builder | Multi Cloud Certified | 13x AWS | DevSecOps Engineer | Amazon Q Champion | AWS User Group Leader",
   "linkedin": "phyllis-m-15a8945a",
   "avatar": "/avatars/phyllism.png"
-},
-{
-  "name": "Vadim Sorokin",
-  "certs": ["awstronaut"],
-  "city": "Minsk",
-  "country": "Belarus",
-  "date": "2025-09-11",
-  "bio": "Solutions Architect | 14x AWS certified",
-  "linkedin": "vadim-sorokin-b34772153",
-  "avatar": "/avatars/vadimsorokin.png"
-}
+  },
+  {
+    "name": "Vadim Sorokin",
+    "certs": ["awstronaut"],
+    "city": "Minsk",
+    "country": "Belarus",
+    "date": "2025-09-11",
+    "bio": "Solutions Architect | 14x AWS certified",
+    "linkedin": "vadim-sorokin-b34772153",
+    "avatar": "/avatars/vadimsorokin.png"
+  },
+  {
+    "name": "Samsul Adam M",
+    "github": "samsulcloud",
+    "certs": [
+      "awstronaut"
+    ],
+    "city": "Bayan Lepas,Penang,Malaysia",
+    "country": "Malaysia",
+    "date": "2025-01-14",
+    "bio": "AWStronaut | AWS Community Builder | Malaysia's 2nd Goldent Jacket Recipient | Multi Cloud Certified | 12x AWS | 1x Azure | 1x GCP | 1x Aviatrix | 1x GitHub | VMWare VCP | Blogger | Mentor | Multi Cloud Architect",
+    "linkedin": "samsuladam",
+    "avatar": "/avatars/samsulcloud.png"
+  }
 ]
