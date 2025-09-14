@@ -851,5 +851,17 @@
     "bio": "Golden Kubestronaut | Golden kubestrong | Awstronaut | 13x AWS | 12x Azure | 7x GCP",
     "linkedin": "anapedra",
     "avatar": "/avatars/anapedra.jpeg"
+  },
+  {
+    "name": "Dmytro Sirant",
+    "github": "sirantd",
+    "certs": ["awstronaut"],
+    "city": "Gold Coast",
+    "country": "Australia",
+    "date": "2024-10-16",
+    "bio": "AWS Community Builder | 15x AWS Certified | AWS UG Gold Coast Leader",
+    "linkedin": "dmytro-sirant",
+    "website": "https://sirantd.com",
+    "avatar": "/avatars/DmytroSirant.jpeg"
   }
 ]
