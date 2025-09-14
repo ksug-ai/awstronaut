@@ -837,5 +837,19 @@
     "bio": "AWStronaut | AWS Community Builder | Malaysia's 2nd Goldent Jacket Recipient | Multi Cloud Certified | 12x AWS | 1x Azure | 1x GCP | 1x Aviatrix | 1x GitHub | VMWare VCP | Blogger | Mentor | Multi Cloud Architect",
     "linkedin": "samsuladam",
     "avatar": "/avatars/samsulcloud.png"
+  },
+  {
+    "name": "Ana Pedra",
+    "certs": [
+      "awstronaut",
+      "kubestronaut",
+      "golden kubestronaut"
+    ],
+    "city": "Zurich",
+    "country": "Switzerland",
+    "date": "2025-08-26",
+    "bio": "Golden Kubestronaut | Golden kubestrong | Awstronaut | 13x AWS | 12x Azure | 7x GCP",
+    "linkedin": "anapedra",
+    "avatar": "/avatars/anapedra.jpeg"
   }
 ]
