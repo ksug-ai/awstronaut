@@ -853,11 +853,20 @@
     "avatar": "/avatars/anapedra.jpeg"
   },
   {
+    "name": "Martin Nanchev",
+    "github": "nanchmar-flutterint",
+    "certs": ["awstronaut"],
+    "city": "Sofia",
+    "country": "Bulgaria",
+    "date": "2024-07-01",
+    "bio": "ⒶⓌⓈ Cloud Consultant | 13 x AWS Certified | AWS Community Builder | AWS SME | AWS Authorized Instructor Alumni",
+    "linkedin": "martin-nanchev-97063166",
+    "avatar": "/avatars/martinnanchev.jpeg"
+  },
+  {  
     "name": "Chibuike Nwachukwu",
     "github": "chyke007",
-    "certs": [
-      "awstronaut"
-    ],
+    "certs": ["awstronaut"],
     "city": "Lagos",
     "country": "Nigeria",
     "date": "2024-11-29",
