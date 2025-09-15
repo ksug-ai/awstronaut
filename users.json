@@ -851,5 +851,18 @@
     "bio": "Golden Kubestronaut | Golden kubestrong | Awstronaut | 13x AWS | 12x Azure | 7x GCP",
     "linkedin": "anapedra",
     "avatar": "/avatars/anapedra.jpeg"
+  },
+  {
+    "name": "Chibuike Nwachukwu",
+    "github": "chyke007",
+    "certs": [
+      "awstronaut"
+    ],
+    "city": "Lagos",
+    "country": "Nigeria",
+    "date": "2024-11-29",
+    "bio": "AWS Community Builder | 13x AWS | Software Engineer | Technical Writer",
+    "linkedin": "chibuikenwachukwu",
+    "avatar": "/avatars/chibuike.jpg"
   }
 ]
