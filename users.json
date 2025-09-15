@@ -862,5 +862,16 @@
     "bio": "ⒶⓌⓈ Cloud Consultant | 13 x AWS Certified | AWS Community Builder | AWS SME | AWS Authorized Instructor Alumni",
     "linkedin": "martin-nanchev-97063166",
     "avatar": "/avatars/martinnanchev.jpeg"
+  },
+  {  
+    "name": "Chibuike Nwachukwu",
+    "github": "chyke007",
+    "certs": ["awstronaut"],
+    "city": "Lagos",
+    "country": "Nigeria",
+    "date": "2024-11-29",
+    "bio": "AWS Community Builder | 13x AWS | Software Engineer | Technical Writer",
+    "linkedin": "chibuikenwachukwu",
+    "avatar": "/avatars/chibuike.jpg"
   }
 ]
