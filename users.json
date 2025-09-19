@@ -885,5 +885,15 @@
     "bio": "AWS Community Builder | 13x AWS | Software Engineer | Technical Writer",
     "linkedin": "chibuikenwachukwu",
     "avatar": "/avatars/chibuike.jpg"
+  },
+  {
+    "name": "Amar Begluk",
+    "certs": ["awstronaut"],
+    "city": "Sarajevo",
+    "country": "Bosnia and Herzegovina",
+    "date": "2025-09-01",
+    "bio": "12x AWS Certified consultant bridging technology and business. I design cost-aware, resilient AWS architectures, aligning engineering with revenue, margins, and CX to cut spend, increase reliability, and accelerate delivery.",
+    "linkedin": "amar-begluk",
+    "avatar": "/avatars/Amar-Begluk.jpg"
   }
 ]
