@@ -895,5 +895,17 @@
     "bio": "12x AWS Certified consultant bridging technology and business. I design cost-aware, resilient AWS architectures, aligning engineering with revenue, margins, and CX to cut spend, increase reliability, and accelerate delivery.",
     "linkedin": "amar-begluk",
     "avatar": "/avatars/Amar-Begluk.jpg"
+  },
+  {
+    "name": "Justin Wheeler",
+    "github": "wheeleruniverse",
+    "certs": ["awstronaut"],
+    "city": "Grand Rapids",
+    "country": "USA",
+    "date": "2025-09-15",
+    "bio": "AWS Community Builder and Senior Software Developer at Bravo LT",
+    "linkedin": "wheeleruniverse",
+    "website": "https://wheeleruniverse.com/",
+    "twitter": "wheeleruniverse"
   }
 ]
