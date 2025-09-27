@@ -907,5 +907,17 @@
     "linkedin": "wheeleruniverse",
     "website": "https://wheeleruniverse.com/",
     "twitter": "wheeleruniverse"
+  },
+  {
+    "name": "Ivan Kopas",
+    "github": "ikopas",
+    "certs": ["awstronaut"],
+    "city": "Alexandria",
+    "country": "USA",
+    "date": "2025-09-27",
+    "bio": "AI/ML Specialist | Sr. Technical Instructor @AWS | re:Invent Speaker",
+    "linkedin": "ikopas",
+    "youtube": "ikopas",
+    "avatar": "/avatars/IvanKopas.png"
   }
 ]
