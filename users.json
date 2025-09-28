@@ -813,16 +813,16 @@
     "bio": "AWS Community Builder | 12x AWS Certified | Senior Devops Engineer | Cloud Solutions Architect",
     "linkedin": "stephane-noutsa",
     "avatar": "/avatars/stephane-noutsa.png"
-  }
+  },
   {
-  "name": “Fernando “Carrillo,
-  "github": “fernandocarrillo”,
-  "certs": ["awstronaut"],
-  "city": “Lima”,
-  "country": “Peru",
-  "date": "2025-09-27”,
-  "bio": "Technical Trainer at Amazon Web Services | Trainer Cloud Security Alliance at LATAM",
-  "linkedin": “fcarrillo1”,
-  "avatar": "/avatars/fernandocarrillo.png"
+    "name": "Fernando Carrillo",
+    "github": "fernandocarrillo",
+    "certs": ["awstronaut"],
+    "city": "Lima",
+    "country": "Peru",
+    "date": "2025-09-27",
+    "bio": "Technical Trainer at Amazon Web Services | Trainer Cloud Security Alliance at LATAM",
+    "linkedin": "fcarrillo1",
+    "avatar": "/avatars/fernandocarrillo.png"
   }
 ]
