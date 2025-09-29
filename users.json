@@ -804,6 +804,17 @@
     "twitter": "wheeleruniverse"
   },
   {
+    "name": "Ivan Kopas",
+    "github": "ikopas",
+    "certs": ["awstronaut"],
+    "city": "Alexandria",
+    "country": "USA",
+    "date": "2025-09-27",
+    "bio": "AI/ML Specialist | Sr. Technical Instructor @AWS | re:Invent Speaker",
+    "linkedin": "ikopas",
+    "avatar": "/avatars/IvanKopas.png"
+  },
+  {
     "name": "Stéphane Noutsa",
     "github": "stephanenoutsa",
     "certs": ["awstronaut", "CKA", "CKAD"],
