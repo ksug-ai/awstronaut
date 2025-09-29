@@ -824,5 +824,16 @@
     "bio": "Technical Trainer at Amazon Web Services | Trainer Cloud Security Alliance at LATAM",
     "linkedin": "fcarrillo1",
     "avatar": "/avatars/fernandocarrillo.png"
+  },
+  {
+    "name": "Clayton Russell",
+    "github": "claytonrussell",
+    "certs": ["awstronaut"],
+    "city": "Brisbane",
+    "country": "Australia",
+    "date": "2024-11-08",
+    "bio": "Principal Systems Engineer | 12x AWS Certifications | AWS, Linux, DevOps, SRE",
+    "linkedin": "claytonrussell",
+    "avatar": "/avatars/claytonrussell.png"
   }
 ]
