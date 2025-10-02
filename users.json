@@ -846,5 +846,16 @@
     "bio": "Principal Systems Engineer | 12x AWS Certifications | AWS, Linux, DevOps, SRE",
     "linkedin": "claytonrussell",
     "avatar": "/avatars/claytonrussell.png"
+  },
+  {
+    "name": "Kelvin Igbineweka",
+    "github": "buildwithbrainyl",
+    "certs": ["awstronaut"],
+    "city": "Toronto",
+    "country": "Canada",
+    "date": "2025-08-03",
+    "bio": "Senior DevOps Engineer | 12X AWS Certified | Specialist in Scalable Infrastructure and Automation",
+    "linkedin": "brainyl",
+    "avatar": "/avatars/kelvin_igbineweka.png"
   }
 ]
