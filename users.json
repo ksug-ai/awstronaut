@@ -846,5 +846,17 @@
     "bio": "Principal Systems Engineer | 12x AWS Certifications | AWS, Linux, DevOps, SRE",
     "linkedin": "claytonrussell",
     "avatar": "/avatars/claytonrussell.png"
+  },
+  {
+    "name": "Cristhian Becerra",
+    "github": "cbecerrae",
+    "certs": ["awstronaut"],
+    "city": "Lima",
+    "country": "Peru",
+    "date": "2025-08-09",
+    "bio": "Cloud DevOps Engineer | AWS Golden Jacket | AWS Certified x13 | Solutions Architect | Industrial and Systems Engineer",
+    "linkedin": "cristhian-becerra-espinoza",
+    "website": "https://www.credly.com/users/cristhian-becerra-espinoza",
+    "avatar": "/avatars/cbecerrae.jpeg"
   }
 ]
