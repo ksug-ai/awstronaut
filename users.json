@@ -858,5 +858,17 @@
     "linkedin": "cristhian-becerra-espinoza",
     "website": "https://www.credly.com/users/cristhian-becerra-espinoza",
     "avatar": "/avatars/cbecerrae.jpeg"
+  },
+  {
+    "name": "Kelvin Igbineweka",
+    "github": "buildwithbrainyl",
+    "certs": ["awstronaut"],
+    "city": "Toronto",
+    "country": "Canada",
+    "date": "2025-08-03",
+    "bio": "Senior DevOps Engineer | 12X AWS Certified | Specialist in Scalable Infrastructure and Automation",
+    "linkedin": "brainyl",
+    "website": "https://www.brainyl.cloud/",
+    "avatar": "/avatars/kelvin_igbineweka.png"
   }
 ]
