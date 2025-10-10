@@ -870,5 +870,17 @@
     "linkedin": "brainyl",
     "website": "https://www.brainyl.cloud/",
     "avatar": "/avatars/kelvin_igbineweka.png"
-  }
+  },
+  {
+    "name": "Alan Blockley",
+    "github": "alanblockley",
+    "certs": ["awstronaut"],
+    "city": "Brisbane",
+    "country": "Australia",
+    "date": "2023-12-13",
+    "bio": "AWS Evangelist & Tech Nut! | Solution Architect at Thoughtworks | AWS Ambassador | AWS Community Builder | AWS Certification SME (Associate) | re:Invent Speaker | AWS Community Day Australia 2025 Coordinator",
+    "linkedin": "alan-blockley",
+    "website": "https://alan.dbla.tech",
+    "avatar": "/avatars/alanblockley.jpg"
+  }  
 ]
