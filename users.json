@@ -126,7 +126,7 @@
   },
   {
     "name": "V-ris Jaijongrak",
-    "certs": ["awstronaut", "kubestronaut"],
+    "certs": ["golden kubestrong", "awstronaut", "golden kubestronaut"],
     "city": "Bangkok",
     "country": "Thailand",
     "date": "2025-05-05",
@@ -135,7 +135,7 @@
   },
   {
     "name": "Eric Schüler",
-    "certs": ["awstronaut", "kubestronaut"],
+    "certs": ["golden kubestrong", "awstronaut", "golden kubestronaut"],
     "city": "Nuremberg",
     "country": "Germany",
     "date": "2025-05-05",
@@ -291,7 +291,7 @@
   {
     "name": "Allen R. Chan",
     "github": "allenrchan",
-    "certs": ["awstronaut", "kubestronaut", "golden kubestronaut"],
+    "certs": ["golden kubestrong", "awstronaut", "golden kubestronaut"],
     "city": "Sunnyvale",
     "country": "USA",
     "date": "2025-05-17",
