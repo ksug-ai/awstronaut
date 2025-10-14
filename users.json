@@ -882,5 +882,16 @@
     "linkedin": "alan-blockley",
     "website": "https://alan.dbla.tech",
     "avatar": "/avatars/alanblockley.jpg"
+  },
+  {
+    "name": "Ram Dubey",
+    "github": "Ram1814",
+    "certs": ["awstronaut"],
+    "city": "Indore",
+    "country": "India",
+    "date": "2025-09-21",
+    "bio": "Solutions Architect at ScaleCapacity | Earned Golden Jacket at 22 (Age) - Being one of the youngest to achieve it|",
+    "linkedin": "ramdubey14",
+    "avatar": "/avatars/ram.jpg"
   }  
 ]
