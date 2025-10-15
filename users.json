@@ -905,5 +905,16 @@
     "linkedin": "duc-anh-luu",
     "website": "https://www.credly.com/users/anh-luu-duc/",
     "avatar": "/avatars/ducanhluu.jpg"
+ },
+ {
+    "name": "Parfait ONDOBO",
+    "github": "ONDOBSON",
+    "certs": ["awstronaut"],
+    "city": "Paris",
+    "country": "France",
+    "date": "2025-08-14",
+    "bio": "Onepoint AWS Community | Engie AWS Expert Community | awstronaut",
+    "linkedin": "parfait-ondobo-888b5022",
+    "avatar": "/avatars/ONDOBO.png"
  }
 ]
