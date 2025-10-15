@@ -893,5 +893,17 @@
     "bio": "Solutions Architect at ScaleCapacity | Earned Golden Jacket at 22 (Age) - Being one of the youngest to achieve it|",
     "linkedin": "ramdubey14",
     "avatar": "/avatars/ram.jpg"
-  }  
+  },
+  {
+    "name": "Duc Anh Luu",
+    "github": "ducanhmit",
+    "certs": ["awstronaut", "kubestronaut"],
+    "city": "Hanoi",
+    "country": "Vietnam",
+    "date": "2025-10-12",
+    "bio": "Solutions Architect | CISSP | PMP | 12x AWS Certified | Kubestronaut | Passionate about Cloud Security & Architecture",
+    "linkedin": "duc-anh-luu",
+    "website": "https://www.credly.com/users/anh-luu-duc/",
+    "avatar": "/avatars/ducanhluu.jpg"
+ }
 ]
