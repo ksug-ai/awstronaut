@@ -1,17 +1,17 @@
 [
-    {
-    "name": "Phillip Prudencio",
-    "github": "phillipprudencio",
-    "certs": ["awstronaut"],
-    "city": "Belo Horizonte",
-    "country": "Brazil",
-    "date": "2025-06-1530",
-    "bio": " awstronaut | AWS Builder | AWS Golden Jacket | Multi-Cloud | philtecnologia",
-    "twitter": "",
-    "linkedin": "phillip-prudencio",
-    "website": "",
-    "avatar": "/avatars/phillip-prudencio.jpeg"
-  },
+{
+  "name": "Phillip Prudencio",
+  "github": "phillipprudencio",
+  "certs": ["awstronaut"],
+  "city": "Belo Horizonte",
+  "country": "Brazil",
+  "date": "2025-06-15",
+  "bio": "awstronaut | AWS Builder | AWS Golden Jacket | Multi-Cloud | philtecnologia",
+  "twitter": "E_phillip",
+  "linkedin": "phillip-prudencio",
+  "website": "",
+  "avatar": "/avatars/phillipprudencio.jpeg"
+},
   {
     "name": "Yujun Liang",
     "github": "yujunliang",
