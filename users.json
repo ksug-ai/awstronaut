@@ -2,7 +2,11 @@
   {
     "name": "Yujun Liang",
     "github": "yujunliang",
-    "certs": ["golden kubestrong", "awstronaut", "golden kubestronaut"],
+    "certs": [
+      "golden kubestrong",
+      "awstronaut",
+      "golden kubestronaut"
+    ],
     "city": "Dallas",
     "country": "USA",
     "date": "2024-07-01",
@@ -15,7 +19,10 @@
   {
     "name": "Yongkang He",
     "github": "yongkanghe",
-    "certs": ["awstronaut", "kubestronaut"],
+    "certs": [
+      "awstronaut",
+      "kubestronaut"
+    ],
     "city": "Melbourne",
     "country": "Australia",
     "date": "2024-07-01",
@@ -27,7 +34,10 @@
   },
   {
     "name": "Dennis John",
-    "certs": ["awstronaut", "kubestronaut"],
+    "certs": [
+      "awstronaut",
+      "kubestronaut"
+    ],
     "city": "Canberra",
     "country": "Australia",
     "date": "2025-05-05",
@@ -36,7 +46,10 @@
   },
   {
     "name": "Leonid Kopylov",
-    "certs": ["awstronaut", "kubestronaut"],
+    "certs": [
+      "awstronaut",
+      "kubestronaut"
+    ],
     "city": "Ashkelon",
     "country": "Israel",
     "date": "2025-05-05",
@@ -45,7 +58,10 @@
   },
   {
     "name": "Bangaly KABA, PhD",
-    "certs": ["awstronaut", "kubestronaut"],
+    "certs": [
+      "awstronaut",
+      "kubestronaut"
+    ],
     "city": "Paris",
     "country": "France",
     "date": "2025-05-05",
@@ -54,7 +70,10 @@
   },
   {
     "name": "Sammy Cheung",
-    "certs": ["awstronaut", "kubestronaut"],
+    "certs": [
+      "awstronaut",
+      "kubestronaut"
+    ],
     "city": "Austin",
     "country": "USA",
     "date": "2025-05-05",
@@ -63,7 +82,10 @@
   },
   {
     "name": "Stanislav Kolenkin",
-    "certs": ["awstronaut", "kubestronaut"],
+    "certs": [
+      "awstronaut",
+      "kubestronaut"
+    ],
     "city": "Warsaw",
     "country": "Poland",
     "date": "2025-05-05",
@@ -72,7 +94,10 @@
   },
   {
     "name": "Bolivar David Llerena Fuenmayor",
-    "certs": ["awstronaut", "kubestronaut"],
+    "certs": [
+      "awstronaut",
+      "kubestronaut"
+    ],
     "city": "Quito",
     "country": "Ecuador",
     "date": "2025-05-05",
@@ -81,7 +106,10 @@
   },
   {
     "name": "Shinji AIBARA",
-    "certs": ["awstronaut", "kubestronaut"],
+    "certs": [
+      "awstronaut",
+      "kubestronaut"
+    ],
     "city": "Fujisawa",
     "country": "Japan",
     "date": "2025-05-05",
@@ -90,7 +118,10 @@
   },
   {
     "name": "Junichi Miyagawa",
-    "certs": ["awstronaut", "kubestronaut"],
+    "certs": [
+      "awstronaut",
+      "kubestronaut"
+    ],
     "city": "Tokyo",
     "country": "Japan",
     "date": "2025-05-05",
@@ -99,7 +130,10 @@
   },
   {
     "name": "Geoff Loh",
-    "certs": ["awstronaut", "kubestronaut"],
+    "certs": [
+      "awstronaut",
+      "kubestronaut"
+    ],
     "city": "Auckland",
     "country": "New Zealand",
     "date": "2025-05-05",
@@ -108,7 +142,10 @@
   },
   {
     "name": "Jason Khoi",
-    "certs": ["awstronaut", "kubestronaut"],
+    "certs": [
+      "awstronaut",
+      "kubestronaut"
+    ],
     "city": "Melbourne",
     "country": "Australia",
     "date": "2025-05-05",
@@ -117,7 +154,10 @@
   },
   {
     "name": "Ihor Matsapura",
-    "certs": ["awstronaut", "kubestronaut"],
+    "certs": [
+      "awstronaut",
+      "kubestronaut"
+    ],
     "city": "Kyiv",
     "country": "Ukraine",
     "date": "2025-05-05",
@@ -126,7 +166,11 @@
   },
   {
     "name": "V-ris Jaijongrak",
-    "certs": ["golden kubestrong", "awstronaut", "golden kubestronaut"],
+    "certs": [
+      "golden kubestrong",
+      "awstronaut",
+      "golden kubestronaut"
+    ],
     "city": "Bangkok",
     "country": "Thailand",
     "date": "2025-05-05",
@@ -135,7 +179,11 @@
   },
   {
     "name": "Eric Schüler",
-    "certs": ["golden kubestrong", "awstronaut", "golden kubestronaut"],
+    "certs": [
+      "golden kubestrong",
+      "awstronaut",
+      "golden kubestronaut"
+    ],
     "city": "Nuremberg",
     "country": "Germany",
     "date": "2025-05-05",
@@ -144,7 +192,10 @@
   },
   {
     "name": "Yuriy Bezsonov",
-    "certs": ["awstronaut", "kubestronaut"],
+    "certs": [
+      "awstronaut",
+      "kubestronaut"
+    ],
     "city": "Paderborn",
     "country": "Germany",
     "date": "2025-05-05",
@@ -153,7 +204,10 @@
   },
   {
     "name": "Dinesh Singh Bisht",
-    "certs": ["awstronaut", "kubestronaut"],
+    "certs": [
+      "awstronaut",
+      "kubestronaut"
+    ],
     "city": "Helsinki",
     "country": "Finland",
     "date": "2025-05-05",
@@ -162,7 +216,9 @@
   },
   {
     "name": "Piotr Pabis",
-    "certs": ["awstronaut"],
+    "certs": [
+      "awstronaut"
+    ],
     "city": "Berlin",
     "country": "Germany",
     "date": "2025-02-17",
@@ -174,7 +230,9 @@
   },
   {
     "name": "Sebastian Spal",
-    "certs": ["awstronaut"],
+    "certs": [
+      "awstronaut"
+    ],
     "city": "Wellington",
     "country": "USA",
     "date": "2025-05-11",
@@ -184,7 +242,9 @@
   },
   {
     "name": "Kiyomasa Miyamoto",
-    "certs": ["awstronaut"],
+    "certs": [
+      "awstronaut"
+    ],
     "city": "Tokyo",
     "country": "Japan",
     "date": "2025-05-11",
@@ -195,7 +255,9 @@
   {
     "name": "Vishnu Rachapudi",
     "github": "aquavis12",
-    "certs": ["awstronaut"],
+    "certs": [
+      "awstronaut"
+    ],
     "city": "Hyderabad",
     "country": "India",
     "date": "2025-03-05",
@@ -206,7 +268,9 @@
   },
   {
     "name": "Gustavo Alejandro Romero Sanchez ",
-    "certs": ["awstronaut"],
+    "certs": [
+      "awstronaut"
+    ],
     "city": "La Paz",
     "country": "Bolivia",
     "date": "2025-05-12",
@@ -218,7 +282,9 @@
   {
     "name": "Prabhakaran Ravichandran",
     "github": "pbkn",
-    "certs": ["awstronaut"],
+    "certs": [
+      "awstronaut"
+    ],
     "city": "Chennai",
     "country": "India",
     "date": "2025-01-08",
@@ -230,7 +296,9 @@
   {
     "name": "Cristian Cortez",
     "github": "cortezcristian",
-    "certs": ["awstronaut"],
+    "certs": [
+      "awstronaut"
+    ],
     "city": "Dublin",
     "country": "Ireland",
     "date": "2025-01-18",
@@ -243,7 +311,9 @@
   {
     "name": "Vineethkumar Marpadge",
     "github": "vmarpadge",
-    "certs": ["awstronaut"],
+    "certs": [
+      "awstronaut"
+    ],
     "city": "Hyderabad",
     "country": "India",
     "date": "2025-03-21",
@@ -255,7 +325,9 @@
   {
     "name": "Bojan Sovilj",
     "github": "bojansovilj",
-    "certs": ["awstronaut"],
+    "certs": [
+      "awstronaut"
+    ],
     "city": "Belgrade",
     "country": "Serbia",
     "date": "2024-10-25",
@@ -268,7 +340,9 @@
   {
     "name": "Daniel Gaina",
     "github": "tz0py",
-    "certs": ["awstronaut"],
+    "certs": [
+      "awstronaut"
+    ],
     "city": "Cambridge",
     "country": "United Kingdom",
     "date": "2024-08-01",
@@ -280,7 +354,9 @@
   {
     "name": "Thilina Munasinghe",
     "github": "thilinamgit",
-    "certs": ["awstronaut"],
+    "certs": [
+      "awstronaut"
+    ],
     "city": "Singapore",
     "country": "Singapore",
     "date": "2025-01-18",
@@ -291,7 +367,11 @@
   {
     "name": "Allen R. Chan",
     "github": "allenrchan",
-    "certs": ["golden kubestrong", "awstronaut", "golden kubestronaut"],
+    "certs": [
+      "golden kubestrong",
+      "awstronaut",
+      "golden kubestronaut"
+    ],
     "city": "Sunnyvale",
     "country": "USA",
     "date": "2025-05-17",
@@ -303,7 +383,9 @@
   {
     "name": "Shaoyi Li",
     "github": "szl0144",
-    "certs": ["awstronaut"],
+    "certs": [
+      "awstronaut"
+    ],
     "city": "Jacksonville",
     "country": "USA",
     "date": "2025-05-19",
@@ -315,7 +397,9 @@
   {
     "name": "Jasbir Singh",
     "github": "jasbir84",
-    "certs": ["awstronaut"],
+    "certs": [
+      "awstronaut"
+    ],
     "city": "Eindhoven",
     "country": "Netherlands",
     "date": "2025-05-21",
@@ -326,7 +410,9 @@
   },
   {
     "name": "Oguzhan Hiziroglu",
-    "certs": ["awstronaut"],
+    "certs": [
+      "awstronaut"
+    ],
     "city": "Istanbul",
     "country": "Turkey",
     "date": "2023-09-08",
@@ -337,7 +423,9 @@
   {
     "name": "Colin Barker",
     "github": "mystcb",
-    "certs": ["awstronaut"],
+    "certs": [
+      "awstronaut"
+    ],
     "city": "Billingshurst",
     "country": "United Kingdom",
     "date": "2025-01-25",
@@ -349,7 +437,9 @@
   {
     "name": "Nizar Ajroud",
     "github": "nizarajroud",
-    "certs": ["awstronaut"],
+    "certs": [
+      "awstronaut"
+    ],
     "city": "Montreal",
     "country": "Canada",
     "date": "2025-05-16",
@@ -360,7 +450,9 @@
   {
     "name": "Jenn Bergstrom",
     "github": "jennbergs",
-    "certs": ["awstronaut"],
+    "certs": [
+      "awstronaut"
+    ],
     "city": "Denver",
     "country": "USA",
     "date": "2025-05-22",
@@ -371,7 +463,9 @@
   {
     "name": "Marko Sluga",
     "github": "markosluga",
-    "certs": ["awstronaut"],
+    "certs": [
+      "awstronaut"
+    ],
     "city": "Toronto",
     "country": "Canada",
     "date": "2025-01-16",
@@ -383,7 +477,9 @@
   {
     "name": "José E. Vera",
     "github": "jose-emilio",
-    "certs": ["awstronaut"],
+    "certs": [
+      "awstronaut"
+    ],
     "city": "Madrid",
     "country": "Spain",
     "date": "2025-04-16",
@@ -394,7 +490,9 @@
   {
     "name": "Nishith Shah",
     "github": "nishithshah1990-hash",
-    "certs": ["awstronaut"],
+    "certs": [
+      "awstronaut"
+    ],
     "city": "New York",
     "country": "USA",
     "date": "2025-01-13",
@@ -406,7 +504,9 @@
   {
     "name": "John Hite",
     "github": "john916",
-    "certs": ["awstronaut"],
+    "certs": [
+      "awstronaut"
+    ],
     "city": "Folsom",
     "country": "USA",
     "date": "2025-05-09",
@@ -418,7 +518,9 @@
   {
     "name": "Jaswinder Singh Bhui",
     "github": "jaswinderbhui",
-    "certs": ["awstronaut"],
+    "certs": [
+      "awstronaut"
+    ],
     "city": "Dallas",
     "country": "USA",
     "date": "2025-05-02",
@@ -430,7 +532,9 @@
   {
     "name": "Jin Ming Cheong",
     "github": "jmcheong85",
-    "certs": ["awstronaut"],
+    "certs": [
+      "awstronaut"
+    ],
     "city": "Kuala Lumpur",
     "country": "Malaysia",
     "date": "2025-02-11",
@@ -441,7 +545,9 @@
   },
   {
     "name": "Ravi Nandru",
-    "certs": ["awstronaut"],
+    "certs": [
+      "awstronaut"
+    ],
     "city": "Boston",
     "country": "USA",
     "date": "2025-05-05",
@@ -450,7 +556,9 @@
   },
   {
     "name": "Mohamed BENALI",
-    "certs": ["awstronaut"],
+    "certs": [
+      "awstronaut"
+    ],
     "city": "Antibes",
     "country": "France",
     "bio": "Cloud & Devops Engineer | AWS Solution Architect (AWS Golden Jacket)",
@@ -461,7 +569,9 @@
   {
     "name": "Ernesto Larios",
     "github": "ernestol0817",
-    "certs": ["awstronaut"],
+    "certs": [
+      "awstronaut"
+    ],
     "city": "Denver",
     "country": "USA",
     "date": "2025-01-22",
@@ -472,7 +582,10 @@
   },
   {
     "name": "Pragesh Trivedi",
-    "certs": ["awstronaut", "kubestronaut"],
+    "certs": [
+      "awstronaut",
+      "kubestronaut"
+    ],
     "city": "Abu Dhabi",
     "country": "United Arab Emirates",
     "date": "2025-05-17",
@@ -482,7 +595,10 @@
   {
     "name": "Kimi Huang",
     "github": "shiningmosquito",
-    "certs": ["awstronaut", "kubestronaut"],
+    "certs": [
+      "awstronaut",
+      "kubestronaut"
+    ],
     "city": "Kaohsiung",
     "country": "Taiwan",
     "date": "2024-06-17",
@@ -492,7 +608,9 @@
   {
     "name": "Adeyemi Alatishe",
     "github": "archyemi",
-    "certs": ["awstronaut"],
+    "certs": [
+      "awstronaut"
+    ],
     "city": "Peterborough",
     "country": "United Kingdom",
     "date": "2024-10-28",
@@ -503,7 +621,9 @@
   {
     "name": "Mai Nishitani",
     "github": "electrokat",
-    "certs": ["awstronaut"],
+    "certs": [
+      "awstronaut"
+    ],
     "city": "Brisbane",
     "country": "Australia",
     "date": "2025-06-02",
@@ -513,7 +633,9 @@
   {
     "name": "Harry Mylonas",
     "github": "hmylonas",
-    "certs": ["awstronaut"],
+    "certs": [
+      "awstronaut"
+    ],
     "city": "Athens",
     "country": "Greece",
     "date": "2025-01-13",
@@ -526,7 +648,9 @@
   {
     "name": "Ankit Haseeja",
     "github": "Ankit-Haseeja",
-    "certs": ["awstronaut"],
+    "certs": [
+      "awstronaut"
+    ],
     "city": "Bareilly",
     "country": "India",
     "date": "2024-06-14",
@@ -535,7 +659,10 @@
   },
   {
     "name": "Yevhen Skyba",
-    "certs": ["kubestrong", "awstronaut"],
+    "certs": [
+      "kubestrong",
+      "awstronaut"
+    ],
     "city": "Kharkiv",
     "country": "Ukraine",
     "date": "2025-06-27",
@@ -544,7 +671,10 @@
   },
   {
     "name": "Maxim Filipovich",
-    "certs": ["awstronaut", "kubestronaut"],
+    "certs": [
+      "awstronaut",
+      "kubestronaut"
+    ],
     "city": "Warsaw",
     "country": "Poland",
     "date": "2025-06-27",
@@ -553,7 +683,9 @@
   },
   {
     "name": "Zwivhuya Lucky Khoza",
-    "certs": ["awstronaut"],
+    "certs": [
+      "awstronaut"
+    ],
     "city": "Pretoria",
     "country": "South Africa",
     "date": "2025-06-04",
@@ -563,7 +695,9 @@
   {
     "name": "Sai Vivek Potnuru",
     "github": "saivivekpotnuru",
-    "certs": ["awstronaut"],
+    "certs": [
+      "awstronaut"
+    ],
     "city": "Hyderabad",
     "country": "India",
     "date": "2025-06-19",
@@ -574,7 +708,9 @@
   {
     "name": "Adit Modi",
     "github": "AditModi",
-    "certs": ["awstronaut"],
+    "certs": [
+      "awstronaut"
+    ],
     "city": "Bengaluru",
     "country": "India",
     "date": "2025-01-13",
@@ -585,7 +721,9 @@
   {
     "name": "Mankwong Chi",
     "github": "mankwongchi",
-    "certs": ["awstronaut"],
+    "certs": [
+      "awstronaut"
+    ],
     "city": "Tokyo",
     "country": "Japan",
     "date": "2025-07-08",
@@ -595,7 +733,9 @@
   {
     "name": "Luis Miguel Bastante Quijano",
     "github": "lumibasqui",
-    "certs": ["awstronaut"],
+    "certs": [
+      "awstronaut"
+    ],
     "city": "Albacete",
     "country": "Spain",
     "date": "2025-06-30",
@@ -606,7 +746,9 @@
   {
     "name": "Will Laws",
     "github": "jeeshofone",
-    "certs": ["awstronaut"],
+    "certs": [
+      "awstronaut"
+    ],
     "city": "Sydney",
     "country": "Australia",
     "date": "2025-04-01",
@@ -618,7 +760,9 @@
   {
     "name": "Angelo Mao",
     "github": "angelomao",
-    "certs": ["awstronaut"],
+    "certs": [
+      "awstronaut"
+    ],
     "city": "Hong Kong Island",
     "country": "Hong Kong SAR",
     "date": "2025-07-13",
@@ -629,7 +773,9 @@
   {
     "name": "Sviatoslav Hryb",
     "github": "hrybs",
-    "certs": ["awstronaut"],
+    "certs": [
+      "awstronaut"
+    ],
     "city": "New York",
     "country": "USA",
     "date": "2024-11-03",
@@ -640,7 +786,9 @@
   {
     "name": "Serhii Kaidalov",
     "github": "wiseelf",
-    "certs": ["awstronaut"],
+    "certs": [
+      "awstronaut"
+    ],
     "city": "Kamianets-Podilskyi",
     "country": "Ukraine",
     "date": "2025-07-13",
@@ -651,7 +799,9 @@
   {
     "name": "Alceu Conerado Neto",
     "github": "alceuconerado",
-    "certs": ["awstronaut"],
+    "certs": [
+      "awstronaut"
+    ],
     "city": "Curitiba",
     "country": "Brazil",
     "date": "2025-07-14",
@@ -662,7 +812,9 @@
   {
     "name": "Ashutosh Upadhyay",
     "github": "aupadh12",
-    "certs": ["awstronaut"],
+    "certs": [
+      "awstronaut"
+    ],
     "city": "Antwerp",
     "country": "Belgium",
     "date": "2025-07-09",
@@ -672,7 +824,9 @@
   {
     "name": "Jesus Alcoba Castillo",
     "github": "jdalcoba",
-    "certs": ["awstronaut"],
+    "certs": [
+      "awstronaut"
+    ],
     "city": "Sevilla",
     "country": "Spain",
     "date": "2025-07-30",
@@ -683,7 +837,10 @@
   {
     "name": "Boris Bradić",
     "github": "borisbradic",
-    "certs": ["awstronaut", "kubestronaut"],
+    "certs": [
+      "awstronaut",
+      "kubestronaut"
+    ],
     "city": "Kiseljak",
     "country": "Bosnia and Herzegovina",
     "date": "2025-08-16",
@@ -695,7 +852,9 @@
   {
     "name": "Makendran G",
     "github": "MakendranG",
-    "certs": ["awstronaut"],
+    "certs": [
+      "awstronaut"
+    ],
     "city": "Pondicherry",
     "country": "India",
     "date": "2025-01-08",
@@ -708,7 +867,9 @@
   {
     "name": "Phyllis Tarisai Madaba",
     "github": "kyptonian",
-    "certs": ["awstronaut"],
+    "certs": [
+      "awstronaut"
+    ],
     "city": "Johannesburg",
     "country": "South Africa",
     "date": "2025-09-08",
@@ -718,7 +879,9 @@
   },
   {
     "name": "Vadim Sorokin",
-    "certs": ["awstronaut"],
+    "certs": [
+      "awstronaut"
+    ],
     "city": "Minsk",
     "country": "Belarus",
     "date": "2025-09-11",
@@ -729,7 +892,9 @@
   {
     "name": "Samsul Adam M",
     "github": "samsulcloud",
-    "certs": ["awstronaut"],
+    "certs": [
+      "awstronaut"
+    ],
     "city": "Bayan Lepas,Penang,Malaysia",
     "country": "Malaysia",
     "date": "2025-01-14",
@@ -739,7 +904,11 @@
   },
   {
     "name": "Ana Pedra",
-    "certs": ["golden kubestrong", "awstronaut", "golden kubestronaut"],
+    "certs": [
+      "golden kubestrong",
+      "awstronaut",
+      "golden kubestronaut"
+    ],
     "city": "Zurich",
     "country": "Switzerland",
     "date": "2025-08-26",
@@ -750,7 +919,9 @@
   {
     "name": "Dmytro Sirant",
     "github": "sirantd",
-    "certs": ["awstronaut"],
+    "certs": [
+      "awstronaut"
+    ],
     "city": "Gold Coast",
     "country": "Australia",
     "date": "2024-10-16",
@@ -762,7 +933,9 @@
   {
     "name": "Martin Nanchev",
     "github": "nanchmar-flutterint",
-    "certs": ["awstronaut"],
+    "certs": [
+      "awstronaut"
+    ],
     "city": "Sofia",
     "country": "Bulgaria",
     "date": "2024-07-01",
@@ -773,7 +946,9 @@
   {
     "name": "Chibuike Nwachukwu",
     "github": "chyke007",
-    "certs": ["awstronaut"],
+    "certs": [
+      "awstronaut"
+    ],
     "city": "Lagos",
     "country": "Nigeria",
     "date": "2024-11-29",
@@ -783,7 +958,9 @@
   },
   {
     "name": "Amar Begluk",
-    "certs": ["awstronaut"],
+    "certs": [
+      "awstronaut"
+    ],
     "city": "Sarajevo",
     "country": "Bosnia and Herzegovina",
     "date": "2025-09-01",
@@ -794,7 +971,9 @@
   {
     "name": "Justin Wheeler",
     "github": "wheeleruniverse",
-    "certs": ["awstronaut"],
+    "certs": [
+      "awstronaut"
+    ],
     "city": "Grand Rapids",
     "country": "USA",
     "date": "2025-09-15",
@@ -806,7 +985,9 @@
   {
     "name": "Ivan Kopas",
     "github": "ikopas",
-    "certs": ["awstronaut"],
+    "certs": [
+      "awstronaut"
+    ],
     "city": "Alexandria",
     "country": "USA",
     "date": "2025-09-27",
@@ -817,7 +998,11 @@
   {
     "name": "Stéphane Noutsa",
     "github": "stephanenoutsa",
-    "certs": ["awstronaut", "CKA", "CKAD"],
+    "certs": [
+      "awstronaut",
+      "CKA",
+      "CKAD"
+    ],
     "city": "Douala",
     "country": "Cameroon",
     "date": "2025-09-20",
@@ -828,7 +1013,9 @@
   {
     "name": "Fernando Carrillo",
     "github": "fernandocarrillo",
-    "certs": ["awstronaut"],
+    "certs": [
+      "awstronaut"
+    ],
     "city": "Lima",
     "country": "Peru",
     "date": "2025-09-27",
@@ -839,7 +1026,9 @@
   {
     "name": "Clayton Russell",
     "github": "claytonrussell",
-    "certs": ["awstronaut"],
+    "certs": [
+      "awstronaut"
+    ],
     "city": "Brisbane",
     "country": "Australia",
     "date": "2024-11-08",
@@ -850,7 +1039,9 @@
   {
     "name": "Cristhian Becerra",
     "github": "cbecerrae",
-    "certs": ["awstronaut"],
+    "certs": [
+      "awstronaut"
+    ],
     "city": "Lima",
     "country": "Peru",
     "date": "2025-08-09",
@@ -862,7 +1053,9 @@
   {
     "name": "Kelvin Igbineweka",
     "github": "buildwithbrainyl",
-    "certs": ["awstronaut"],
+    "certs": [
+      "awstronaut"
+    ],
     "city": "Toronto",
     "country": "Canada",
     "date": "2025-08-03",
@@ -874,7 +1067,9 @@
   {
     "name": "Alan Blockley",
     "github": "alanblockley",
-    "certs": ["awstronaut"],
+    "certs": [
+      "awstronaut"
+    ],
     "city": "Brisbane",
     "country": "Australia",
     "date": "2023-12-13",
@@ -886,7 +1081,9 @@
   {
     "name": "Ram Dubey",
     "github": "Ram1814",
-    "certs": ["awstronaut"],
+    "certs": [
+      "awstronaut"
+    ],
     "city": "Indore",
     "country": "India",
     "date": "2025-09-21",
@@ -897,7 +1094,10 @@
   {
     "name": "Duc Anh Luu",
     "github": "ducanhmit",
-    "certs": ["awstronaut", "kubestronaut"],
+    "certs": [
+      "awstronaut",
+      "kubestronaut"
+    ],
     "city": "Hanoi",
     "country": "Vietnam",
     "date": "2025-10-12",
@@ -909,7 +1109,9 @@
   {
     "name": "Parfait ONDOBO",
     "github": "ONDOBSON",
-    "certs": ["awstronaut"],
+    "certs": [
+      "awstronaut"
+    ],
     "city": "Paris",
     "country": "France",
     "date": "2025-08-14",
@@ -929,5 +1131,18 @@
     "linkedin": "phillip-prudencio",
     "website": "",
     "avatar": "/avatars/phillipprudencio.jpeg"
+  },
+  {
+    "name": "Mehmet Fatih YAR",
+    "github": "Fatalrhym",
+    "certs": [
+      "awstronaut"
+    ],
+    "city": "Kayseri",
+    "country": "Turkey",
+    "date": "2025-10-16",
+    "bio": "AWS Golden Jacket | Champion AWS Authorized Instructor(AAI) | Cloud Platform Engineer | First-Ever AAI Community Difference Maker | awstronaut",
+    "linkedin": "mehmetfatihyar",
+    "avatar": "/avatars/mehmetfatihyar.jpg"
   }
 ]
