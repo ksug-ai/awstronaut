@@ -1144,5 +1144,18 @@
     "bio": "AWS Golden Jacket | Champion AWS Authorized Instructor(AAI) | Cloud Platform Engineer | First-Ever AAI Community Difference Maker | awstronaut",
     "linkedin": "mehmetfatihyar",
     "avatar": "/avatars/mehmetfatihyar.jpg"
+  },
+  {
+    "name": "Chaoran Wang",
+    "github": "chaoran-dev",
+    "certs": [
+      "awstronaut"
+    ],
+    "city": "Mckinney",
+    "country": "USA",
+    "date": "2025-10-17",
+    "bio": "AI Security @ JPMC | AWS Community Builder | ex-AWS",
+    "linkedin": "chaoran-wang-super",
+    "avatar": "/avatars/chaoran-dev.jpeg"
   }
 ]
