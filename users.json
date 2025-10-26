@@ -1157,5 +1157,21 @@
     "bio": "AI Security @ JPMC | AWS Community Builder | ex-AWS",
     "linkedin": "chaoran-wang-super",
     "avatar": "/avatars/chaoran-dev.jpeg"
+  },
+  {
+    "name": "Taha Dekmak",
+    "github": "taha-digico",
+    "certs": [
+      "awstronaut",
+      "CKA",
+      "CKAD",
+      "CKS"
+    ],
+    "city": "Beirut",
+    "country": "Lebanon",
+    "date": "2025-10-26",
+    "bio": "Senior Solutions Architect specializing in cloud security architecture, containers and Kubernetes, enabling organizations to build secure & scalable cloud-native systems",
+    "linkedin": "taha-dekmak",
+    "avatar": "/avatars/tahadekmak.jpg"
   }
 ]
