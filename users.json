@@ -1173,5 +1173,24 @@
     "bio": "Senior Solutions Architect specializing in cloud security architecture, containers and Kubernetes, enabling organizations to build secure & scalable cloud-native systems",
     "linkedin": "taha-dekmak",
     "avatar": "/avatars/tahadekmak.jpg"
+  },
+  {
+    "name": "Santhosh NC",
+    "github": "SanthoshNC",
+    "certs": [
+      "kubestrong",
+      "awstronaut",
+      "kubestronaut",
+      "githubstronaut",
+      "gcpstronaut"
+    ],
+    "city": "Erode,Tamil Nadu",
+    "country": "India",
+    "date": "2025-10-22",
+    "bio": "Lead DevSecOps Engineer | Multi-Cloud(Azure,AWS,GCP,OCI) & MLOps Technologist | Building secure, scalable systems & inspiring learners to grow through real-world impact",
+    "twitter": "santhoshnc",
+    "linkedin": "santhoshnc",
+    "website": "https://www.santhoshnc.me",
+    "avatar": "/avatars/santhoshnc.png"
   }
 ]
