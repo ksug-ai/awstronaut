@@ -1192,5 +1192,18 @@
     "linkedin": "santhoshnc",
     "website": "https://www.santhoshnc.me",
     "avatar": "/avatars/santhoshnc.png"
+  },
+  {
+    "name": "Donald Lyimo",
+    "github": "donald05719",
+    "certs": [
+      "awstronaut"
+    ],
+    "city": "Dar Es Salaam",
+    "country": "Tanzania",
+    "date": "2025-11-04",
+    "bio": "DevSecOps Engineer | AWS Golden Jacket ",
+    "linkedin": "donald-lyimo-971460a7",
+    "avatar": "/avatars/donaldlyimo.jpg"
   }
 ]
