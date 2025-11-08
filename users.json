@@ -1205,5 +1205,19 @@
     "bio": "DevSecOps Engineer | AWS Golden Jacket ",
     "linkedin": "donald-lyimo-971460a7",
     "avatar": "/avatars/donaldlyimo.jpg"
+  },
+  {
+    "name": "Steven Selolo",
+    "github": "StevenPss",
+    "certs": [
+      "awstronaut"
+    ],
+    "city": "Johannesburg",
+    "country": "South Africa",
+    "date": "2025-01-30",
+    "bio": "Cloud Engineer | 🐉 Dragon Slayer ⚔️",
+    "linkedin": "stevenselolo",
+    "website": "https://www.stevenselolo.com",
+    "avatar": "/avatars/stevenselolo.png"
   }
 ]
