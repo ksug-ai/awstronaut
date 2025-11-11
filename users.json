@@ -1219,5 +1219,19 @@
     "linkedin": "stevenselolo",
     "website": "https://www.stevenselolo.com",
     "avatar": "/avatars/stevenselolo.png"
+  },
+  {
+    "name": "Arpad Toth",
+    "github": "arpadt",
+    "certs": [
+      "awstronaut"
+    ],
+    "city": "Csaszartoltes",
+    "country": "Hungary",
+    "date": "2025-02-13",
+    "bio": "Champion AWS Authorized Instructor | AWS Community Builder | Cloud Consultant | Software engineer",
+    "linkedin": "arpadt",
+    "website": "https://arpadt.com",
+    "avatar": "/avatars/Arpad.jpeg"
   }
 ]
