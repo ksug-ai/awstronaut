@@ -1248,5 +1248,15 @@
     "linkedin": "arpadt",
     "website": "https://arpadt.com",
     "avatar": "/avatars/Arpad.jpeg"
+  },
+  {
+  "name": "Refia Kayaalp Yaşar",
+  "github": "refkylp",
+  "certs": ["awstronaut"],
+  "city": "Antalya",
+  "country": "Türkiye",
+  "date": "2025.11.11",
+  "bio": "AWS Golden Jacket | @awstronaut | Cloud Platform Engineer",
+  "linkedin": "refiakayaalp"
   }
 ]
