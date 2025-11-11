@@ -764,5 +764,16 @@
     "date": "2025-07-09",
     "avatar": "/avatars/Ashutosh_Upadhyay.jpeg",
     "linkedin": "ashutosh2206"
-  }
+  },
+  {
+  "name": "Refia Kayaalp Yasar",
+  "github": "refkylp",
+  "certs": ["awstronaut"],
+  "city": "Antalya",
+  "country": "Türkiye",
+  "date": "2025.11.11",
+  "bio": "AWS Golden Jacket | @awstronaut | Cloud Platform Engineer",
+  "linkedin": "refiakayaalp",
+  "avatar": "/avatars/refiakayaalp.png"
+}
 ]
