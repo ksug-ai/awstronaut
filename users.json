@@ -1248,5 +1248,19 @@
     "linkedin": "arpadt",
     "website": "https://arpadt.com",
     "avatar": "/avatars/Arpad.jpeg"
-  }
+  },
+  ,
+  {
+    "name": "Ant Hayes",
+    "github": "anthayes",
+    "certs": ["awstronaut"],
+    "city": "Headcorn",
+    "country": "UK",
+    "date": "2024-02-16",
+    "bio": "AWS Principal Consultant | Ex-AWS",
+    "twitter": "anthayes",
+    "linkedin": "anthayes",
+    "website": "https://anthayes.cloud",
+    "avatar": "/avatars/anthayes.png"
+}
 ]
