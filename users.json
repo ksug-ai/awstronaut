@@ -1219,5 +1219,20 @@
     "linkedin": "stevenselolo",
     "website": "https://www.stevenselolo.com",
     "avatar": "/avatars/stevenselolo.png"
+  },
+    {
+    "name": "Artem Stankov",
+    "github": "globart",
+    "certs": [
+      "kubestrong",
+      "awstronaut",
+      "kubestronaut"
+    ],
+    "city": "Kyiv",
+    "country": "Ukraine",
+    "date": "2024-12-02",
+    "bio": "DevOps Engineer",
+    "linkedin": "artem-stankov",
+    "avatar": "/avatars/artemstankov.png"
   }
 ]
