@@ -1248,5 +1248,19 @@
     "linkedin": "arpadt",
     "website": "https://arpadt.com",
     "avatar": "/avatars/Arpad.jpeg"
+  },
+  {
+    "name": "Kelvin Njeru",
+    "github": "kelvoBraavos",
+    "certs": [
+      "awstronaut"
+    ],
+    "city": "Nairobi",
+    "country": "Kenya",
+    "date": "2025-06-25",
+    "bio": "Cloud & DevOps Engineer || Amazonian || AWS Golden Jacket || Solutions Architect || Networks Engineer",
+    "linkedin": "kelvin-njeru-461b41161",
+    "website": "",
+    "avatar": "/avatars/kelvin-njeru.png"
   }
 ]
