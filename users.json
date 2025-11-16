@@ -1248,5 +1248,18 @@
     "linkedin": "arpadt",
     "website": "https://arpadt.com",
     "avatar": "/avatars/Arpad.jpeg"
+  },
+    {
+    "name": "Ruben Rodriguez",
+    "github": "Ruben920213",
+    "certs": ["awstronaut"],
+    "city": "Miami",
+    "country": "United States",
+    "date": "2025-11-15",
+    "bio": "Solutions Architect | 14x AWS Certified",
+    "twitter": "",
+    "linkedin": "ruben-rodriguez-53369aa5",
+    "website": "https://www.linkedin.com/in/ruben-rodriguez-53369aa5",
+    "avatar": "/avatars/rubenrodriguez.png"
   }
 ]
