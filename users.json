@@ -1263,5 +1263,18 @@
     "bio": "☁️ AWS Astronaut MU #000 | 🌐 Multi-Cloud Solutions Architect | 🏆 50+ Certifications (AWS/Azure/OCI) | 🚀 Enterprise Migration & AI Specialist | 💰 FinOps & Cost Optimization | ⚡ Terraform Expert | Certs: DP-700, DP-600, AZ-104, AZ-305, AZ-204, SC-900, AZ-900, 1Z0-1124-25, 1Z0-1093-25, 1Z0-1109-25, 1Z0-1110-25, 1Z0-1122-25, 1Z0-1104-24, 1Z0-1127-24, 1Z0-1072-23, 1Z0-997-23, 1Z0-1122-23, 1Z0-1105-23, 1Z0-1085-25, 1Z0-1123-24, 1Z0-1067-24",
     "linkedin": "vincent-chu-wai-chow",
     "avatar": "/avatars/Raishin.jpg"
-  }
+  },
+    {
+        "name": "Hung Nguyen An",
+        "github": "nguyenanhung",
+        "certs": ["awstronaut"],
+        "city": "Haiphong",
+        "country": "Vietnam",
+        "date": "2025-11-16",
+        "bio": "CTO | PMP®/ACP® | Solution Architect | AWS Golden Jacket | Open Source Enthusiast",
+        "twitter": "nguyenanhung",
+        "linkedin": "nguyenanhung",
+        "website": "https://nguyenanhung.com",
+        "avatar": "/avatars/nguyenanhung.jpeg"
+    }
 ]
