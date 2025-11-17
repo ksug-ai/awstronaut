@@ -1275,5 +1275,17 @@
         "twitter": "nguyenanhung",
         "linkedin": "nguyenanhung",
         "website": "https://nguyenanhung.com"
+    },
+	{
+        "name": "Dariusz Terefenko",
+        "github": "TUDublin-Git",
+        "certs": ["awstronaut"],
+        "city": "Kildare",
+        "country": "Ireland",
+        "date": "2025-11-17",
+        "bio": "Senior IT & Implementation Consultant | Cloud Engineer & Support | Lecturer.",
+        "linkedin": "dariuszterefenko",
+        "website": "https://dariusz-terefenko.com/",
+		"avatar": "/avatars/dariuszterefenko.jpg"
     }
 ]
