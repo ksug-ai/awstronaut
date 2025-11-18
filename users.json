@@ -1275,5 +1275,18 @@
         "twitter": "nguyenanhung",
         "linkedin": "nguyenanhung",
         "website": "https://nguyenanhung.com"
-    }
+    },
+    {
+    "name": "Bhone Myint Zaw",
+    "github": "chicky007",
+    "certs": [
+      "awstronaut",
+    ],
+    "city": "Yangon",
+    "country": "Myanmar",
+    "date": "2025-11-18",
+    "bio": "Cloud Engineer",
+    "linkedin": "bhone-myint-zaw",
+    "avatar": "/avatars/BhoneMyintZaw.png"
+  },
 ]
