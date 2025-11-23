@@ -1249,7 +1249,6 @@
     "website": "https://arpadt.com",
     "avatar": "/avatars/Arpad.jpeg"
   },
-  ,
   {
     "name": "Ant Hayes",
     "github": "anthayes",
@@ -1262,5 +1261,5 @@
     "linkedin": "anthayes",
     "website": "https://anthayes.cloud",
     "avatar": "/avatars/anthayes.png"
-}
+  }
 ]
