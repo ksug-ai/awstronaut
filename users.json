@@ -1289,4 +1289,18 @@
     "website": "https://anthayes.cloud",
     "avatar": "/avatars/anthayes.jpg"
   }
+  {
+    "name": "Wagner Azevedo",
+    "github": "wagnermazevedo",
+    "certs": [
+      "awstronaut"
+    ],
+    "city": "Campinas",
+    "country": "Brazil",
+    "date": "2025-11-10",
+    "bio": "Cloud Security Manager | 🛡️ CNAPP Paladin ⚔️",
+    "linkedin": "wagnermazevedo",
+    "website": "",
+    "avatar": "/avatars/wagnerazevedo.png"
+  }
 ]
