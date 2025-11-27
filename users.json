@@ -1122,7 +1122,9 @@
   {
     "name": "Phillip Prudencio",
     "github": "phillipprudencio",
-    "certs": ["awstronaut"],
+    "certs": [
+      "awstronaut"
+    ],
     "city": "Belo Horizonte",
     "country": "Brazil",
     "date": "2025-06-15",
@@ -1250,14 +1252,16 @@
     "avatar": "/avatars/Arpad.jpeg"
   },
   {
-  "name": "Refia Kayaalp Yaşar",
-  "github": "refkylp",
-  "certs": ["awstronaut"],
-  "city": "Antalya",
-  "country": "Türkiye",
-  "date": "2025.11.11",
-  "bio": "AWS Golden Jacket | @awstronaut | Cloud Platform Engineer",
-  "linkedin": "refiakayaalp",
-  "avatar":"/avatars/refiakayaalp.png"
+    "name": "Refia Kayaalp Yaşar",
+    "github": "refkylp",
+    "certs": [
+      "awstronaut"
+    ],
+    "city": "Antalya",
+    "country": "Türkiye",
+    "date": "2025.11.11",
+    "bio": "AWS Golden Jacket | @awstronaut | Cloud Platform Engineer",
+    "linkedin": "refiakayaalp",
+    "avatar":"/avatars/refiakayaalp.png"
   }
 ]
