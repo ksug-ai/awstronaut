@@ -1288,5 +1288,18 @@
     "linkedin": "anthayes",
     "website": "https://anthayes.cloud",
     "avatar": "/avatars/anthayes.jpg"
+  },
+  {
+    "name": "Amey Sarode",
+    "github": "amster94",
+    "certs": [
+      "awstronaut"
+    ],
+    "city": "Pune",
+    "country": "India",
+    "date": "2025-11-19",
+    "bio": "AWS Certified x12 | Open Source Enthusiast | Full Stack | Ex-Accenture",
+    "linkedin": "amey-sarode-8644668a",
+    "avatar": "/avatars/AmeySarode.jpg"
   }
 ]
