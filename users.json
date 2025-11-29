@@ -1265,6 +1265,31 @@
     "avatar": "/avatars/Raishin.jpg"
   },
   {
+      "name": "Hung Nguyen An",
+      "github": "nguyenanhung",
+      "certs": ["awstronaut"],
+      "city": "Haiphong",
+      "country": "Vietnam",
+      "date": "2025-11-16",
+      "bio": "CTO | PMP®/ACP® | Solution Architect | AWS Golden Jacket | Open Source Enthusiast",
+      "twitter": "nguyenanhung",
+      "linkedin": "nguyenanhung",
+      "website": "https://nguyenanhung.com"
+  },
+  {
+    "name": "Ant Hayes",
+    "github": "anthayes",
+    "certs": ["awstronaut"],
+    "city": "Headcorn",
+    "country": "United Kingdom",
+    "date": "2024-02-16",
+    "bio": "AWS Principal Consultant | Ex-AWS",
+    "twitter": "anthayes",
+    "linkedin": "anthayes",
+    "website": "https://anthayes.cloud",
+    "avatar": "/avatars/anthayes.jpg"
+  },
+  {
     "name": "Kyi Pya (Yasmeen) Soe",
     "github": "Yasmeensoe",
     "certs": ["awstronaut"],
