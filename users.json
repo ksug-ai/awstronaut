@@ -1349,6 +1349,19 @@
     "bio": "AWS Certified x12 | Open Source Enthusiast | Full Stack | Ex-Accenture",
     "linkedin": "amey-sarode-8644668a",
     "avatar": "/avatars/AmeySarode.jpg"
+  },
+  {
+    "name": "Florian Turnwald",
+    "github": "florianturnwald",
+    "certs": [
+      "awstronaut"
+    ],
+    "city": "Cologne",
+    "country": "Germany",
+    "date": "2025-11-28",
+    "bio": "Cloud Architect | AWS Authorized Instructor Program (AAI) | AWS Golden Jacket | Linux Enthusiast |@awstronaut",
+    "linkedin": "florian-turnwald-1080945b",
+    "avatar": "/avatars/florianturnwald.png"
   }
 ]
 
