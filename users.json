@@ -1290,6 +1290,18 @@
     "avatar": "/avatars/anthayes.jpg"
   },
   {
+  "name": "Stanko Petković",
+  "github": "stankopetkovic",
+  "certs": ["awstronaut"],
+  "city": "Köln",
+  "country": "Germany",
+  "date": "2025-01-21",
+  "bio": "Solution Architect with specialization in Cloud Solutions",
+  "linkedin": "stankopetkovic",
+  "website": "https://stanko.petkovic.net",
+  "avatar": "/avatars/stankopetkovic.jpg"
+  },
+  {
     "name": "Kyi Pya (Yasmeen) Soe",
     "github": "Yasmeensoe",
     "certs": ["awstronaut"],
