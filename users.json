@@ -1264,30 +1264,17 @@
     "linkedin": "vincent-chu-wai-chow",
     "avatar": "/avatars/Raishin.jpg"
   },
-    {
-        "name": "Hung Nguyen An",
-        "github": "nguyenanhung",
-        "certs": ["awstronaut"],
-        "city": "Haiphong",
-        "country": "Vietnam",
-        "date": "2025-11-16",
-        "bio": "CTO | PMP®/ACP® | Solution Architect | AWS Golden Jacket | Open Source Enthusiast",
-        "twitter": "nguyenanhung",
-        "linkedin": "nguyenanhung",
-        "website": "https://nguyenanhung.com"
-    },
-    {
-    "name": "Bhone Myint Zaw",
-    "github": "chicky007",
-    "certs": [
-      "awstronaut"
-    ],
-    "city": "Yangon",
-    "country": "Myanmar",
-    "date": "2025-11-18",
-    "bio": "Cloud Engineer",
-    "linkedin": "bhone-myint-zaw",
-    "avatar": "/avatars/BhoneMyintZaw.png"
+  {
+      "name": "Hung Nguyen An",
+      "github": "nguyenanhung",
+      "certs": ["awstronaut"],
+      "city": "Haiphong",
+      "country": "Vietnam",
+      "date": "2025-11-16",
+      "bio": "CTO | PMP®/ACP® | Solution Architect | AWS Golden Jacket | Open Source Enthusiast",
+      "twitter": "nguyenanhung",
+      "linkedin": "nguyenanhung",
+      "website": "https://nguyenanhung.com"
   },
   {
     "name": "Ant Hayes",
@@ -1307,7 +1294,7 @@
     "github": "Yasmeensoe",
     "certs": ["awstronaut"],
     "city": "Los Angeles, California",
-    "country": "United States",
+    "country": "USA",
     "date": "2025-07-14",
     "bio": "13× AWS Certified | Computer Science Student at UC Irvine | Exploring Cloud and Specializing in AI/ML",
     "linkedin": "kyipyasoe",
@@ -1324,6 +1311,18 @@
     "bio": "AWS Golden Jacket | @awstronaut | Cloud Platform Engineer",
     "linkedin": "refiakayaalp",
     "avatar":"/avatars/refiakayaalp.png"
+ },
+ {
+    "name": "Bhone Myint Zaw",
+    "github": "chicky007",
+    "certs": [
+      "awstronaut"
+    ],
+    "city": "Yangon",
+    "country": "Myanmar",
+    "date": "2025-11-18",
+    "bio": "Cloud Engineer",
+    "linkedin": "bhone-myint-zaw",
+    "avatar": "/avatars/BhoneMyintZaw.png"
   }
-
 ]
