@@ -1264,17 +1264,30 @@
     "linkedin": "vincent-chu-wai-chow",
     "avatar": "/avatars/Raishin.jpg"
   },
-  {
-      "name": "Hung Nguyen An",
-      "github": "nguyenanhung",
-      "certs": ["awstronaut"],
-      "city": "Haiphong",
-      "country": "Vietnam",
-      "date": "2025-11-16",
-      "bio": "CTO | PMP®/ACP® | Solution Architect | AWS Golden Jacket | Open Source Enthusiast",
-      "twitter": "nguyenanhung",
-      "linkedin": "nguyenanhung",
-      "website": "https://nguyenanhung.com"
+    {
+        "name": "Hung Nguyen An",
+        "github": "nguyenanhung",
+        "certs": ["awstronaut"],
+        "city": "Haiphong",
+        "country": "Vietnam",
+        "date": "2025-11-16",
+        "bio": "CTO | PMP®/ACP® | Solution Architect | AWS Golden Jacket | Open Source Enthusiast",
+        "twitter": "nguyenanhung",
+        "linkedin": "nguyenanhung",
+        "website": "https://nguyenanhung.com"
+    },
+    {
+    "name": "Bhone Myint Zaw",
+    "github": "chicky007",
+    "certs": [
+      "awstronaut"
+    ],
+    "city": "Yangon",
+    "country": "Myanmar",
+    "date": "2025-11-18",
+    "bio": "Cloud Engineer",
+    "linkedin": "bhone-myint-zaw",
+    "avatar": "/avatars/BhoneMyintZaw.png"
   },
   {
     "name": "Ant Hayes",
@@ -1312,4 +1325,5 @@
     "linkedin": "refiakayaalp",
     "avatar":"/avatars/refiakayaalp.png"
   }
+
 ]
