@@ -414,7 +414,7 @@
       "awstronaut"
     ],
     "city": "Istanbul",
-    "country": "Turkey",
+    "country": "Türkiye",
     "date": "2023-09-08",
     "linkedin": "oguzhanselcukhiziroglu",
     "avatar": "/avatars/oguzhanselcukhiziroglu.png",
@@ -1141,7 +1141,7 @@
       "awstronaut"
     ],
     "city": "Kayseri",
-    "country": "Turkey",
+    "country": "Türkiye",
     "date": "2025-10-16",
     "bio": "AWS Golden Jacket | Champion AWS Authorized Instructor(AAI) | Cloud Platform Engineer | First-Ever AAI Community Difference Maker | awstronaut",
     "linkedin": "mehmetfatihyar",
@@ -1290,6 +1290,54 @@
     "avatar": "/avatars/anthayes.jpg"
   },
   {
+  "name": "Stanko Petković",
+  "github": "stankopetkovic",
+  "certs": ["awstronaut"],
+  "city": "Köln",
+  "country": "Germany",
+  "date": "2025-01-21",
+  "bio": "Solution Architect with specialization in Cloud Solutions",
+  "linkedin": "stankopetkovic",
+  "website": "https://stanko.petkovic.net",
+  "avatar": "/avatars/stankopetkovic.jpg"
+  },
+  {
+    "name": "Kyi Pya (Yasmeen) Soe",
+    "github": "Yasmeensoe",
+    "certs": ["awstronaut"],
+    "city": "Los Angeles, California",
+    "country": "USA",
+    "date": "2025-07-14",
+    "bio": "13× AWS Certified | Computer Science Student at UC Irvine | Exploring Cloud and Specializing in AI/ML",
+    "linkedin": "kyipyasoe",
+    "website": "https://kyipyasoe.com",
+    "avatar": "/avatars/Yasmeensoe.png"
+  },
+  {
+     "name": "Refia Kayaalp Yaşar",
+    "github": "refkylp",
+     "certs": ["awstronaut"],
+     "city": "Antalya",
+    "country": "Türkiye",
+    "date": "2025-11-11",
+    "bio": "AWS Golden Jacket | @awstronaut | Cloud Platform Engineer",
+    "linkedin": "refiakayaalp",
+    "avatar":"/avatars/refiakayaalp.png"
+ },
+ {
+    "name": "Bhone Myint Zaw",
+    "github": "chicky007",
+    "certs": [
+      "awstronaut"
+    ],
+    "city": "Yangon",
+    "country": "Myanmar",
+    "date": "2025-11-18",
+    "bio": "Cloud Engineer",
+    "linkedin": "bhone-myint-zaw",
+    "avatar": "/avatars/BhoneMyintZaw.png
+  },
+ {
     "name": "Amey Sarode",
     "github": "amster94",
     "certs": [
@@ -1303,3 +1351,4 @@
     "avatar": "/avatars/AmeySarode.jpg"
   }
 ]
+
