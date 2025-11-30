@@ -1350,7 +1350,31 @@
     "linkedin": "amey-sarode-8644668a",
     "avatar": "/avatars/AmeySarode.jpg"
   },
-  {
+ {
+        "name": "Hung Nguyen An",
+        "github": "nguyenanhung",
+        "certs": ["awstronaut"],
+        "city": "Haiphong",
+        "country": "Vietnam",
+        "date": "2025-11-16",
+        "bio": "CTO | PMP®/ACP® | Solution Architect | AWS Golden Jacket | Open Source Enthusiast",
+        "twitter": "nguyenanhung",
+        "linkedin": "nguyenanhung",
+        "website": "https://nguyenanhung.com"
+    },
+	{
+        "name": "Dariusz Terefenko",
+        "github": "TUDublin-Git",
+        "certs": ["awstronaut"],
+        "city": "Kildare",
+        "country": "Ireland",
+        "date": "2024-02-05",
+        "bio": "Senior IT & Implementation Consultant | Cloud Engineer & Support | Lecturer.",
+        "linkedin": "dariuszterefenko",
+        "website": "https://dariusz-terefenko.com/",
+		"avatar": "/avatars/dariuszterefenko.jpeg"
+    },
+   {
     "name": "Florian Turnwald",
     "github": "florianturnwald",
     "certs": [
