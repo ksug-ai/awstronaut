@@ -1195,6 +1195,19 @@
     "website": "https://www.santhoshnc.me",
     "avatar": "/avatars/santhoshnc.png"
   },
+
+  {
+    "name": "Jerome Bautista",
+    "github": "jeromebautista1985",
+    "certs": ["awstronaut"],
+    "city": "Marilao",
+    "country": "Philippines",
+    "date": "2025-11-02",
+    "bio": "AWS Support & Operations Engineer",
+    "linkedin": "jerome-bautista-b017aa108",
+    "avatar": "/avatars/jeromebautista1985.jpg"
+  },
+
   {
     "name": "Donald Lyimo",
     "github": "donald05719",
@@ -1388,5 +1401,6 @@
     "linkedin": "luciano-dolenc",
     "avatar": "/avatars/LucianoDolenc.png"
   }
+
 ]
 
