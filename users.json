@@ -1400,6 +1400,19 @@
     "bio": "Data Engineer | Data Architect | 13x AWS Certified | AWS Golden Jacket",
     "linkedin": "luciano-dolenc",
     "avatar": "/avatars/LucianoDolenc.png"
+  },
+    {
+    "name": "John Marshall",
+    "github": "heresgitjohnny",
+    "certs": [
+      "awstronaut"
+    ],
+    "city": "Perth",
+    "country": "Australia",
+    "date": "2025-11-18",
+    "bio": "Cloud Architect | 13x AWS Certified | AWS Golden Jacket",
+    "linkedin": "john-hr-marshall",
+    "avatar": "/avatars/John_Marshall.png"
   }
 
 ]
