@@ -1374,6 +1374,19 @@
     "bio": "Cloud Architect | AWS Authorized Instructor Program (AAI) | AWS Golden Jacket | Linux Enthusiast |@awstronaut",
     "linkedin": "florian-turnwald-1080945b",
     "avatar": "/avatars/florianturnwald.png"
+  },
+  {
+    "name": "Luciano Dolenc",
+    "github": "lucianondolenc",
+    "certs": [
+      "awstronaut"
+    ],
+    "city": "Helsinki",
+    "country": "Finland",
+    "date": "2025-11-30",
+    "bio": "Data Engineer | Data Architect | 13x AWS Certified | AWS Golden Jacket",
+    "linkedin": "luciano-dolenc",
+    "avatar": "/avatars/LucianoDolenc.png"
   }
 ]
 
