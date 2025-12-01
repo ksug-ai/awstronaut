@@ -1413,6 +1413,19 @@
     "bio": "Cloud Architect | 13x AWS Certified | AWS Golden Jacket",
     "linkedin": "john-hr-marshall",
     "avatar": "/avatars/John_Marshall.png"
+},
+  {
+    "name": "Sambayev Bakhytzhan",
+    "github": "bahabaii",
+    "certs": [
+      "awstronaut"
+    ],
+    "city": "Almaty",
+    "country": "Kazakhstan",
+    "date": "2025-12-01",
+    "bio": "DevOps | Solution Architect | 12x AWS Certified | AWS Golden Jacket",
+    "linkedin": "bakhytzhan-sambayev-9967b3a9",
+    "avatar": "/avatars/bakhytzhan.jpeg"
   }
 
 ]
