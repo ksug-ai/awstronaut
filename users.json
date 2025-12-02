@@ -414,7 +414,7 @@
       "awstronaut"
     ],
     "city": "Istanbul",
-    "country": "Turkey",
+    "country": "Türkiye",
     "date": "2023-09-08",
     "linkedin": "oguzhanselcukhiziroglu",
     "avatar": "/avatars/oguzhanselcukhiziroglu.png",
@@ -1122,7 +1122,9 @@
   {
     "name": "Phillip Prudencio",
     "github": "phillipprudencio",
-    "certs": ["awstronaut"],
+    "certs": [
+      "awstronaut"
+    ],
     "city": "Belo Horizonte",
     "country": "Brazil",
     "date": "2025-06-15",
@@ -1139,7 +1141,7 @@
       "awstronaut"
     ],
     "city": "Kayseri",
-    "country": "Turkey",
+    "country": "Türkiye",
     "date": "2025-10-16",
     "bio": "AWS Golden Jacket | Champion AWS Authorized Instructor(AAI) | Cloud Platform Engineer | First-Ever AAI Community Difference Maker | awstronaut",
     "linkedin": "mehmetfatihyar",
@@ -1193,6 +1195,19 @@
     "website": "https://www.santhoshnc.me",
     "avatar": "/avatars/santhoshnc.png"
   },
+
+  {
+    "name": "Jerome Bautista",
+    "github": "jeromebautista1985",
+    "certs": ["awstronaut"],
+    "city": "Marilao",
+    "country": "Philippines",
+    "date": "2025-11-02",
+    "bio": "AWS Support & Operations Engineer",
+    "linkedin": "jerome-bautista-b017aa108",
+    "avatar": "/avatars/jeromebautista1985.jpg"
+  },
+
   {
     "name": "Donald Lyimo",
     "github": "donald05719",
@@ -1248,19 +1263,180 @@
     "linkedin": "arpadt",
     "website": "https://arpadt.com",
     "avatar": "/avatars/Arpad.jpeg"
-  }
+  },
   {
-    "name": "Wagner Azevedo",
-    "github": "wagnermazevedo",
+    "name": "Vincent Chu Wai Chow",
+    "github": "Raishin",
     "certs": [
       "awstronaut"
     ],
+    "city": "Port Louis",
+    "country": "Mauritius",
+    "date": "2025-11-13",
+    "bio": "☁️ AWS Astronaut MU #000 | 🌐 Multi-Cloud Solutions Architect | 🏆 50+ Certifications (AWS/Azure/OCI) | 🚀 Enterprise Migration & AI Specialist | 💰 FinOps & Cost Optimization | ⚡ Terraform Expert | Certs: DP-700, DP-600, AZ-104, AZ-305, AZ-204, SC-900, AZ-900, 1Z0-1124-25, 1Z0-1093-25, 1Z0-1109-25, 1Z0-1110-25, 1Z0-1122-25, 1Z0-1104-24, 1Z0-1127-24, 1Z0-1072-23, 1Z0-997-23, 1Z0-1122-23, 1Z0-1105-23, 1Z0-1085-25, 1Z0-1123-24, 1Z0-1067-24",
+    "linkedin": "vincent-chu-wai-chow",
+    "avatar": "/avatars/Raishin.jpg"
+  },
+  {
+      "name": "Hung Nguyen An",
+      "github": "nguyenanhung",
+      "certs": ["awstronaut"],
+      "city": "Haiphong",
+      "country": "Vietnam",
+      "date": "2025-11-16",
+      "bio": "CTO | PMP®/ACP® | Solution Architect | AWS Golden Jacket | Open Source Enthusiast",
+      "twitter": "nguyenanhung",
+      "linkedin": "nguyenanhung",
+      "website": "https://nguyenanhung.com"
+  },
+  {
+    "name": "Ant Hayes",
+    "github": "anthayes",
+    "certs": ["awstronaut"],
+    "city": "Headcorn",
+    "country": "United Kingdom",
+    "date": "2024-02-16",
+    "bio": "AWS Principal Consultant | Ex-AWS",
+    "twitter": "anthayes",
+    "linkedin": "anthayes",
+    "website": "https://anthayes.cloud",
+    "avatar": "/avatars/anthayes.jpg"
+  },
+  {
+  "name": "Stanko Petković",
+  "github": "stankopetkovic",
+  "certs": ["awstronaut"],
+  "city": "Köln",
+  "country": "Germany",
+  "date": "2025-01-21",
+  "bio": "Solution Architect with specialization in Cloud Solutions",
+  "linkedin": "stankopetkovic",
+  "website": "https://stanko.petkovic.net",
+  "avatar": "/avatars/stankopetkovic.jpg"
+  },
+  {
+    "name": "Kyi Pya (Yasmeen) Soe",
+    "github": "Yasmeensoe",
+    "certs": ["awstronaut"],
+    "city": "Los Angeles, California",
+    "country": "USA",
+    "date": "2025-07-14",
+    "bio": "13× AWS Certified | Computer Science Student at UC Irvine | Exploring Cloud and Specializing in AI/ML",
+    "linkedin": "kyipyasoe",
+    "website": "https://kyipyasoe.com",
+    "avatar": "/avatars/Yasmeensoe.png"
+  },
+  {
+     "name": "Refia Kayaalp Yaşar",
+    "github": "refkylp",
+     "certs": ["awstronaut"],
+     "city": "Antalya",
+    "country": "Türkiye",
+    "date": "2025-11-11",
+    "bio": "AWS Golden Jacket | @awstronaut | Cloud Platform Engineer",
+    "linkedin": "refiakayaalp",
+    "avatar":"/avatars/refiakayaalp.png"
+ },
+ {
+    "name": "Bhone Myint Zaw",
+    "github": "chicky007",
+    "certs": [
+      "awstronaut"
+    ],
+    "city": "Yangon",
+    "country": "Myanmar",
+    "date": "2025-11-18",
+    "bio": "Cloud Engineer",
+    "linkedin": "bhone-myint-zaw",
+    "avatar": "/avatars/BhoneMyintZaw.png"
+  },
+  {
+    "name": "Amey Sarode",
+    "github": "amster94",
+    "certs": [
+      "awstronaut"
+    ],
+    "city": "Pune",
+    "country": "India",
+    "date": "2025-11-19",
+    "bio": "AWS Certified x12 | Open Source Enthusiast | Full Stack | Ex-Accenture",
+    "linkedin": "amey-sarode-8644668a",
+    "avatar": "/avatars/AmeySarode.jpg"
+  },
+ {
+        "name": "Dariusz Terefenko",
+        "github": "TUDublin-Git",
+        "certs": ["awstronaut"],
+        "city": "Kildare",
+        "country": "Ireland",
+        "date": "2024-02-05",
+        "bio": "Senior IT & Implementation Consultant | Cloud Engineer & Support | Lecturer.",
+        "linkedin": "dariuszterefenko",
+        "website": "https://dariusz-terefenko.com/",
+		"avatar": "/avatars/dariuszterefenko.jpeg"
+    },
+   {
+    "name": "Florian Turnwald",
+    "github": "florianturnwald",
+    "certs": [
+      "awstronaut"
+    ],
+    "city": "Cologne",
+    "country": "Germany",
+    "date": "2025-11-28",
+    "bio": "Cloud Architect | AWS Authorized Instructor Program (AAI) | AWS Golden Jacket | Linux Enthusiast |@awstronaut",
+    "linkedin": "florian-turnwald-1080945b",
+    "avatar": "/avatars/florianturnwald.png"
+  },
+  {
+    "name": "Luciano Dolenc",
+    "github": "lucianondolenc",
+    "certs": [
+      "awstronaut"
+    ],
+    "city": "Helsinki",
+    "country": "Finland",
+    "date": "2025-11-30",
+    "bio": "Data Engineer | Data Architect | 13x AWS Certified | AWS Golden Jacket",
+    "linkedin": "luciano-dolenc",
+    "avatar": "/avatars/LucianoDolenc.png"
+  },
+    {
+    "name": "John Marshall",
+    "github": "heresgitjohnny",
+    "certs": [
+      "awstronaut"
+    ],
+    "city": "Perth",
+    "country": "Australia",
+    "date": "2025-11-18",
+    "bio": "Cloud Architect | 13x AWS Certified | AWS Golden Jacket",
+    "linkedin": "john-hr-marshall",
+    "avatar": "/avatars/John_Marshall.png"
+},
+  {
+    "name": "Sambayev Bakhytzhan",
+    "github": "bahabaii",
+    "certs": [
+      "awstronaut"
+    ],
+    "city": "Almaty",
+    "country": "Kazakhstan",
+    "date": "2025-12-01",
+    "bio": "DevOps | Solution Architect | 12x AWS Certified | AWS Golden Jacket",
+    "linkedin": "bakhytzhan-sambayev-9967b3a9",
+    "avatar": "/avatars/bakhytzhan.jpeg"
+  },
+{
+    "name": "Wagner Azevedo",
+    "github": "wagnermazevedo",
+    "certs": ["awstronaut"],
     "city": "Campinas",
     "country": "Brazil",
-    "date": "2025-11-10",
-    "bio": "Cloud Security Manager | 🛡️ CNAPP Paladin ⚔️",
+    "date": "2025-12-02",
+    "bio": "AWS Golden Jacket | Cloud Security Manager | 🛡️ CNAPP Paladin ⚔️",
     "linkedin": "wagnermazevedo",
     "website": "",
-    "avatar": "/avatars/wagnerazevedo.png"
+    "avatar": "/avatars/wagnerazevedo_fix.jpg"
   }
 ]
