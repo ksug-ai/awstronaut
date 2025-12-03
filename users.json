@@ -1426,6 +1426,18 @@
     "bio": "DevOps | Solution Architect | 12x AWS Certified | AWS Golden Jacket",
     "linkedin": "bakhytzhan-sambayev-9967b3a9",
     "avatar": "/avatars/bakhytzhan.jpeg"
+  },
+{
+    "name": "Wagner Azevedo",
+    "github": "wagnermazevedo",
+    "certs": ["awstronaut"],
+    "city": "Campinas",
+    "country": "Brazil",
+    "date": "2025-12-02",
+    "bio": "AWS Golden Jacket | Cloud Security Manager | 🛡️ CNAPP Paladin ⚔️",
+    "linkedin": "wagnermazevedo",
+    "website": "",
+    "avatar": "/avatars/wagnerazevedo_fix.jpg"
   }
 
 ]
