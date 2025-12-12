@@ -16,18 +16,6 @@
     "website": "",
     "avatar": "/avatars/yujunliang.png"
   },
- {
-    "name": "Henrik Melkonyan",
-    "certs": [
-      "awstronaut"
-    ],
-    "city": "Los Angeles",
-    "country": "USA",
-    "date": "2025-09-17",
-    "linkedin": "henrikmelkonyan",
-    "website": "",
-    "avatar": "/avatars/Henrik_Melkonyan.jpg"
-  },
   {
     "name": "Yongkang He",
     "github": "yongkanghe",
@@ -1450,6 +1438,18 @@
     "linkedin": "wagnermazevedo",
     "website": "",
     "avatar": "/avatars/wagnerazevedo_fix.jpg"
+  },
+	 {
+    "name": "Henrik Melkonyan",
+    "certs": [
+      "awstronaut"
+    ],
+    "city": "Los Angeles",
+    "country": "USA",
+    "date": "2025-09-17",
+    "linkedin": "henrikmelkonyan",
+    "website": "",
+    "avatar": "/avatars/Henrik_Melkonyan.jpg"
   }
 
 ]
