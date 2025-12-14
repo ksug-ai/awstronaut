@@ -1462,7 +1462,18 @@
     "linkedin": "henrikmelkonyan",
     "website": "",
     "avatar": "/avatars/Henrik_Melkonyan.jpg"
+  },
+{
+    "name": "Ramandeep Chandna",
+    "github": "catchmeraman",
+    "certs": ["awstronaut"],
+    "city": "Pune",
+    "country": "India",
+    "date": "2025-12-14",
+    "bio": "AWS Community Builder | System Engineering Manager | 12x AWS Certified | AWS Golden Jacket | CKAD/CKA Certified ",
+    "linkedin": "ramandeepchandna",
+    "website": "https://www.cloudopsinsights.com/",
+    "avatar": "/avatars/Ramandeep.jpg"
   }
-
 ]
 
