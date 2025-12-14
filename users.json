@@ -1438,6 +1438,30 @@
     "linkedin": "wagnermazevedo",
     "website": "",
     "avatar": "/avatars/wagnerazevedo_fix.jpg"
+  },
+{
+    "name": "Rohit Dalal",
+    "github": "rdalal15",
+    "certs": ["awstronaut"],
+    "city": "Mumbai",
+    "country": "India",
+    "date": "2025-12-08",
+    "bio": "Technical Lead Red Hat OpenShift Engineer | Red Hat OpenShift Certified | AWS Golden Jacket ",
+    "linkedin": "rohit-ravirao-dalal",
+    "website": "",
+    "avatar": "/avatars/RohitDalal.jpeg"
+  },	
+{
+    "name": "Henrik Melkonyan",
+    "certs": [
+      "awstronaut"
+    ],
+    "city": "Los Angeles",
+    "country": "USA",
+    "date": "2025-09-17",
+    "linkedin": "henrikmelkonyan",
+    "website": "",
+    "avatar": "/avatars/Henrik_Melkonyan.jpg"
   }
 
 ]
