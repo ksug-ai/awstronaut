@@ -1464,6 +1464,18 @@
     "avatar": "/avatars/Henrik_Melkonyan.jpg"
   },
   {
+    "name": "Ramandeep Chandna",
+    "github": "catchmeraman",
+    "certs": ["CKA, CKAD, awstronaut"],
+    "city": "Pune",
+    "country": "India",
+    "date": "2025-12-14",
+    "bio": "AWS Community Builder | System Engineering Manager | 12x AWS Certified | AWS Golden Jacket | CKAD/CKA Certified ",
+    "linkedin": "ramandeepchandna",
+    "website": "https://www.cloudopsinsights.com/",
+    "avatar": "/avatars/Ramandeep.jpeg"
+  },
+  {
     "name": "Lorenz Storm",
     "github": "lorenzstorm1",
     "certs": [
@@ -1475,17 +1487,6 @@
     "linkedin": "lorenz-storm",
     "website": "",
     "avatar": "/avatars/lorenzstorm.png"
-{
-    "name": "Ramandeep Chandna",
-    "github": "catchmeraman",
-    "certs": ["CKA, CKAD, awstronaut"],
-    "city": "Pune",
-    "country": "India",
-    "date": "2025-12-14",
-    "bio": "AWS Community Builder | System Engineering Manager | 12x AWS Certified | AWS Golden Jacket | CKAD/CKA Certified ",
-    "linkedin": "ramandeepchandna",
-    "website": "https://www.cloudopsinsights.com/",
-    "avatar": "/avatars/Ramandeep.jpeg"
   }
 ]
 
