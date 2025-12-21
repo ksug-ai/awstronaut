@@ -1463,7 +1463,7 @@
     "website": "",
     "avatar": "/avatars/Henrik_Melkonyan.jpg"
   },
-{
+  {
     "name": "Ramandeep Chandna",
     "github": "catchmeraman",
     "certs": ["CKA, CKAD, awstronaut"],
@@ -1474,6 +1474,19 @@
     "linkedin": "ramandeepchandna",
     "website": "https://www.cloudopsinsights.com/",
     "avatar": "/avatars/Ramandeep.jpeg"
+  },
+  {
+    "name": "Lorenz Storm",
+    "github": "lorenzstorm1",
+    "certs": [
+      "awstronaut"
+    ],
+    "city": "Munich",
+    "country": "Germany",
+    "date": "2025-05-28",
+    "linkedin": "lorenz-storm",
+    "website": "",
+    "avatar": "/avatars/lorenzstorm.png"
   }
 ]
 
