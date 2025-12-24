@@ -1487,6 +1487,20 @@
     "linkedin": "lorenz-storm",
     "website": "",
     "avatar": "/avatars/lorenzstorm.jpg"
+  },
+    {
+    "name": "Shamnad Shaji",
+    "github": "shamnadps",
+    "certs": [
+      "awstronaut"
+    ],
+    "bio": "Senior Software Engineer | 12 x AWS Certified🧥 | 12 x Google Certified | AWS Community Builder | 5x Microsoft Certified |  KCNA | JLPT N5",
+    "city": "Helsinki",
+    "country": "Finland",
+    "date": "2024-10-24",
+    "linkedin": "shamnadshaji",
+    "website": "",
+    "avatar": "/avatars/shamnad.png"
   }
 ]
 
