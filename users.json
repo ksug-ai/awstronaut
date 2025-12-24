@@ -1488,7 +1488,7 @@
     "website": "",
     "avatar": "/avatars/lorenzstorm.jpg"
   },
-{
+  {
     "name": "Adriano Arantes Paterlini",
     "github": "AdrianoAPaterlini",
     "certs": ["awstronaut"],
@@ -1496,7 +1496,7 @@
     "country": "Brazil",
     "date": "2025-01-05",
     "bio": "Staff Engineer @ Itaú | 12x AWS | 16x Microsoft | 5x Google | 2x GitHub | 1x RedHat - Dynatrace - ISC - HashiCorp",
-    "linkedin": "paterlini"
+    "linkedin": "paterlini",
     "avatar": "/avatars/adrianopaterlini.jpg"
   }
 ]
