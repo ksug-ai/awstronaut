@@ -1498,6 +1498,17 @@
     "bio": "Staff Engineer @ Itaú | 12x AWS | 16x Microsoft | 5x Google | 2x GitHub | 1x RedHat - Dynatrace - ISC - HashiCorp",
     "linkedin": "paterlini",
     "avatar": "/avatars/AdrianoPaterlini.jpg"
+  },
+  {
+  "name": "Pritish Anand",
+  "github": "anandpritish",
+  "certs": ["awstronaut"],
+  "city": "Lucknow",
+  "country": "India",
+  "date": "2025-12-24",
+  "bio": "12x AWS Certified | AWS Golden Jacket Achiever | Cloud Engineer | DevOps & SRE Enthusiast | Community Educator",
+  "linkedin": "pritishanand",
+  "avatar": "/avatars/anandpritish.jpg"
   }
 ]
 
