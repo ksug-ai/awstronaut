@@ -1509,6 +1509,20 @@
   "bio": "12x AWS Certified | AWS Golden Jacket Achiever | Cloud Engineer | DevOps & SRE Enthusiast | Community Educator",
   "linkedin": "pritishanand",
   "avatar": "/avatars/anandpritish.jpg"
-  }
+  },
+  {
+  "name": "Mario Lechonczak",
+  "github": "mlechonczak",
+    "certs": [
+      "awstronaut",
+      "kubestronaut"
+    ],
+  "city": "Koszalin",
+  "country": "Poland",
+  "date": "2024-04-13",
+  "bio": "Cloud Network Engineer | AWS Golden Jacket | Kubestronaut",
+  "linkedin": "mariolechonczak",
+  "avatar": "/avatars/mariolechonczak.jpg"
+  }  
 ]
 
