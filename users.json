@@ -1500,30 +1500,43 @@
     "avatar": "/avatars/AdrianoPaterlini.jpg"
   },
   {
-  "name": "Pritish Anand",
-  "github": "anandpritish",
-  "certs": ["awstronaut"],
-  "city": "Dubai",
-  "country": "United Arab Emirates",
-  "date": "2025-12-24",
-  "bio": "12x AWS Certified | AWS Golden Jacket Achiever | Cloud Engineer | DevOps & SRE Enthusiast | Community Educator",
-  "linkedin": "pritishanand",
-  "avatar": "/avatars/anandpritish.jpg"
+    "name": "Pritish Anand",
+    "github": "anandpritish",
+    "certs": ["awstronaut"],
+    "city": "Dubai",
+    "country": "United Arab Emirates",
+    "date": "2025-12-24",
+    "bio": "12x AWS Certified | AWS Golden Jacket Achiever | Cloud Engineer | DevOps & SRE Enthusiast | Community Educator",
+    "linkedin": "pritishanand",
+    "avatar": "/avatars/anandpritish.jpg"
   },
   {
-  "name": "Dr. Rahul Gaikwad",
-  "github": "dr-rahulgaikwad",                 
-  "certs": [
-    "awstronaut"
-  ],
-  "city": "Pune",
-  "country": "India",
-  "date": "2025-12-30",
-  "bio": "Staff Resident Solutions Architect | Field CTO | Ex-AWS | AI/ML Enthusiast |PhD |  12x AWS | 3x HashiCorp | YouTuber | Author | Speaker | Mentor | Trainer | Researcher | Adjunct Professor",
-  "linkedin": "dr-rahul-gaikwad",
-  "twitter": "Dr_RahulGaikwad",                
-  "website": "https://dr-rahulgaikwad.com/",
-  "avatar": "/avatars/DrRahulGaikwad.png"
-}
+    "name": "Mario Lechonczak",
+    "github": "mlechonczak",
+      "certs": [
+        "awstronaut",
+        "kubestronaut"
+      ],
+    "city": "Koszalin",
+    "country": "Poland",
+    "date": "2024-04-13",
+    "bio": "Cloud Network Engineer | AWS Golden Jacket | Kubestronaut",
+    "linkedin": "mariolechonczak",
+    "avatar": "/avatars/mariolechonczak.jpg"
+  },
+  {
+    "name": "Dr. Rahul Gaikwad",
+    "github": "dr-rahulgaikwad",                 
+    "certs": [
+      "awstronaut"
+    ],
+    "city": "Pune",
+    "country": "India",
+    "date": "2025-12-30",
+    "bio": "Staff Resident Solutions Architect | Field CTO | Ex-AWS | AI/ML Enthusiast |PhD |  12x AWS | 3x HashiCorp | YouTuber | Author | Speaker | Mentor | Trainer | Researcher | Adjunct Professor",
+    "linkedin": "dr-rahul-gaikwad",
+    "twitter": "Dr_RahulGaikwad",                
+    "website": "https://dr-rahulgaikwad.com/",
+    "avatar": "/avatars/DrRahulGaikwad.png"
+  }  
 ]
-
