@@ -1573,5 +1573,18 @@
     "bio": "13x AWS Certified |  AWS",
     "linkedin": "durgesh-nath",
     "avatar": "/avatars/Durgesh.jpg"
+  },
+  {
+    "name": "Sonal Sarda",
+    "github": "sonalsarda",                 
+    "certs": [
+      "awstronaut"
+    ],
+    "city": "Bengaluru",
+    "country": "India",
+    "date": "2026-01-08",
+    "bio": "Champion AWS Authorised Instructor | AI/ML Guide | 12x AWS Certified | AWS Golden Jacket Achiever | YouTuber | Speaker | Mentor | Trainer",
+    "linkedin": "sonal-sarda-584b549",
+	"avatar": "/avatars/SonalSarda.jpg"
   }
 ]
