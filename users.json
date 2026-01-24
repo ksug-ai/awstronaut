@@ -1597,5 +1597,18 @@
     "bio": "Senior HPC Cloud and Systems Engineer @ Brightskies || AWS Golden Jacket 🧥🥇 || AWS HPC/ML Expert ☁ | 12xAWS Certified® (ANS, SCS, MLS, DOP, SAP, DVA, MLA, DEA, SOA, SAA, AIF, CCP) || RHCSA® || CCNA®",
     "linkedin": "mohamed-hossam-",
     "avatar": "/avatars/mhossam98.jpg"
+  },
+
+  {
+    "name": "Patrick Dodds",
+    "github": "duderock4545",
+    "certs": ["awstronaut"],
+    "city": "Fairfax",
+    "country": "United States",
+    "date": "2026-01-24",
+    "bio": "22 Year Old Contractor | Georgia Tech CS Masters Student",
+    "linkedin": "Patrick-Dodds",
+    "avatar": "/avatars/patrickdo.jpg"
   } 
+
 ]
