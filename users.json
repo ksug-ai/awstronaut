@@ -1597,5 +1597,16 @@
     "bio": "Senior HPC Cloud and Systems Engineer @ Brightskies || AWS Golden Jacket 🧥🥇 || AWS HPC/ML Expert ☁ | 12xAWS Certified® (ANS, SCS, MLS, DOP, SAP, DVA, MLA, DEA, SOA, SAA, AIF, CCP) || RHCSA® || CCNA®",
     "linkedin": "mohamed-hossam-",
     "avatar": "/avatars/mhossam98.jpg"
-  } 
+  },
+  {
+  "name": "Yasir Yasin",
+  "github": "iyasirr",
+  "certs": ["awstronaut"],
+  "city": "Manama",
+  "country": "Bahrain",
+  "date": "2026-01-12",
+  "bio": "DevSecOps & Software Engineer",
+  "linkedin": "i-yasir",
+  "avatar": "/avatars/yasiryasin.png"
+  }
 ]
