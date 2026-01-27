@@ -1599,14 +1599,14 @@
     "avatar": "/avatars/mhossam98.jpg"
   },
   {
-  "name": "Yasir Yasin",
-  "github": "iyasirr",
-  "certs": ["awstronaut"],
-  "city": "Manama",
-  "country": "Bahrain",
-  "date": "2026-01-12",
-  "bio": "DevSecOps & Software Engineer",
-  "linkedin": "i-yasir",
-  "avatar": "/avatars/yasiryasin.png"
+    "name": "Yasir Yasin",
+    "github": "iyasirr",
+    "certs": ["awstronaut"],
+    "city": "Manama",
+    "country": "Bahrain",
+    "date": "2026-01-12",
+    "bio": "DevSecOps & Software Engineer",
+    "linkedin": "i-yasir",
+    "avatar": "/avatars/yasiryasin.png"
   }
 ]
