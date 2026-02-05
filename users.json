@@ -1608,5 +1608,18 @@
     "bio": "22 Year Old Contractor | Georgia Tech CS Masters Student",
     "linkedin": "patrick-dodds-0b715a261",
     "avatar": "/avatars/patrickdo.jpg"
+  },
+  {
+    "name": "Varun Karthik",
+    "github": "vforvarun",
+      "certs": [
+        "awstronaut"
+      ],
+    "city": "Melbourne",
+    "country": "Australia",
+    "date": "2026-01-18",
+    "bio": "12x AWS Certified | Senior Manager @ Deloitte | Cloud Engineering",
+    "linkedin": "varun-karthik",
+    "avatar": "/avatars/varunkarthik.jpg"
   }
 ]
