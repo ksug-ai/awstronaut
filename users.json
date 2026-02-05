@@ -1588,6 +1588,28 @@
 	"avatar": "/avatars/SonalSarda.jpg"
   },
   {
+    "name": "Mohamed Hossam",
+    "github": "mhossam98",
+    "certs": ["awstronaut"],
+    "city": "Alexandria",
+    "country": "Egypt",
+    "date": "2026-01-11",
+    "bio": "Senior HPC Cloud and Systems Engineer @ Brightskies || AWS Golden Jacket 🧥🥇 || AWS HPC/ML Expert ☁ | 12xAWS Certified® (ANS, SCS, MLS, DOP, SAP, DVA, MLA, DEA, SOA, SAA, AIF, CCP) || RHCSA® || CCNA®",
+    "linkedin": "mohamed-hossam-",
+    "avatar": "/avatars/mhossam98.jpg"
+  },
+  {
+    "name": "Patrick Dodds",
+    "github": "duderock4545",
+    "certs": ["awstronaut"],
+    "city": "Fairfax",
+    "country": "USA",
+    "date": "2026-01-24",
+    "bio": "22 Year Old Contractor | Georgia Tech CS Masters Student",
+    "linkedin": "patrick-dodds-0b715a261",
+    "avatar": "/avatars/patrickdo.jpg"
+  },
+  {
     "name": "Varun Karthik",
     "github": "vforvarun",
       "certs": [
