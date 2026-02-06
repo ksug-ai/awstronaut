@@ -1599,6 +1599,30 @@
     "avatar": "/avatars/mhossam98.jpg"
   },
   {
+    "name": "Patrick Dodds",
+    "github": "duderock4545",
+    "certs": ["awstronaut"],
+    "city": "Fairfax",
+    "country": "USA",
+    "date": "2026-01-24",
+    "bio": "22 Year Old Contractor | Georgia Tech CS Masters Student",
+    "linkedin": "patrick-dodds-0b715a261",
+    "avatar": "/avatars/patrickdo.jpg"
+  },
+  {
+    "name": "Varun Karthik",
+    "github": "vforvarun",
+      "certs": [
+        "awstronaut"
+      ],
+    "city": "Melbourne",
+    "country": "Australia",
+    "date": "2026-01-18",
+    "bio": "12x AWS Certified | Senior Manager @ Deloitte | Cloud Engineering",
+    "linkedin": "varun-karthik",
+    "avatar": "/avatars/varun-headshot.jpeg"
+ },
+ {
     "name": "Yasir Yasin",
     "github": "iyasirr",
     "certs": ["awstronaut"],
