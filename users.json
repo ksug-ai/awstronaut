@@ -1621,5 +1621,16 @@
     "bio": "12x AWS Certified | Senior Manager @ Deloitte | Cloud Engineering",
     "linkedin": "varun-karthik",
     "avatar": "/avatars/varun-headshot.jpeg"
+ },
+ {
+    "name": "Yasir Yasin",
+    "github": "iyasirr",
+    "certs": ["awstronaut"],
+    "city": "Manama",
+    "country": "Bahrain",
+    "date": "2026-01-12",
+    "bio": "DevSecOps & Software Engineer",
+    "linkedin": "i-yasir",
+    "avatar": "/avatars/yasiryasin.png"
   }
 ]
