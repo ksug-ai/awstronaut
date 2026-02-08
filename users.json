@@ -1632,5 +1632,18 @@
     "bio": "DevSecOps & Software Engineer",
     "linkedin": "i-yasir",
     "avatar": "/avatars/yasiryasin.png"
+  }, 
+  {
+    "name": "Crhistian Cardona",
+    "github": "crhisto",
+    "certs": ["awstronaut"],
+    "city": "Medellin",
+    "country": "Colombia",
+    "date": "2026-01-04",
+    "bio": "AI & ML Engineering Manager @ Loka | 13x AWS Certified 🧥 | GenAI & Cloud Strategy on AWS | Scaling High-Impact Teams & Platforms",
+    "linkedin": "crhistiancardona",
+    "twitter": "crhistocardona",
+    "website": "https://medium.com/@crhisto",
+    "avatar": "/avatars/crhistiancardona.jpeg"
   }
 ]
