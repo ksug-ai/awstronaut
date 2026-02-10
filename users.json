@@ -1645,5 +1645,16 @@
     "twitter": "crhistocardona",
     "website": "https://medium.com/@crhisto",
     "avatar": "/avatars/crhistiancardona.jpeg"
+  },
+  {
+    "name": "Donghee Kim",
+    "github": "chadkim1739",
+    "certs": ["awstronaut"],
+    "city": "Seoul",
+    "country": "South Korea",
+    "date": "2026-02-05",
+    "bio": "DevSecOps Engineer | Information Security Manager(GRC Manager) | AWS Solutions Architect | AWS All-Star (13× AWS Certified)",
+    "linkedin": "donghee-kim-478a27297",
+    "avatar": "/avatars/DongheeKim.jpg"
   }
 ]
