@@ -1397,7 +1397,7 @@
     "city": "Cologne",
     "country": "Germany",
     "date": "2025-11-28",
-    "bio": "Cloud Architect | AWS Authorized Instructor | AWS Golden Jacket | Linux Enthusiast |@awstronaut",
+    "bio": "Cloud Architect | AWS Authorized Instructor - Champion | AWS Golden Jacket | Linux Enthusiast",
     "linkedin": "florian-turnwald-1080945b",
     "avatar": "/avatars/florianturnwald.png"
   },
@@ -1608,6 +1608,43 @@
     "bio": "22 Year Old Contractor | Georgia Tech CS Masters Student",
     "linkedin": "patrick-dodds-0b715a261",
     "avatar": "/avatars/patrickdo.jpg"
+  },
+  {
+    "name": "Varun Karthik",
+    "github": "vforvarun",
+      "certs": [
+        "awstronaut"
+      ],
+    "city": "Melbourne",
+    "country": "Australia",
+    "date": "2026-01-18",
+    "bio": "12x AWS Certified | Senior Manager @ Deloitte | Cloud Engineering",
+    "linkedin": "varun-karthik",
+    "avatar": "/avatars/varun-headshot.jpeg"
+ },
+ {
+    "name": "Yasir Yasin",
+    "github": "iyasirr",
+    "certs": ["awstronaut"],
+    "city": "Manama",
+    "country": "Bahrain",
+    "date": "2026-01-12",
+    "bio": "DevSecOps & Software Engineer",
+    "linkedin": "i-yasir",
+    "avatar": "/avatars/yasiryasin.png"
+  }, 
+  {
+    "name": "Crhistian Cardona",
+    "github": "crhisto",
+    "certs": ["awstronaut"],
+    "city": "Medellin",
+    "country": "Colombia",
+    "date": "2026-01-04",
+    "bio": "AI & ML Engineering Manager @ Loka | 13x AWS Certified 🧥 | GenAI & Cloud Strategy on AWS | Scaling High-Impact Teams & Platforms",
+    "linkedin": "crhistiancardona",
+    "twitter": "crhistocardona",
+    "website": "https://medium.com/@crhisto",
+    "avatar": "/avatars/crhistiancardona.jpeg"
   },
   {
     "name": "Donghee Kim",
