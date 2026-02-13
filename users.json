@@ -1670,5 +1670,16 @@
     "bio": "Cloud Engineer | Exploring Cloud, Kubernetes and Specializing in DevOps | 12x AWS Certified | Information Technology Specialits(@Sompo Systems Inc.)",
     "linkedin": "daisuke-watarai-51846b356",
     "avatar": "/avatars/daisukewatarai.jpg"
+  },
+  {
+    "name": "Manoj Deemantha Dehigaspage",
+    "github": "manojd90",
+    "certs": ["awstronaut"],
+    "city": "Galle",
+    "country": "Sri Lanka",
+    "date": "2026-02-08",
+    "bio": "Senior Lead - Devops | BEng |13 x AWS |7 x RedHat |2 x GCP |2 Azure |CKA |CCNA |ITIL®",
+    "linkedin": "manojdeemantha",
+    "avatar": "/avatars/manojd.jpg"
   }
 ]
