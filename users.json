@@ -1656,5 +1656,19 @@
     "bio": "DevSecOps Engineer | Information Security Manager(GRC Manager) | AWS Solutions Architect | AWS All-Star (13× AWS Certified)",
     "linkedin": "donghee-kim-478a27297",
     "avatar": "/avatars/DongheeKim.jpg"
+  },
+  {
+    "name": "Daisuke Watarai",
+    "github": "poalo1201",
+    "certs": [
+	    "awstronaut",
+      "kubestronaut"
+    ],
+    "city": "Tokyo",
+    "country": "Japan",
+    "date": "2024-11-15",
+    "bio": "Cloud Engineer | Exploring Cloud, Kubernetes and Specializing in DevOps | 12x AWS Certified | Information Technology Specialits(@Sompo Systems Inc.)",
+    "linkedin": "daisuke-watarai-51846b356",
+    "avatar": "/avatars/daisukewatarai.jpeg"
   }
 ]
