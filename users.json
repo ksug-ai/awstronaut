@@ -1683,14 +1683,14 @@
     "avatar": "/avatars/manojd.jpg"
   },
   {
-  "name": "Rohini Unnikrishnan Korappath",
-  "github": "rohini-aws",
-  "certs": ["awstronaut"],
-  "city": "Waterloo,Ontario",
-  "country": "Canada",
-  "date": "2026-02-14",
-  "bio": "AWS|Azure|GCP|DevOps| Terraform| Kubernetes",
-  "linkedin": "rohini-unnikrishnan-korappath",
-  "avatar": "/avatars/rohinikorappath.jpg"
-}
+	  "name": "Rohini Unnikrishnan Korappath",
+	  "github": "rohini-aws",
+	  "certs": ["awstronaut"],
+	  "city": "Waterloo",
+	  "country": "Canada",
+	  "date": "2026-02-14",
+	  "bio": "AWS | Azure | GCP | DevOps | Terraform| Kubernetes",
+	  "linkedin": "rohini-unnikrishnan-korappath",
+	  "avatar": "/avatars/rohinikorappath.jpg"
+  }
 ]
