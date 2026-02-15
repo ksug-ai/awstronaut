@@ -1681,5 +1681,16 @@
     "bio": "Senior Lead - Devops | BEng |13 x AWS |7 x RedHat |2 x GCP |2 Azure |CKA |CCNA |ITIL®",
     "linkedin": "manojdeemantha",
     "avatar": "/avatars/manojd.jpg"
-  }
+  },
+  {
+  "name": "Rohini Unnikrishnan Korappath",
+  "github": "rohini-aws",
+  "certs": ["awstronaut"],
+  "city": "Waterloo,Ontario",
+  "country": "Canada",
+  "date": "2026-02-14",
+  "bio": "AWS|Azure|GCP|DevOps| Terraform| Kubernetes",
+  "linkedin": "rohini-unnikrishnan-korappath",
+  "avatar": "/avatars/rohinikorappath.jpg"
+}
 ]
