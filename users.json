@@ -1692,5 +1692,18 @@
 	  "bio": "AWS | Azure | GCP | DevOps | Terraform| Kubernetes",
 	  "linkedin": "rohini-unnikrishnan-korappath",
 	  "avatar": "/avatars/rohinikorappath.jpg"
-  }
+  },
+  {
+    "name": "Michael Guida",
+    "github": "MGAU44",
+      "certs": [
+        "awstronaut"
+      ],
+    "city": "Melbourne",
+    "country": "Australia",
+    "date": "2025-01-23",
+    "bio": "13x AWS Certified | Engineering Lead at Deloitte | Cloud Engineering",
+    "linkedin": "michael-guida-304b1396",
+    "avatar": "/avatars/michaelg.jpg"
+ }
 ]
