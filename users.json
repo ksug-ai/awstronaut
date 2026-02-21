@@ -1263,7 +1263,8 @@
     "bio": "Cloud & DevOps Engineer | Amazonian | AWS Golden Jacket | Solutions Architect | Networks Engineer",
     "linkedin": "kelvin-njeru-461b41161",
     "avatar": "/avatars/kelvin-njeru.png"
-  }
+  },
+  {
     "name": "Vincent Chu Wai Chow",
     "github": "Raishin",
     "certs": [
@@ -1276,16 +1277,16 @@
     "linkedin": "vincent-chu-wai-chow",
     "avatar": "/avatars/Raishin.jpg"
   },
-    {
-        "name": "Hung Nguyen An",
-        "github": "nguyenanhung",
-        "certs": ["awstronaut"],
-        "city": "Haiphong",
-        "country": "Vietnam",
-        "date": "2025-11-16",
-        "bio": "CTO | PMP®/ACP® | Solution Architect | AWS Golden Jacket | Open Source Enthusiast",
-        "twitter": "nguyenanhung",
-        "linkedin": "nguyenanhung",
-        "website": "https://nguyenanhung.com"
-    }
+  {
+    "name": "Hung Nguyen An",
+    "github": "nguyenanhung",
+    "certs": ["awstronaut"],
+    "city": "Haiphong",
+    "country": "Vietnam",
+    "date": "2025-11-16",
+    "bio": "CTO | PMP®/ACP® | Solution Architect | AWS Golden Jacket | Open Source Enthusiast",
+    "twitter": "nguyenanhung",
+    "linkedin": "nguyenanhung",
+    "website": "https://nguyenanhung.com"
+  }
 ]
