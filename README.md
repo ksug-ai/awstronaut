@@ -100,18 +100,18 @@ Together, we’re showcasing the impact of AWS certifications and the strength o
 
 ---
 
-## 📢 Stay Connected with 100,000+ Cloud-Native Enthusiasts! 🎉
+## 📢 Stay Connected with 180,000+ Cloud-Native Enthusiasts! 🎉
 
-Join over **100,000** passionate learners who:
+Join over **180,000** passionate learners who:
 - ✅ Learn 𝐅𝐀𝐒𝐓𝐄𝐑 ⚡ 
 - ✅ Certify 𝐒𝐌𝐀𝐑𝐓𝐄𝐑 💰 
 - ✅ Grow 𝐒𝐓𝐑𝐎𝐍𝐆𝐄𝐑 💪
 
 📌 Subscribe now → 🔥 [KSUG.AI Linktree](https://linktr.ee/ksug.ai)
-📌 Bookmark this → ❤️ [KSUG.AI](https://ksug.ai/save)
+📌 Bookmark this → ❤️ [KSUG.AI](https://ksug.ai/save/?ref=github)
 
 🔗 Stay plugged into the world’s most active Kubernetes + AI community.
 
-📣 Follow [KSUG.AI](https://ksug.ai) — Let’s build, learn, and grow together! 🚀
+📣 Follow [KSUG.AI](https://ksug.ai/?ref=github) — Let’s build, learn, and grow together! 🚀
 
-<sub>[KSUG.AI](https://ksug.ai) is an independent community and not affiliated with or endorsed by CNCF. K8s and Kubernetes are registered trademarks of The Linux Foundation.</sub>
+<sub>[KSUG.AI](https://ksug.ai/?ref=github) is an independent community and not affiliated with or endorsed by CNCF. K8s and Kubernetes are registered trademarks of The Linux Foundation.</sub>
