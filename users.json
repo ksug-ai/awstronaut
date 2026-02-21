@@ -1692,5 +1692,18 @@
 	  "bio": "AWS | Azure | GCP | DevOps | Terraform| Kubernetes",
 	  "linkedin": "rohini-unnikrishnan-korappath",
 	  "avatar": "/avatars/rohinikorappath.jpg"
+  },
+  {
+    "name": "Kelvin Njeru",
+    "github": "kelvoBraavos",
+    "certs": [
+      "awstronaut"
+    ],
+    "city": "Nairobi",
+    "country": "Kenya",
+    "date": "2025-06-25",
+    "bio": "Cloud & DevOps Engineer | Amazonian | AWS Golden Jacket | Solutions Architect | Networks Engineer",
+    "linkedin": "kelvin-njeru-461b41161",
+    "avatar": "/avatars/kelvin-njeru.png"
   }
 ]
