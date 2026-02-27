@@ -1694,6 +1694,19 @@
 	  "avatar": "/avatars/rohinikorappath.jpg"
   },
   {
+    "name": "Kelvin Njeru",
+    "github": "kelvoBraavos",
+    "certs": [
+      "awstronaut"
+    ],
+    "city": "Nairobi",
+    "country": "Kenya",
+    "date": "2025-06-25",
+    "bio": "Cloud & DevOps Engineer | Amazonian | AWS Golden Jacket | Solutions Architect | Networks Engineer",
+    "linkedin": "kelvin-njeru-461b41161",
+    "avatar": "/avatars/kelvin-njeru.png"
+  },
+  {
     "name": "Michael Guida",
     "github": "MGAU44",
       "certs": [
@@ -1705,5 +1718,5 @@
     "bio": "13x AWS Certified | Engineering Lead at Deloitte | Cloud Engineering",
     "linkedin": "michael-guida-304b1396",
     "avatar": "/avatars/michaelg.jpg"
- }
+  },
 ]
