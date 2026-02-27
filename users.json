@@ -1718,5 +1718,19 @@
     "bio": "13x AWS Certified | Engineering Lead at Deloitte | Cloud Engineering",
     "linkedin": "michael-guida-304b1396",
     "avatar": "/avatars/michaelg.jpg"
+  },
+  {
+    "name": "Gonzalo Muñoz",
+    "github": "gonzaloan",
+    "certs": [
+      "awstronaut"
+    ],
+    "city": "Valparaiso",
+    "country": "Chile",
+    "date": "2026-02-20",
+    "bio": "Team Lead / Cloud Engineer",
+    "linkedin": "mmgonzalo",
+    "website": "https://gonzalo-munoz.com",
+    "avatar": "/avatars/gonzalomunoz.png"
   }
 ]
