@@ -1267,18 +1267,6 @@
     "avatar": "/avatars/Arpad.jpeg"
   },
   {
-    "name": "Ruben Rodriguez",
-    "github": "Ruben920213",
-    "certs": ["awstronaut"],
-    "city": "Miami",
-    "country": "United States",
-    "date": "2025-11-15",
-    "bio": "Solutions Architect | 14x AWS Certified AWS | Golden Jacket",
-    "linkedin": "ruben-rodriguez-53369aa5",
-    "website": "https://www.linkedin.com/in/ruben-rodriguez-53369aa5",
-    "avatar": "/avatars/rubenrodriguez.jpeg"
-  },
-  {
     "name": "Vincent Chu Wai Chow",
     "github": "Raishin",
     "certs": [
@@ -1745,5 +1733,17 @@
     "linkedin": "mmgonzalo",
     "website": "https://gonzalo-munoz.com",
     "avatar": "/avatars/gonzalomunoz.png"
+  },
+  {
+    "name": "Ruben Rodriguez",
+    "github": "Ruben920213",
+    "certs": ["awstronaut"],
+    "city": "Miami",
+    "country": "United States",
+    "date": "2025-11-15",
+    "bio": "Solutions Architect | 14x AWS Certified AWS | Golden Jacket",
+    "linkedin": "ruben-rodriguez-53369aa5",
+    "website": "https://www.linkedin.com/in/ruben-rodriguez-53369aa5",
+    "avatar": "/avatars/rubenrodriguez.jpeg"
   }
 ]
