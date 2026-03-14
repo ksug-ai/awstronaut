@@ -1745,5 +1745,16 @@
     "linkedin": "ruben-rodriguez-53369aa5",
     "website": "https://www.linkedin.com/in/ruben-rodriguez-53369aa5",
     "avatar": "/avatars/rubenrodriguez.jpeg"
+  },
+  {
+    "name": "YeongHun Choi",
+    "github": "younghunei",
+    "certs": ["awstronaut"],
+    "city": "Seoul",
+    "country": "South Korea",
+    "date": "2026-03-14",
+    "bio": "Cloud Support Engineer | AI Engineering with Amazon Bedrock & AgentCore | AWS Infrastructure & Automation Specialist | AWS Community Builder (AI Engineering) | AWS All-Star (13× AWS Certified) | Building intelligent systems that make cloud operations smarter",
+    "linkedin": "yeonghun-185815337",
+    "avatar": "/avatars/YeongHunChoi.jpg"
   }
 ]
