@@ -1756,5 +1756,16 @@
     "bio": "Cloud Support Engineer | AI Engineering with Amazon Bedrock & AgentCore | AWS Infrastructure & Automation Specialist | AWS Community Builder (AI Engineering) | AWS All-Star (13× AWS Certified) | Building intelligent systems that make cloud operations smarter",
     "linkedin": "yeonghun-185815337",
     "avatar": "/avatars/YeongHunChoi.jpg"
+  },
+    {
+    "name": "Albert Suwandhi",
+    "github": "albertsuwandhi",
+    "certs": ["awstronaut"],
+    "city": "Medan",
+    "country": "Indonesia",
+    "date": "2026-03-16",
+    "bio": "Cloud Engineer | AWS Community Hero | IT Lecturer",
+    "linkedin": "albertsuwandhi",
+    "avatar": "/avatars/albertsuwandhi"
   }
 ]
