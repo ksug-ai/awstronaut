@@ -1767,5 +1767,16 @@
     "bio": "Cloud Engineer | AWS Community Hero | IT Lecturer",
     "linkedin": "albertsuwandhi",
     "avatar": "/avatars/albertsuwandhi.png"
+  },
+	{
+  "name": "Rishav Chakraborty",
+  "github": "Rishav1212",
+  "certs": ["awstronaut"],
+  "city": "Kolkata",
+  "country": "India",
+  "date": "2026-03-22",
+  "bio": "Sr. DevOps Engineer @ Wipro FullStride Cloud | AWSTRONAUT | Multi-Cloud Architect | AI/ML & Automation Specialist",
+  "linkedin": "rishavchakraborty02",
+  "avatar": "/avatars/RishavChakraborty.png"
   }
 ]
