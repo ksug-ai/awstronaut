@@ -109,7 +109,7 @@
     "name": "Shinji AIBARA",
     "certs": [
       "golden kubestrong",
-	  "awstronaut",
+      "awstronaut",
       "kubestronaut"
     ],
     "city": "Fujisawa",
@@ -1586,12 +1586,14 @@
     "date": "2026-01-08",
     "bio": "Champion AWS Authorised Instructor | AI/ML Guide | 12x AWS Certified | AWS Golden Jacket Achiever | YouTuber | Speaker | Mentor | Trainer",
     "linkedin": "sonal-sarda-584b549",
-	"avatar": "/avatars/SonalSarda.jpg"
+    "avatar": "/avatars/SonalSarda.jpg"
   },
   {
     "name": "Mohamed Hossam",
     "github": "mhossam98",
-    "certs": ["awstronaut"],
+    "certs": [
+      "awstronaut"
+    ],
     "city": "Alexandria",
     "country": "Egypt",
     "date": "2026-01-11",
@@ -1602,7 +1604,9 @@
   {
     "name": "Patrick Dodds",
     "github": "duderock4545",
-    "certs": ["awstronaut"],
+    "certs": [
+      "awstronaut"
+    ],
     "city": "Fairfax",
     "country": "USA",
     "date": "2026-01-24",
@@ -1613,20 +1617,22 @@
   {
     "name": "Varun Karthik",
     "github": "vforvarun",
-      "certs": [
-        "awstronaut"
-      ],
+    "certs": [
+      "awstronaut"
+    ],
     "city": "Melbourne",
     "country": "Australia",
     "date": "2026-01-18",
     "bio": "12x AWS Certified | Senior Manager @ Deloitte | Cloud Engineering",
     "linkedin": "varun-karthik",
     "avatar": "/avatars/varun-headshot.jpeg"
- },
- {
+  },
+  {
     "name": "Yasir Yasin",
     "github": "iyasirr",
-    "certs": ["awstronaut"],
+    "certs": [
+      "awstronaut"
+    ],
     "city": "Manama",
     "country": "Bahrain",
     "date": "2026-01-12",
@@ -1637,7 +1643,9 @@
   {
     "name": "Crhistian Cardona",
     "github": "crhisto",
-    "certs": ["awstronaut"],
+    "certs": [
+      "awstronaut"
+    ],
     "city": "Medellin",
     "country": "Colombia",
     "date": "2026-01-04",
@@ -1650,7 +1658,9 @@
   {
     "name": "Donghee Kim",
     "github": "chadkim1739",
-    "certs": ["awstronaut"],
+    "certs": [
+      "awstronaut"
+    ],
     "city": "Seoul",
     "country": "South Korea",
     "date": "2026-02-05",
@@ -1662,7 +1672,7 @@
     "name": "Daisuke Watarai",
     "github": "poalo1201",
     "certs": [
-	    "awstronaut",
+      "awstronaut",
       "kubestronaut"
     ],
     "city": "Tokyo",
@@ -1675,7 +1685,9 @@
   {
     "name": "Manoj Deemantha Dehigaspage",
     "github": "manojd90",
-    "certs": ["awstronaut"],
+    "certs": [
+      "awstronaut"
+    ],
     "city": "Galle",
     "country": "Sri Lanka",
     "date": "2026-02-08",
@@ -1684,15 +1696,17 @@
     "avatar": "/avatars/manojd.jpg"
   },
   {
-	  "name": "Rohini Unnikrishnan Korappath",
-	  "github": "rohini-aws",
-	  "certs": ["awstronaut"],
-	  "city": "Waterloo",
-	  "country": "Canada",
-	  "date": "2026-02-14",
-	  "bio": "AWS | Azure | GCP | DevOps | Terraform| Kubernetes",
-	  "linkedin": "rohini-unnikrishnan-korappath",
-	  "avatar": "/avatars/rohinikorappath.jpg"
+    "name": "Rohini Unnikrishnan Korappath",
+    "github": "rohini-aws",
+    "certs": [
+      "awstronaut"
+    ],
+    "city": "Waterloo",
+    "country": "Canada",
+    "date": "2026-02-14",
+    "bio": "AWS | Azure | GCP | DevOps | Terraform| Kubernetes",
+    "linkedin": "rohini-unnikrishnan-korappath",
+    "avatar": "/avatars/rohinikorappath.jpg"
   },
   {
     "name": "Kelvin Njeru",
@@ -1710,9 +1724,9 @@
   {
     "name": "Michael Guida",
     "github": "MGAU44",
-      "certs": [
-        "awstronaut"
-      ],
+    "certs": [
+      "awstronaut"
+    ],
     "city": "Melbourne",
     "country": "Australia",
     "date": "2025-01-23",
@@ -1737,7 +1751,9 @@
   {
     "name": "Ruben Rodriguez",
     "github": "Ruben920213",
-    "certs": ["awstronaut"],
+    "certs": [
+      "awstronaut"
+    ],
     "city": "Miami",
     "country": "USA",
     "date": "2025-11-15",
@@ -1749,7 +1765,9 @@
   {
     "name": "YeongHun Choi",
     "github": "younghunei",
-    "certs": ["awstronaut"],
+    "certs": [
+      "awstronaut"
+    ],
     "city": "Seoul",
     "country": "South Korea",
     "date": "2026-03-14",
@@ -1760,7 +1778,9 @@
   {
     "name": "Albert Suwandhi",
     "github": "albertsuwandhi",
-    "certs": ["awstronaut"],
+    "certs": [
+      "awstronaut"
+    ],
     "city": "Medan",
     "country": "Indonesia",
     "date": "2026-03-16",
@@ -1771,7 +1791,9 @@
   {
     "name": "Ricardo Gulias",
     "github": "ricardogulias",
-    "certs": ["awstronaut"],
+    "certs": [
+      "awstronaut"
+    ],
     "city": "São Paulo",
     "country": "Brazil",
     "date": "2026-03-26",
@@ -1779,32 +1801,38 @@
     "linkedin": "gulias",
     "avatar": "/avatars/ricardogulias.jpg"
   },
- {
-  "name": "Rishav Chakraborty",
-  "github": "Rishav1212",
-  "certs": ["awstronaut"],
-  "city": "Kolkata",
-  "country": "India",
-  "date": "2026-03-22",
-  "bio": "Sr. DevOps Engineer @ Wipro FullStride Cloud | AWSTRONAUT | Multi-Cloud Architect | AI/ML & Automation Specialist",
-  "linkedin": "rishavchakraborty02",
-  "avatar": "/avatars/RishavChakraborty.png"
+  {
+    "name": "Rishav Chakraborty",
+    "github": "Rishav1212",
+    "certs": [
+      "awstronaut"
+    ],
+    "city": "Kolkata",
+    "country": "India",
+    "date": "2026-03-22",
+    "bio": "Sr. DevOps Engineer @ Wipro FullStride Cloud | AWSTRONAUT | Multi-Cloud Architect | AI/ML & Automation Specialist",
+    "linkedin": "rishavchakraborty02",
+    "avatar": "/avatars/RishavChakraborty.png"
   },
   {
-  "name": "Christina Chen",
-  "github": "cloudchristina",
-  "certs": ["awstronaut"],
-  "city": "Melbourne",
-  "country": "Australia",
-  "date": "2026-04-03",
-  "linkedin": "christina-cloud",
-  "website": "https://ccbuilds.vercel.app/",
-  "avatar": "/avatars/christina_chen.jpeg"
-},
-{
+    "name": "Christina Chen",
+    "github": "cloudchristina",
+    "certs": [
+      "awstronaut"
+    ],
+    "city": "Melbourne",
+    "country": "Australia",
+    "date": "2026-04-03",
+    "linkedin": "christina-cloud",
+    "website": "https://ccbuilds.vercel.app/",
+    "avatar": "/avatars/christina_chen.jpeg"
+  },
+  {
     "name": "Erick Mancz",
     "github": "erickmancz",
-    "certs": ["awstronaut"],
+    "certs": [
+      "awstronaut"
+    ],
     "city": "São Paulo",
     "country": "Brazil",
     "date": "2026-02-14",
@@ -1812,5 +1840,18 @@
     "linkedin": "erick-mancz",
     "website": "https://medium.com/@erickmancz",
     "avatar": "/avatars/erickmancz.jpg"
-}
+  },
+  {
+    "name": "Carlos Vieira",
+    "github": "grelac-dev",
+    "certs": [
+      "awstronaut"
+    ],
+    "city": "São Paulo",
+    "country": "Brazil",
+    "date": "2025-08-30",
+    "bio": "Solutions Architect | AWS GoldenJacket | 12x AWS Certified",
+    "linkedin": "carlosvieira-ti",
+    "avatar": "/avatars/grelac-dev.jpg"
+  }
 ]
