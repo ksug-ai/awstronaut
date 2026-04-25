@@ -1859,5 +1859,17 @@
     "linkedin": "mayank-sharma-a1a802171",
     "website": "https://medium.com/@mayank2299",
     "avatar": "/avatars/mayank-photo.jpg"
+  },
+   {
+    "name": "Sauveer Ketan Kumar",
+    "github": "sauveerk",
+    "certs": ["awstronaut"],
+    "city": "Delhi",
+    "country": "India",
+    "date": "2026-01-01",
+    "bio": "AWS Golden Jacket | I help organizations adopt and excel in cloud",
+    "linkedin": "sauveer-ketan",
+    "website": "https://medium.com/@sauveerk",
+    "avatar": "/avatars/sauveerk-photo.jpg"
   }
 ]
