@@ -1034,8 +1034,9 @@
     "city": "Brisbane",
     "country": "Australia",
     "date": "2024-11-08",
-    "bio": "Principal Systems Engineer | 12x AWS Certifications | AWS, Linux, DevOps, SRE",
+    "bio": "Principal Systems Engineer | 13x AWS Certifications | AWS, Linux, DevOps, SRE",
     "linkedin": "claytonrussell",
+    "website": "https://skillsprofile.skillbuilder.aws/user/claytonrussell/certification-badges",
     "avatar": "/avatars/claytonrussell.png"
   },
   {
@@ -1848,7 +1849,7 @@
   	"website": "https://mohsinkhan.me/",
 	  "avatar": "/avatars/mohsinkhan.png"
   },
-   {
+  {
     "name": "Mayank Sharma",
     "github": "mayank0202",
     "certs": ["awstronaut"],
@@ -1860,7 +1861,34 @@
     "website": "https://medium.com/@mayank2299",
     "avatar": "/avatars/mayank-photo.jpg"
   },
-   {
+  {
+    "name": "Shamnad Shaji",
+    "github": "shamnadps",
+    "certs": [
+      "awstronaut"
+    ],
+    "bio": "Senior Software Engineer | 12 x AWS Certified🧥 | 12 x Google Certified | AWS Community Builder | 5x Microsoft Certified |  KCNA | JLPT N5",
+    "city": "Helsinki",
+    "country": "Finland",
+    "date": "2024-10-24",
+    "linkedin": "shamnadshaji",
+    "website": "",
+    "avatar": "/avatars/shamnad.png"
+  },
+  {
+  "name": "Patrick Hannah",
+  "github": "patrickhannah",
+  "certs": ["awstronaut"],
+  "city": "Atlanta",
+  "country": "USA",
+  "date": "2025-01-01",
+  "bio": "Of all the things I've lost, I miss my mind the most",
+  "twitter": "pjhannah1",
+  "linkedin": "patrickjhannah",
+  "website": "https://blog.ronin48.io",
+  "avatar": "/avatars/patrickhannah.jpg"
+  },
+  {
     "name": "Sauveer Ketan",
     "github": "sauveerk",
     "certs": ["awstronaut"],
