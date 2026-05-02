@@ -1887,5 +1887,17 @@
   "linkedin": "patrickjhannah",
   "website": "https://blog.ronin48.io",
   "avatar": "/avatars/patrickhannah.jpg"
+  },
+  {
+    "name": "Sauveer Ketan",
+    "github": "sauveerk",
+    "certs": ["awstronaut"],
+    "city": "Delhi",
+    "country": "India",
+    "date": "2026-01-01",
+    "bio": "AWS Golden Jacket | I help organizations adopt and excel in cloud",
+    "linkedin": "sauveer-ketan",
+    "website": "https://medium.com/@sauveer.ketan",
+    "avatar": "/avatars/sauveerk-photo.jpg"
   }
 ]
