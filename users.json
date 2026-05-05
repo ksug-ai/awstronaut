@@ -1911,5 +1911,16 @@
     "linkedin": "apulgupta",
     "website": "https://www.linkedin.com/in/apulgupta/",
     "avatar": "/avatars/ApulGupta.jpg"
+   },
+  {
+  "name": "Michael Wienczkowski",
+  "github": "Michael-Henry-W",
+  "certs": ["awstronaut"],
+  "city": "Erie",
+  "country": "USA",
+  "date": "2026-05-04",
+  "bio": "Sr. Security Engineer | AWS Golden Jacket | Do something amazing",
+  "linkedin": "michaelwski",
+  "avatar": "/avatars/Michael-Henry-W.png"
   }
 ]
