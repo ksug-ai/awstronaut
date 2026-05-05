@@ -1899,5 +1899,17 @@
     "linkedin": "sauveer-ketan",
     "website": "https://medium.com/@sauveer.ketan",
     "avatar": "/avatars/sauveerk-photo.jpg"
+  },
+	 {
+    "name": "Apul Gupta",
+    "github": "cloudcrafts-dev",
+    "certs": ["awstronaut"],
+    "city": "Delhi",
+    "country": "India",
+    "date": "2026-05-04",
+    "bio": "AWS Golden Jacket | Serverless, Microservices, API Design | Modernization & Migration | Node.js, React | Cost Optimization & Security",
+    "linkedin": "apulgupta",
+    "website": "https://www.linkedin.com/in/apulgupta/",
+    "avatar": "/avatars/ApulGupta.jpg"
   }
 ]
