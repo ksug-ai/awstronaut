@@ -1899,5 +1899,16 @@
     "linkedin": "sauveer-ketan",
     "website": "https://medium.com/@sauveer.ketan",
     "avatar": "/avatars/sauveerk-photo.jpg"
+  },
+  {
+  "name": "Michael Wienczkowski",
+  "github": "Michael-Henry-W",
+  "certs": ["awstronaut"],
+  "city": "Erie",
+  "country": "USA",
+  "date": "2026-05-04",
+  "bio": "Sr. Security Engineer | AWS Golden Jacket | Do something amazing",
+  "linkedin": "michaelwski",
+  "avatar": "/avatars/Michael-Henry-W.png"
   }
 ]
