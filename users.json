@@ -1922,5 +1922,17 @@
     "linkedin": "apulgupta",
     "website": "https://www.linkedin.com/in/apulgupta/",
     "avatar": "/avatars/ApulGupta.jpg"
+  },
+  {
+    "name": "Avinash Reddy Thipparthi",
+    "github": "avizway1",
+    "certs": [
+      "awstronaut"
+    ],
+    "city": "Hyderabad",
+    "country": "India",
+    "date": "2026-02-20",
+    "bio": "DevSecOps Engineer | Aviz Academy | Cloud and Infra Specialist | Youtube - Aviz Academy ",
+    "linkedin": "avizway",
   }
 ]
