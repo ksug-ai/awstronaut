@@ -1934,5 +1934,20 @@
     "date": "2026-02-20",
     "bio": "DevSecOps Engineer | Aviz Academy | Cloud and Infra Specialist | Youtube - Aviz Academy ",
     "linkedin": "avizway"
+  },
+  {
+    "name": "Rashendra Gunawardena",
+    "github": "rashendra",
+    "certs": [
+      "awstronaut"
+    ],
+    "city": "Melbourne",
+    "country": "Australia",
+    "date": "2026-02-21",
+    "bio": "Principal Engineer @NEF National Australia Bank| AWS SME |13 xAWS | 1 x GCP | 1 Oracle |3 Sun | 1 x Terraform| 1x HC Vault | 1 x C. Apache Kafka | 1XAkamai | CKA | CKAD |CKS|KCNA| KCSA | Harness | PBF GFIN | Kubestronaut",
+    "twitter": "Rashen53289482",
+    "linkedin": "rashendrag",
+    "website": "",
+    "avatar": "/avatars/rashendra.png"
   }
 ]
