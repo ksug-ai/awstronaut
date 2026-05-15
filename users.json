@@ -1949,5 +1949,19 @@
     "linkedin": "rashendrag",
     "website": "",
     "avatar": "/avatars/rashendra.png"
+  },
+  {
+    "name": "Viktor Krasheninnikov",
+    "github": "krsh-off",
+    "certs": [
+      "awstronaut"
+    ],
+    "city": "Jersey City",
+    "country": "USA",
+    "date": "2026-04-01",
+    "bio": "Cloud Architect | AWS Solution Lead | AWS Golden Jacket | 12x AWS Certified",
+    "linkedin": "viktor-krasheninnikov",
+    "website": "",
+    "avatar": "/avatars/viktorkrasheninnikov.jpg"
   }
 ]
