@@ -1949,5 +1949,19 @@
     "linkedin": "rashendrag",
     "website": "",
     "avatar": "/avatars/rashendra.png"
+  },
+  {
+    "name": "Bojin Zhang",
+    "github": "mike830130",
+    "certs": [
+      "awstronaut"
+    ],
+    "city": "Auckland",
+    "country": "New Zealand",
+    "date": "2026-04-30",
+    "bio": "13x AWS Certified | Senior Software Engineer | Cloud & AI",
+    "linkedin": "bojin-zhang-20490142",
+    "website": "",
+    "avatar": "/avatars/Bojin-Zhang.jpg"
   }
 ]
