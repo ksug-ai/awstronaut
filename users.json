@@ -59,8 +59,9 @@
   {
     "name": "Bangaly KABA, PhD",
     "certs": [
+      "golden kubestrong",
       "awstronaut",
-      "kubestronaut"
+      "golden kubestronaut"
     ],
     "city": "Paris",
     "country": "France",
@@ -1033,8 +1034,9 @@
     "city": "Brisbane",
     "country": "Australia",
     "date": "2024-11-08",
-    "bio": "Principal Systems Engineer | 12x AWS Certifications | AWS, Linux, DevOps, SRE",
+    "bio": "Principal Systems Engineer | 13x AWS Certifications | AWS, Linux, DevOps, SRE",
     "linkedin": "claytonrussell",
+    "website": "https://skillsprofile.skillbuilder.aws/user/claytonrussell/certification-badges",
     "avatar": "/avatars/claytonrussell.png"
   },
   {
@@ -1397,7 +1399,7 @@
     "city": "Cologne",
     "country": "Germany",
     "date": "2025-11-28",
-    "bio": "Cloud Architect | AWS Authorized Instructor | AWS Golden Jacket | Linux Enthusiast |@awstronaut",
+    "bio": "Cloud Architect | AWS Authorized Instructor - Champion | AWS Golden Jacket | Linux Enthusiast",
     "linkedin": "florian-turnwald-1080945b",
     "avatar": "/avatars/florianturnwald.png"
   },
@@ -1576,7 +1578,7 @@
   },
   {
     "name": "Sonal Sarda",
-    "github": "sonalsarda",                 
+    "github": "sonalsarda",
     "certs": [
       "awstronaut"
     ],
@@ -1597,8 +1599,371 @@
     "bio": "Senior HPC Cloud and Systems Engineer @ Brightskies || AWS Golden Jacket 🧥🥇 || AWS HPC/ML Expert ☁ | 12xAWS Certified® (ANS, SCS, MLS, DOP, SAP, DVA, MLA, DEA, SOA, SAA, AIF, CCP) || RHCSA® || CCNA®",
     "linkedin": "mohamed-hossam-",
     "avatar": "/avatars/mhossam98.jpg"
-  } 
-
+  },
+  {
+    "name": "Patrick Dodds",
+    "github": "duderock4545",
+    "certs": ["awstronaut"],
+    "city": "Fairfax",
+    "country": "USA",
+    "date": "2026-01-24",
+    "bio": "22 Year Old Contractor | Georgia Tech CS Masters Student",
+    "linkedin": "patrick-dodds-0b715a261",
+    "avatar": "/avatars/patrickdo.jpg"
+  },
+  {
+    "name": "Varun Karthik",
+    "github": "vforvarun",
+      "certs": [
+        "awstronaut"
+      ],
+    "city": "Melbourne",
+    "country": "Australia",
+    "date": "2026-01-18",
+    "bio": "12x AWS Certified | Senior Manager @ Deloitte | Cloud Engineering",
+    "linkedin": "varun-karthik",
+    "avatar": "/avatars/varun-headshot.jpeg"
+ },
+ {
+    "name": "Yasir Yasin",
+    "github": "iyasirr",
+    "certs": ["awstronaut"],
+    "city": "Manama",
+    "country": "Bahrain",
+    "date": "2026-01-12",
+    "bio": "DevSecOps & Software Engineer",
+    "linkedin": "i-yasir",
+    "avatar": "/avatars/yasiryasin.png"
+  },
+  {
+    "name": "Crhistian Cardona",
+    "github": "crhisto",
+    "certs": ["awstronaut"],
+    "city": "Medellin",
+    "country": "Colombia",
+    "date": "2026-01-04",
+    "bio": "AI & ML Engineering Manager @ Loka | 13x AWS Certified 🧥 | GenAI & Cloud Strategy on AWS | Scaling High-Impact Teams & Platforms",
+    "linkedin": "crhistiancardona",
+    "twitter": "crhistocardona",
+    "website": "https://medium.com/@crhisto",
+    "avatar": "/avatars/crhistiancardona.jpeg"
+  },
+  {
+    "name": "Donghee Kim",
+    "github": "chadkim1739",
+    "certs": ["awstronaut"],
+    "city": "Seoul",
+    "country": "South Korea",
+    "date": "2026-02-05",
+    "bio": "DevSecOps Engineer | Information Security Manager (GRC Manager) | Experienced in achieving ISMS-P Certification (ISO 27001 & 27701 equivalent with Korean legal requirements) | AWS Solutions Architect | AWS All-Star (13× AWS Certified) | awstronaut",
+    "linkedin": "donghee-kim-478a27297",
+    "avatar": "/avatars/DongheeKim.jpg"
+  },
+  {
+    "name": "Daisuke Watarai",
+    "github": "poalo1201",
+    "certs": [
+	    "awstronaut",
+      "kubestronaut"
+    ],
+    "city": "Tokyo",
+    "country": "Japan",
+    "date": "2024-11-15",
+    "bio": "Cloud Engineer | Exploring Cloud, Kubernetes and Specializing in DevOps | 12x AWS Certified | Information Technology Specialits(@Sompo Systems Inc.)",
+    "linkedin": "daisuke-watarai-51846b356",
+    "avatar": "/avatars/daisukewatarai.jpg"
+  },
+  {
+    "name": "Manoj Deemantha Dehigaspage",
+    "github": "manojd90",
+    "certs": ["awstronaut"],
+    "city": "Galle",
+    "country": "Sri Lanka",
+    "date": "2026-02-08",
+    "bio": "Senior Lead - Devops | BEng |13 x AWS |7 x RedHat |2 x GCP |2 Azure |CKA |CCNA |ITIL®",
+    "linkedin": "manojdeemantha",
+    "avatar": "/avatars/manojd.jpg"
+  },
+  {
+	  "name": "Rohini Unnikrishnan Korappath",
+	  "github": "rohini-aws",
+	  "certs": ["awstronaut"],
+	  "city": "Waterloo",
+	  "country": "Canada",
+	  "date": "2026-02-14",
+	  "bio": "AWS | Azure | GCP | DevOps | Terraform| Kubernetes",
+	  "linkedin": "rohini-unnikrishnan-korappath",
+	  "avatar": "/avatars/rohinikorappath.jpg"
+  },
+  {
+    "name": "Kelvin Njeru",
+    "github": "kelvoBraavos",
+    "certs": [
+      "awstronaut"
+    ],
+    "city": "Nairobi",
+    "country": "Kenya",
+    "date": "2025-06-25",
+    "bio": "Cloud & DevOps Engineer | Amazonian | AWS Golden Jacket | Solutions Architect | Networks Engineer",
+    "linkedin": "kelvin-njeru-461b41161",
+    "avatar": "/avatars/kelvin-njeru.png"
+  },
+  {
+    "name": "Michael Guida",
+    "github": "MGAU44",
+      "certs": [
+        "awstronaut"
+      ],
+    "city": "Melbourne",
+    "country": "Australia",
+    "date": "2025-01-23",
+    "bio": "13x AWS Certified | Engineering Lead at Deloitte | Cloud Engineering",
+    "linkedin": "michael-guida-304b1396",
+    "avatar": "/avatars/michaelg.jpg"
+  },
+  {
+    "name": "Gonzalo Muñoz",
+    "github": "gonzaloan",
+    "certs": [
+      "awstronaut"
+    ],
+    "city": "Valparaiso",
+    "country": "Chile",
+    "date": "2026-02-20",
+    "bio": "Team Lead / Cloud Engineer",
+    "linkedin": "mmgonzalo",
+    "website": "https://gonzalo-munoz.com",
+    "avatar": "/avatars/gonzalomunoz.png"
+  },
+  {
+    "name": "Ruben Rodriguez",
+    "github": "Ruben920213",
+    "certs": ["awstronaut"],
+    "city": "Miami",
+    "country": "USA",
+    "date": "2025-11-15",
+    "bio": "Solutions Architect | 14x AWS Certified AWS | Golden Jacket",
+    "linkedin": "ruben-rodriguez-53369aa5",
+    "website": "https://www.linkedin.com/in/ruben-rodriguez-53369aa5",
+    "avatar": "/avatars/rubenrodriguez.jpeg"
+  },
+  {
+    "name": "YeongHun Choi",
+    "github": "younghunei",
+    "certs": ["awstronaut"],
+    "city": "Seoul",
+    "country": "South Korea",
+    "date": "2026-03-14",
+    "bio": "Cloud Support Engineer | AI Engineering with Amazon Bedrock & AgentCore | AWS Infrastructure & Automation Specialist | AWS Community Builder (AI Engineering) | AWS All-Star (13× AWS Certified) | Building intelligent systems that make cloud operations smarter",
+    "linkedin": "yeonghun-185815337",
+    "avatar": "/avatars/YeongHunChoi.jpg"
+  },
+  {
+    "name": "Albert Suwandhi",
+    "github": "albertsuwandhi",
+    "certs": ["awstronaut"],
+    "city": "Medan",
+    "country": "Indonesia",
+    "date": "2026-03-16",
+    "bio": "Cloud Engineer | AWS Community Hero | IT Lecturer",
+    "linkedin": "albertsuwandhi",
+    "avatar": "/avatars/albertsuwandhi.png"
+  },
+  {
+    "name": "Ricardo Gulias",
+    "github": "ricardogulias",
+    "certs": ["awstronaut"],
+    "city": "São Paulo",
+    "country": "Brazil",
+    "date": "2026-03-26",
+    "bio": "Cloud Engineer | AWS Golden Jacket | 12x AWS Certified",
+    "linkedin": "gulias",
+    "avatar": "/avatars/ricardogulias.jpg"
+  },
+  {
+	"name": "Rishav Chakraborty",
+	"github": "Rishav1212",
+	"certs": ["awstronaut"],
+	"city": "Kolkata",
+	"country": "India",
+	"date": "2026-03-22",
+	"bio": "Sr. DevOps Engineer @ Wipro FullStride Cloud | AWSTRONAUT | Multi-Cloud Architect | AI/ML & Automation Specialist",
+	"linkedin": "rishavchakraborty02",
+	"avatar": "/avatars/RishavChakraborty.png"
+  },
+  {
+    "name": "Christina Chen",
+  	"github": "cloudchristina",
+  	"certs": ["awstronaut"],
+  	"city": "Melbourne",
+ 	"country": "Australia",
+ 	"date": "2026-04-03",
+  	"linkedin": "christina-cloud",
+  	"website": "https://ccbuilds.vercel.app/",
+  	"avatar": "/avatars/christina_chen.jpeg"
+  },
+  {
+    "name": "Erick Mancz",
+    "github": "erickmancz",
+    "certs": ["awstronaut"],
+    "city": "São Paulo",
+    "country": "Brazil",
+    "date": "2026-02-14",
+    "bio": "AWS Golden Jacket | Author on Medium @erickmancz | Network and Security Specialist | 13x AWS Certified | The one who never gave up",
+    "linkedin": "erick-mancz",
+    "website": "https://medium.com/@erickmancz",
+    "avatar": "/avatars/erickmancz.jpg"
+  },
+  {
+    "name": "Ankit Saxena",
+    "github": "ankitdeepsaxena",
+    "certs": ["awstronaut"],
+    "city": "Mexico City",
+    "country": "Mexico",
+    "date": "2025-03-25",
+    "bio": "AWS Golden Jacket | Cloud Architect | Driving outcomes through deep technical expertise, leading teams, and simplifying complex architectures",
+    "linkedin": "ankit-saxena-28557366",
+    "website": "https://medium.com/@ankit-saxena",
+    "avatar": "/avatars/ankitsaxena.jpg"
+  },
+  {
+    "name": "Carlos Vieira",
+    "github": "grelac-dev",
+    "certs": ["awstronaut"],
+    "city": "São Paulo",
+    "country": "Brazil",
+    "date": "2025-08-30",
+    "bio": "Solutions Architect | AWS GoldenJacket | 12x AWS Certified",
+    "linkedin": "carlosvieira-ti",
+    "avatar": "/avatars/grelac-dev.jpg"
+  },
+  {
+	  "name": "Mohsin Khan",
+	  "github": "mohsin-akhan",
+  	"certs": ["awstronaut"],
+  	"city": "Manchester",
+  	"country": "United Kingdom",
+ 	  "date": "2024-10-07",
+ 	  "bio": "AWS Solutions Architect",
+  	"linkedin": "mohsinkhann",
+  	"website": "https://mohsinkhan.me/",
+	  "avatar": "/avatars/mohsinkhan.png"
+  },
+  {
+    "name": "Mayank Sharma",
+    "github": "mayank0202",
+    "certs": ["awstronaut"],
+    "city": "Delhi",
+    "country": "India",
+    "date": "2026-04-13",
+    "bio": "AWS Golden Jacket | Devops Consultant | Driving outcomes through deep technical expertise, leading teams, and simplifying complex architectures",
+    "linkedin": "mayank-sharma-a1a802171",
+    "website": "https://medium.com/@mayank2299",
+    "avatar": "/avatars/mayank-photo.jpg"
+  },
+  {
+    "name": "Shamnad Shaji",
+    "github": "shamnadps",
+    "certs": [
+      "awstronaut"
+    ],
+    "bio": "Senior Software Engineer | 12 x AWS Certified🧥 | 12 x Google Certified | AWS Community Builder | 5x Microsoft Certified |  KCNA | JLPT N5",
+    "city": "Helsinki",
+    "country": "Finland",
+    "date": "2024-10-24",
+    "linkedin": "shamnadshaji",
+    "website": "",
+    "avatar": "/avatars/shamnad.png"
+  },
+  {
+  "name": "Patrick Hannah",
+  "github": "patrickhannah",
+  "certs": ["awstronaut"],
+  "city": "Atlanta",
+  "country": "USA",
+  "date": "2025-01-01",
+  "bio": "Of all the things I've lost, I miss my mind the most",
+  "twitter": "pjhannah1",
+  "linkedin": "patrickjhannah",
+  "website": "https://blog.ronin48.io",
+  "avatar": "/avatars/patrickhannah.jpg"
+  },
+  {
+    "name": "Sauveer Ketan",
+    "github": "sauveerk",
+    "certs": ["awstronaut"],
+    "city": "Delhi",
+    "country": "India",
+    "date": "2026-01-01",
+    "bio": "AWS Golden Jacket | I help organizations adopt and excel in cloud",
+    "linkedin": "sauveer-ketan",
+    "website": "https://medium.com/@sauveer.ketan",
+    "avatar": "/avatars/sauveerk-photo.jpg"
+  },
+  {
+  "name": "Michael Wienczkowski",
+  "github": "Michael-Henry-W",
+  "certs": ["awstronaut"],
+  "city": "Erie",
+  "country": "USA",
+  "date": "2026-05-04",
+  "bio": "Sr. Security Engineer | AWS Golden Jacket | Do something amazing",
+  "linkedin": "michaelwski",
+  "avatar": "/avatars/Michael-Henry-W.png"
+  },
+  {
+    "name": "Apul Gupta",
+    "github": "cloudcrafts-dev",
+    "certs": ["awstronaut"],
+    "city": "Indianapolis",
+    "country": "USA",
+    "date": "2025-05-01",
+    "bio": "AWS Golden Jacket | Serverless, Microservices, API Design | Modernization & Migration | Node.js, React | Cost Optimization & Security",
+    "linkedin": "apulgupta",
+    "website": "https://www.linkedin.com/in/apulgupta/",
+    "avatar": "/avatars/ApulGupta.jpg"
+  },
+  {
+    "name": "Avinash Reddy Thipparthi",
+    "github": "avizway1",
+    "certs": [
+      "awstronaut"
+    ],
+    "city": "Hyderabad",
+    "country": "India",
+    "date": "2026-02-20",
+    "bio": "DevSecOps Engineer | Aviz Academy | Cloud and Infra Specialist | Youtube - Aviz Academy ",
+    "linkedin": "avizway"
+  },
+  {
+    "name": "Rashendra Gunawardena",
+    "github": "rashendra",
+    "certs": [
+      "awstronaut"
+    ],
+    "city": "Melbourne",
+    "country": "Australia",
+    "date": "2026-02-21",
+    "bio": "Principal Engineer @NEF National Australia Bank| AWS SME |13 xAWS | 1 x GCP | 1 Oracle |3 Sun | 1 x Terraform| 1x HC Vault | 1 x C. Apache Kafka | 1XAkamai | CKA | CKAD |CKS|KCNA| KCSA | Harness | PBF GFIN | Kubestronaut",
+    "twitter": "Rashen53289482",
+    "linkedin": "rashendrag",
+    "website": "",
+    "avatar": "/avatars/rashendra.png"
+  },
+  {
+    "name": "Bojin Zhang",
+    "github": "mike830130",
+    "certs": [
+      "awstronaut"
+    ],
+    "city": "Auckland",
+    "country": "New Zealand",
+    "date": "2026-04-30",
+    "bio": "13x AWS Certified | Senior Software Engineer | Cloud & AI",
+    "linkedin": "bojin-zhang-20490142",
+    "website": "",
+    "avatar": "/avatars/Bojin-Zhang.jpg"
+  }, 
 	{
     "name": "Preyash Vrat",
     "github": "preyashvr",
@@ -1607,7 +1972,7 @@
     "country": "India",
     "date": "2024-08-24",
     "bio": "Google Cloud Practce Director in Wipro || AWS Golden Jacket 🧥🥇 12x AWS Certified | AWS Golden Jacket Achiever | 13 GCP Certified | 6 Azure Certfied | YouTuber | Speaker | Mentor | Microsoft Certified Trainer ",
-    "linkedin": "preyash-vrat-☁-practice-director-google-practice-ex-ibm-capgemini-accenture-and-hcl-b1328323/",
+    "linkedin": "preyash-vrat-☁-practice-director-google-practice-ex-ibm-capgemini-accenture-and-hcl-b1328323",
     "avatar": "/avatars/PreyashGoldenJacket.jpg"
-  } 
+  }
 ]
