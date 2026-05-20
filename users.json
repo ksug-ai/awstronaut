@@ -1963,5 +1963,15 @@
     "linkedin": "bojin-zhang-20490142",
     "website": "",
     "avatar": "/avatars/Bojin-Zhang.jpg"
+  }, 
+	{
+    "name": "Preyash Vrat",
+    "github": "preyashvr",
+    "certs": ["awstronaut"],
+    "city": "Bengaluru",
+    "country": "India",
+    "date": "2024-08-24",
+    "bio": "Google Cloud Practce Director in Wipro || AWS Golden Jacket 🧥🥇 12x AWS Certified | AWS Golden Jacket Achiever | 13 GCP Certified | 6 Azure Certfied | YouTuber | Speaker | Mentor | Microsoft Certified Trainer ",
+    "avatar": "/avatars/PreyashGoldenJacket.jpg"
   }
 ]
