@@ -253,6 +253,17 @@
     "linkedin": "duelist2020jp-a03b55227",
     "avatar": "/avatars/kiyomasamiyamoto.jpg",
     "bio": "15x AWS Certified and Community Builder :: Follow me on LinkedIn to know more 😄"
+  }, 
+  {
+    "name": "Preyash Vrat",
+    "github": "preyashvr",
+    "certs": ["awstronaut"],
+    "city": "Bengaluru",
+    "country": "India",
+    "date": "2024-08-24",
+    "bio": "Google Cloud Practce Director in Wipro || AWS Golden Jacket 🧥🥇 12x AWS Certified | AWS Golden Jacket Achiever | 13 GCP Certified | 6 Azure Certfied | YouTuber | Speaker | Mentor | Microsoft Certified Trainer ",
+    "linkedin": "preyash-vrat-☁-practice-director-google-practice-ex-ibm-capgemini-accenture-and-hcl-b1328323",		
+    "avatar": "/avatars/PreyashGoldenJacket.jpg"
   },
   {
     "name": "Vishnu Rachapudi",
@@ -1963,15 +1974,5 @@
     "linkedin": "bojin-zhang-20490142",
     "website": "",
     "avatar": "/avatars/Bojin-Zhang.jpg"
-  }, 
-	{
-    "name": "Preyash Vrat",
-    "github": "preyashvr",
-    "certs": ["awstronaut"],
-    "city": "Bengaluru",
-    "country": "India",
-    "date": "2024-08-24",
-    "bio": "Google Cloud Practce Director in Wipro || AWS Golden Jacket 🧥🥇 12x AWS Certified | AWS Golden Jacket Achiever | 13 GCP Certified | 6 Azure Certfied | YouTuber | Speaker | Mentor | Microsoft Certified Trainer ",
-    "avatar": "/avatars/PreyashGoldenJacket.jpg"
   }
 ]
