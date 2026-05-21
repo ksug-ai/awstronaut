@@ -993,7 +993,8 @@
     "bio": "AWS Community Builder and Senior Software Developer at Bravo LT",
     "linkedin": "wheeleruniverse",
     "website": "https://wheeleruniverse.com/",
-    "twitter": "wheeleruniverse"
+    "twitter": "wheeleruniverse",
+    "avatar": "/avatars/justinwheeler.png"
   },
   {
     "name": "Ivan Kopas",
@@ -1303,7 +1304,8 @@
     "bio": "CTO | PMP®/ACP® | Solution Architect | AWS Golden Jacket | Open Source Enthusiast",
     "twitter": "nguyenanhung",
     "linkedin": "nguyenanhung",
-    "website": "https://nguyenanhung.com"
+    "website": "https://nguyenanhung.com",
+    "avatar": "/avatars/nguyenanhung.png"
   },
   {
     "name": "Ant Hayes",
@@ -1572,7 +1574,8 @@
     "bio": "Staff Resident Solutions Architect | Field CTO | Ex-AWS | AI/ML Enthusiast |PhD |  12x AWS | 3x HashiCorp | YouTuber | Author | Speaker | Mentor | Trainer | Researcher | Adjunct Professor",
     "linkedin": "dr-rahul-gaikwad",
     "twitter": "Dr_RahulGaikwad",
-    "website": "https://dr-rahulgaikwad.com/"
+    "website": "https://dr-rahulgaikwad.com/",
+	"avatar": "/avatars/DrRahulGaikwad.jpg"
   },
   {
     "name": "Durgesh Nath",
@@ -1944,7 +1947,8 @@
     "country": "India",
     "date": "2026-02-20",
     "bio": "DevSecOps Engineer | Aviz Academy | Cloud and Infra Specialist | Youtube - Aviz Academy ",
-    "linkedin": "avizway"
+    "linkedin": "avizway",
+	"avatar": "/avatars/avinash.png"
   },
   {
     "name": "Rashendra Gunawardena",
