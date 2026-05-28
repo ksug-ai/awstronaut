@@ -253,6 +253,17 @@
     "linkedin": "duelist2020jp-a03b55227",
     "avatar": "/avatars/kiyomasamiyamoto.jpg",
     "bio": "15x AWS Certified and Community Builder :: Follow me on LinkedIn to know more 😄"
+  }, 
+  {
+    "name": "Preyash Vrat",
+    "github": "preyashvr",
+    "certs": ["awstronaut"],
+    "city": "Bengaluru",
+    "country": "India",
+    "date": "2024-08-24",
+    "bio": "Google Cloud Practce Director in Wipro || AWS Golden Jacket 🧥🥇 12x AWS Certified | AWS Golden Jacket Achiever | 13 GCP Certified | 6 Azure Certfied | YouTuber | Speaker | Mentor | Microsoft Certified Trainer ",
+    "linkedin": "preyash-vrat-☁-practice-director-google-practice-ex-ibm-capgemini-accenture-and-hcl-b1328323",		
+    "avatar": "/avatars/PreyashGoldenJacket.jpg"
   },
   {
     "name": "Vishnu Rachapudi",
@@ -657,7 +668,8 @@
     "country": "India",
     "date": "2024-06-14",
     "bio": "Cloud Engineer at AWS",
-    "linkedin": "ankithaseeja"
+    "linkedin": "ankithaseeja",
+    "avatar": "/avatars/ankithaseeja.png"
   },
   {
     "name": "Yevhen Skyba",
@@ -982,7 +994,8 @@
     "bio": "AWS Community Builder and Senior Software Developer at Bravo LT",
     "linkedin": "wheeleruniverse",
     "website": "https://wheeleruniverse.com/",
-    "twitter": "wheeleruniverse"
+    "twitter": "wheeleruniverse",
+    "avatar": "/avatars/justinwheeler.png"
   },
   {
     "name": "Ivan Kopas",
@@ -1292,7 +1305,8 @@
     "bio": "CTO | PMP®/ACP® | Solution Architect | AWS Golden Jacket | Open Source Enthusiast",
     "twitter": "nguyenanhung",
     "linkedin": "nguyenanhung",
-    "website": "https://nguyenanhung.com"
+    "website": "https://nguyenanhung.com",
+    "avatar": "/avatars/nguyenanhung.png"
   },
   {
     "name": "Ant Hayes",
@@ -1561,7 +1575,8 @@
     "bio": "Staff Resident Solutions Architect | Field CTO | Ex-AWS | AI/ML Enthusiast |PhD |  12x AWS | 3x HashiCorp | YouTuber | Author | Speaker | Mentor | Trainer | Researcher | Adjunct Professor",
     "linkedin": "dr-rahul-gaikwad",
     "twitter": "Dr_RahulGaikwad",
-    "website": "https://dr-rahulgaikwad.com/"
+    "website": "https://dr-rahulgaikwad.com/",
+	"avatar": "/avatars/DrRahulGaikwad.jpg"
   },
   {
     "name": "Durgesh Nath",
@@ -1933,7 +1948,8 @@
     "country": "India",
     "date": "2026-02-20",
     "bio": "DevSecOps Engineer | Aviz Academy | Cloud and Infra Specialist | Youtube - Aviz Academy ",
-    "linkedin": "avizway"
+    "linkedin": "avizway",
+	"avatar": "/avatars/avinash.png"
   },
   {
     "name": "Rashendra Gunawardena",
@@ -1963,6 +1979,20 @@
     "linkedin": "bojin-zhang-20490142",
     "website": "",
     "avatar": "/avatars/Bojin-Zhang.jpg"
+  },
+  {
+    "name": "Viktor Krasheninnikov",
+    "github": "krsh-off",
+    "certs": [
+      "awstronaut"
+    ],
+    "city": "Jersey City",
+    "country": "USA",
+    "date": "2026-04-01",
+    "bio": "Cloud Architect | AWS Solution Lead | AWS Golden Jacket | 12x AWS Certified",
+    "linkedin": "viktor-krasheninnikov",
+    "website": "",
+    "avatar": "/avatars/viktorkrasheninnikov.jpg"
   },
   {
     "name": "Luca D'Addeo",
