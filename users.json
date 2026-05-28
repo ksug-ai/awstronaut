@@ -1993,5 +1993,19 @@
     "linkedin": "viktor-krasheninnikov",
     "website": "",
     "avatar": "/avatars/viktorkrasheninnikov.jpg"
+  },
+  {
+    "name": "Luca D'Addeo",
+    "github": "LucaDAddeo",
+    "certs": [
+      "awstronaut"
+    ],
+    "city": "Novara",
+    "country": "Italy",
+    "date": "2026-05-19",
+    "bio": "AWS AI & Cloud Transformation Advisor for SMEs & ISVs | Chapion AWS Authorized Instructor | 16X AWS Certified",
+    "linkedin": "lucadaddeo",
+    "website": "www.thewebguru.it",
+    "avatar": "/avatars/Luca D’Addeo.jpg"
   }
 ]
