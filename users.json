@@ -2017,5 +2017,17 @@
     "bio": "Multi-Cloud Global Delivery Leader | 🛡️World’s Most Salesforce Certified & Accredited Professional | AWS Golden Jacket | Ecosystem Authority & Visionary | 100+ E2E Programs | AI Strategy→Execution",
     "linkedin": "johnjwhite1",
     "website": "https://johnwhite.info"
+  },
+ {
+    "name": "Mario Rodriguez",
+    "certs": [
+      "awstronaut"
+    ],
+    "city": "Gran Canaria",
+	"bio": "Cloud Solutions Architect @ Indra Group | 12x AWS Certified | Fully GCP Certified |  49x Azure & Microsoft Certfied | 19x OCI Certified |  Fully GitHub Certified | MCT | Technical Reviewer",
+    "country": "Spain",
+    "date": "2026-05-31",
+    "linkedin": "mariorodriguezhernandez",
+    "avatar": "/avatars/mariolearnops.jpg"
   }
 ]
