@@ -2030,8 +2030,21 @@
     "linkedin": "mariorodriguezhernandez",
     "avatar": "/avatars/mariolearnops.jpg"
   },
- {
-	"name": "Omshree Butani",
+  {
+    "name": "Nicolas Pierson",
+    "github": "nclsprsn",
+    "certs": [
+      "awstronaut"
+    ],
+    "city": "Paris",
+    "country": "France",
+    "bio": "Solution Architect | AWS Golden Jacket | 12x AWS Certified",
+    "date": "2026-03-18",
+    "linkedin": "nicolas-pierson",
+    "avatar": "/avatars/nclsprsn.jpg"
+  },
+  {
+	  "name": "Omshree Butani",
     "certs": [
       "awstronaut"
     ],
@@ -2041,5 +2054,5 @@
     "date": "2026-05-21",
     "linkedin": "omshree-butani",
     "avatar": "/avatars/omshreebutani.jpg"
- }
+  }
 ]
