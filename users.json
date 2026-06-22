@@ -2042,5 +2042,19 @@
     "date": "2026-03-18",
     "linkedin": "nicolas-pierson",
     "avatar": "/avatars/nclsprsn.jpg"
+  },
+ {
+    "name": "Albert Zhu",
+    "github": "Albertzue",
+    "certs": [
+      "kubestrong",
+      "golden kubestronaut",
+      "awstronaut"
+    ],
+    "city": "Shanghai",
+    "country": "China",
+    "date": "2025-05-17",
+    "linkedin": "albertzhu88",
+    "avatar": "/avatars/albertzhu.png"
   }
 ]
