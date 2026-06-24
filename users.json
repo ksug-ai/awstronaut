@@ -2044,3 +2044,14 @@
     "avatar": "/avatars/nclsprsn.jpg"
   }
 ]
+{
+  "name": "Priyanshi Gangwar",
+  "certs": ["awstronaut"],
+  "city": "Kichha",
+  "state": "Uttarakhand",
+  "country": "India",
+  "date": "2026-03-01",
+  "bio": "India's Youngest AWS Golden Jacket Holder 🏆 | GenAI Engineer | 13x AWS • 6x Azure • 2x GCP Certified | Agentic AI on AWS | DevOps & IaC | Kubestronaut | Multi-Cloud Architect | 100K+ Social Reach",
+  "linkedin": "www.linkedin.com/in/priyanshigangwar",
+  "avatar": "/avatars/priyanshi.jpg"
+}
