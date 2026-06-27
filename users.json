@@ -2055,5 +2055,19 @@
     "avatar": "/avatars/AlexFlores.png",
     "github": "DevAlex001",
     "bio": "AWS Community Builder - AI | DevOps/Cloud | 13x AWS | :: Let's connect on LinkedIn!"
+  },
+  {
+    "name": "Albert Zhu",
+    "github": "Albertzue",
+    "certs": [
+      "golden kubestrong",
+      "golden kubestronaut",
+      "awstronaut"
+    ],
+    "city": "Shanghai",
+    "country": "China",
+    "date": "2026-06-22",
+    "linkedin": "albertzhu88",
+    "avatar": "/avatars/albertzhu.png"
   }
 ]
