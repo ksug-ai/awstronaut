@@ -2043,11 +2043,24 @@
     "linkedin": "nicolas-pierson",
     "avatar": "/avatars/nclsprsn.jpg"
   },
- {
+  {
+    "name": "Alex Flores",
+    "certs": [
+      "awstronaut"
+    ],
+    "city": "La Paz",
+    "country": "Bolivia",
+    "date": "2025-06-20",
+    "linkedin": "alex-flores-1599a4136",
+    "avatar": "/avatars/AlexFlores.png",
+    "github": "DevAlex001",
+    "bio": "AWS Community Builder - AI | DevOps/Cloud | 13x AWS | :: Let's connect on LinkedIn!"
+  },
+  {
     "name": "Albert Zhu",
     "github": "Albertzue",
     "certs": [
-      "kubestrong",
+      "golden kubestrong",
       "golden kubestronaut",
       "awstronaut"
     ],
