@@ -2057,6 +2057,32 @@
     "bio": "AWS Community Builder - AI | DevOps/Cloud | 13x AWS | :: Let's connect on LinkedIn!"
   },
   {
+    "name": "Albert Zhu",
+    "github": "Albertzue",
+    "certs": [
+      "golden kubestrong",
+      "golden kubestronaut",
+      "awstronaut"
+    ],
+    "city": "Shanghai",
+    "country": "China",
+    "date": "2026-06-22",
+    "linkedin": "albertzhu88",
+    "avatar": "/avatars/albertzhu.png"
+  },
+  {
+	  "name": "Omshree Butani",
+    "certs": [
+      "awstronaut"
+    ],
+    "city": "Bengaluru",
+	"bio": "AWS Golden Jacket Holder | 12x AWS Certified | AWS Community Builder | FinOps Professional | Women Techmakers Ambassador | Speaker | Blogger | Tech influencer",
+    "country": "India",
+    "date": "2026-05-21",
+    "linkedin": "omshree-butani",
+    "avatar": "/avatars/omshreebutani.jpg"
+  },
+  {
     "name": "Jatin Goel",
     "github": "Learner1292",
     "certs": [
@@ -2065,9 +2091,9 @@
     "city": "Greater Noida",
     "country": "India",
     "date": "2026-02-02",
-    "bio": "CloudOps Architect",
+    "bio": "Cloud & AI | AWS Golden Jacket | M.Tech @IITPatna | 14* AWS Certifications | Cloud Architect | DevOps Engineer | Data Analyst",
     "avatar": "/avatars/JatinGoel.jpg",
-	"website": "https://www.eradigicloud.co.in",
+	  "website": "https://www.eradigicloud.co.in",
     "linkedin": "jatingoel12"
   }
 ]
