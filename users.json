@@ -2081,5 +2081,19 @@
     "date": "2026-05-21",
     "linkedin": "omshree-butani",
     "avatar": "/avatars/omshreebutani.jpg"
+  },
+  {
+    "name": "Jatin Goel",
+    "github": "Learner1292",
+    "certs": [
+      "awstronaut"
+    ],
+    "city": "Greater Noida",
+    "country": "India",
+    "date": "2026-02-02",
+    "bio": "Cloud & AI | AWS Golden Jacket | M.Tech @IITPatna | 14* AWS Certifications | Cloud Architect | DevOps Engineer | Data Analyst",
+    "avatar": "/avatars/JatinGoel.png",
+	  "website": "https://www.eradigicloud.co.in",
+    "linkedin": "jatingoel12"
   }
 ]
