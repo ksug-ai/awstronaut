@@ -2139,5 +2139,19 @@
     "date": "2026-07-05",
     "linkedin": "nana-yamaguchi-611554327",
     "avatar": "/avatars/nanayamaguchi.png"
-  }
+  },
+  {
+    "name": "Pauline Namwakira",
+    "github": "kira-PJ",
+    "certs": [
+      "awstronaut"
+    ],
+    "city": "Nairobi",
+    "country": "Kenya",
+    "date": "2026-06-01",
+    "bio": "AWS Champion Authorized Instructor | Founder @Sentibay Consulting | AWS Community Builder",
+    "linkedin": "paulinenamwakira",
+    "website": "https://sentibay.com",
+    "avatar": "/avatars/kira-PJ.png"
+  }	
 ]
