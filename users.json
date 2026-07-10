@@ -2153,5 +2153,19 @@
     "linkedin": "paulinenamwakira",
     "website": "https://sentibay.com",
     "avatar": "/avatars/kira-PJ.png"
+  },
+{
+    "name": "Sauhard Dobhal",
+    "github": "sauharddobhal",
+    "certs": [
+      "awstronaut"
+    ],
+    "city": "Barkot (Uttarakhand)",
+    "country": "India",
+    "date": "2026-06-13",
+	"website": "https://sauhard.in",
+	"bio": "Solution Architect | AWS (12x Certified) | Microsoft (3x Certified) | Cloud & AI Architect",
+    "linkedin": "sauharddobhal",
+    "avatar": "/avatars/sauharddobhal.png"
   }	
 ]
