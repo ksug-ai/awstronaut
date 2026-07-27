@@ -2167,5 +2167,15 @@
 	"bio": "Solution Architect | AWS (12x Certified) | Microsoft (3x Certified) | Cloud & AI Architect",
     "linkedin": "sauharddobhal",
     "avatar": "/avatars/sauharddobhal.png"
-  }	
+  },	
+{
+  "name": "Thant Zin Phyo",
+  "certs": ["awstronaut"],
+  "city": "Kiel",
+  "country": "Germany",
+  "date": "2026-07-08",
+  "bio": "awstronaut | AWS Community Builder | Microsoft MVP",
+  "linkedin": "thant-zin-phyo",
+  "avatar": "/avatars/thantzinphyo.jpg"
+}
 ]
