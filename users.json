@@ -2154,7 +2154,7 @@
     "website": "https://sentibay.com",
     "avatar": "/avatars/kira-PJ.png"
   },
-{
+  {
     "name": "Sauhard Dobhal",
     "github": "sauharddobhal",
     "certs": [
@@ -2168,16 +2168,16 @@
     "linkedin": "sauharddobhal",
     "avatar": "/avatars/sauharddobhal.png"
   },	
-{
-  "name": "Thant Zin Phyo",
-  "certs": ["awstronaut"],
-  "city": "Kiel",
-  "country": "Germany",
-  "date": "2026-07-08",
-  "bio": "awstronaut | AWS Community Builder | Microsoft MVP",
-  "linkedin": "thant-zin-phyo",
-  "avatar": "/avatars/thantzinphyo.jpg"
-},
+  {
+    "name": "Thant Zin Phyo",
+	"certs": ["awstronaut"],
+	"city": "Kiel",
+	"country": "Germany",
+	"date": "2026-07-08",
+	"bio": "awstronaut | AWS Community Builder | Microsoft MVP",
+	"linkedin": "thant-zin-phyo",
+	"avatar": "/avatars/thantzinphyo.jpg"
+  },
   {
     "name": "Frederick Foong",
     "github": "frederi-co",
@@ -2191,47 +2191,5 @@
 	  "bio": "Golden Kubestronaut | AWS (12x Certified) | Red Hat Certified Architect | Platform Operations",
     "linkedin": "frederick-foong-b76521",
     "avatar": "/avatars/frederickfoong.jpg"
-  },
-    {
-    "name": "Frederick Foong",
-    "github": "frederi-co",
-    "certs": [
-      "awstronaut",
-      "golden kubestrong"
-    ],
-    "city": "Singapore",
-    "country": "Singapore",
-    "date": "2026-07-27",
-	  "bio": "Golden Kubestronaut | AWS (12x Certified) | Red Hat Certified Architect | Platform Operations",
-    "linkedin": "frederick-foong-b76521",
-    "avatar": "/avatars/frederickfoong.jpg"
-  },
-    {
-    "name": "Frederick Foong",
-    "github": "frederi-co",
-    "certs": [
-      "awstronaut",
-      "golden kubestrong"
-    ],
-    "city": "Singapore",
-    "country": "Singapore",
-    "date": "2026-07-27",
-	  "bio": "Golden Kubestronaut | AWS (12x Certified) | Red Hat Certified Architect | Platform Operations",
-    "linkedin": "frederick-foong-b76521",
-    "avatar": "/avatars/frederickfoong.jpg"
-  },
-    {
-    "name": "Frederick Foong",
-    "github": "frederi-co",
-    "certs": [
-      "awstronaut",
-      "golden kubestrong"
-    ],
-    "city": "Singapore",
-    "country": "Singapore",
-    "date": "2026-07-27",
-	  "bio": "Golden Kubestronaut | AWS (12x Certified) | Red Hat Certified Architect | Platform Operations",
-    "linkedin": "frederick-foong-b76521",
-    "avatar": "/avatars/frederickfoong.jpg"
-  }		
+  }
 ]
