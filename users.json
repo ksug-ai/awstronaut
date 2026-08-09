@@ -2191,5 +2191,18 @@
 	  "bio": "Golden Kubestronaut | AWS (12x Certified) | Red Hat Certified Architect | Platform Operations",
     "linkedin": "frederick-foong-b76521",
     "avatar": "/avatars/frederickfoong.jpg"
+  },
+  {
+    "name": "Fouad JADOUANI",
+    "github": "fouad-j",
+    "certs": [
+      "awstronaut"
+    ],
+    "city": "Marrakech",
+    "country": "Morocco",
+    "bio": "Solutions Architect (Morocco / France)",
+    "date": "2026-04-18",
+    "linkedin": "jfouad",
+    "avatar": "/avatars/fouad-jadouani.png"
   }
 ]
