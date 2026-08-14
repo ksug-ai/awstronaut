@@ -2191,5 +2191,20 @@
 	  "bio": "Golden Kubestronaut | AWS (12x Certified) | Red Hat Certified Architect | Platform Operations",
     "linkedin": "frederick-foong-b76521",
     "avatar": "/avatars/frederickfoong.jpg"
+  },
+  {
+    "name": "Emmanuel Mendoza Sosa",
+    "github": "emmanuelsosa",
+    "certs": [
+      "golden kubestrong",
+      "awstronaut",
+      "golden kubestronaut"
+    ],
+    "city": "Saltillo",
+    "country": "Mexico",
+    "date": "2026-08-14",
+    "bio": "Golden Kubestronaut | AWS (13x Certified) | Platform and DevOps engineer",
+    "linkedin": "emmanuel-mendoza-sosa-6a05a262",
+    "avatar": "/avatars/emmanuelsosa.png"
   }
 ]
