@@ -2206,5 +2206,18 @@
     "bio": "Golden Kubestronaut | AWS (13x Certified) | Platform and DevOps engineer",
     "linkedin": "emmanuel-mendoza-sosa-6a05a262",
     "avatar": "/avatars/emmanuelsosa.png"
+  },
+ {
+    "name": "Sunghak Kim",
+    "github": "sunghak84-kim",
+    "certs": [
+      "awstronaut"
+    ],
+    "city": "Seoul",
+    "country": "South Korea",
+    "date": "2026-06-26",
+    "bio": "AWS Professional Service | Cloud Architect | Delivery Consultant | AWS All-Star (12× AWS Certified) | Professional Engineer",
+    "linkedin": "sunghak-kim-287b6775",
+    "avatar": "/avatars/sunghak84-kim.jpg"
   }
 ]
