@@ -2206,5 +2206,19 @@
     "bio": "Golden Kubestronaut | AWS (13x Certified) | Platform and DevOps engineer",
     "linkedin": "emmanuel-mendoza-sosa-6a05a262",
     "avatar": "/avatars/emmanuelsosa.png"
-  }
+  },
+  {
+  "name": "Wai Aung Chit",
+  "github": "WaiAungChit",
+  "certs": [
+    "awstronaut"
+  ],
+  "city": "Yangon",
+  "country": "Myanmar",
+  "date": "2026-08-27",
+  "bio": "Senior Cloud Engineer @NEX4 | 12x AWS Certified",
+  "linkedin": "wai-aung-chit",
+  "avatar": "/avatars/WaiAungChit.jpg"
+}
+	
 ]
