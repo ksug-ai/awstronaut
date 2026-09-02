@@ -2207,18 +2207,29 @@
     "linkedin": "emmanuel-mendoza-sosa-6a05a262",
     "avatar": "/avatars/emmanuelsosa.png"
   },
+  {    "name": "Felipe Rodrigues de Oliveira",
+    "github": "felipeoliveira-fro",
+    "certs": [
+      "awstronaut"
+    ],
+    "city": "Curitiba",
+    "country": "Brazil",
+    "date": "2026-07-13",
+    "bio": "Tech Lead na DATI | 12x AWS Certified | AWS Black Belt",
+    "linkedin": "felipeoliveira-fro",
+    "avatar": "/avatars/felipeoliveira-fro.jpg"
+  },
   {
-  "name": "Wai Aung Chit",
-  "github": "WaiAungChit",
-  "certs": [
-    "awstronaut"
-  ],
-  "city": "Yangon",
-  "country": "Myanmar",
-  "date": "2026-08-27",
-  "bio": "Senior Cloud Engineer @NEX4 | 12x AWS Certified",
-  "linkedin": "wai-aung-chit",
-  "avatar": "/avatars/WaiAungChit.jpg"
-}
-	
+    "name": "Wai Aung Chit",
+    "github": "WaiAungChit",
+    "certs": [
+      "awstronaut"
+    ],
+    "city": "Yangon",
+    "country": "Myanmar",
+    "date": "2026-08-27",
+    "bio": "Senior Cloud Engineer @NEX4 | 12x AWS Certified",
+    "linkedin": "wai-aung-chit",
+    "avatar": "/avatars/WaiAungChit.jpg"
+  }
 ]
