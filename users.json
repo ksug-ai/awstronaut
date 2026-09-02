@@ -2206,5 +2206,18 @@
     "bio": "Golden Kubestronaut | AWS (13x Certified) | Platform and DevOps engineer",
     "linkedin": "emmanuel-mendoza-sosa-6a05a262",
     "avatar": "/avatars/emmanuelsosa.png"
+  },
+  {
+    "name": "Felipe Rodrigues de Oliveira",
+    "github": "felipeoliveira-fro",
+    "certs": [
+      "awstronaut"
+    ],
+    "city": "Curitiba",
+    "country": "Brazil",
+    "date": "2026-07-13",
+    "bio": "Tech Lead na DATI | 12x AWS Certified | AWS Black Belt",
+    "linkedin": "felipeoliveira-fro",
+    "avatar": "/avatars/felipeoliveira-fro.jpg"
   }
 ]
