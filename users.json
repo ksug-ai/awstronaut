@@ -2231,5 +2231,18 @@
     "bio": "Senior Cloud Engineer @NEX4 | 12x AWS Certified",
     "linkedin": "wai-aung-chit",
     "avatar": "/avatars/WaiAungChit.jpg"
+  },
+    {
+    "name": "Stephen Yang",
+  	"github": "isstephen",
+    "certs": [
+      "awstronaut"
+    ],
+ 	  "city": "Wellington",
+    "country": "New Zealand",
+ 	  "date": "2026-09-17",
+    "bio": "Cloud/Data/AI Engineer @Bank of New Zealand | 12x AWS Certified",
+  	"linkedin": "stephen-yang",
+  	"avatar": "/avatars/stephen_yang.png"
   }
 ]
