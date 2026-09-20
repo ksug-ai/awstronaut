@@ -2231,5 +2231,19 @@
     "bio": "Senior Cloud Engineer @NEX4 | 12x AWS Certified",
     "linkedin": "wai-aung-chit",
     "avatar": "/avatars/WaiAungChit.jpg"
-  }
+  },
+  {
+    "name": "Volodymyr Shkrupskyi",
+    "github": "volodymyrvs",
+    "certs": [
+      "awstronaut"
+    ],
+    "city": "Krakow",
+    "country": "Poland",
+    "date": "2026-09-19",
+    "bio": "32x MS certified; 12/12 AWS; 14/14 GCP; 17x OCI; CCNA; 1000+ Credly badges",
+    "linkedin": "volodimir-shkrupskiy",
+	"website": "https://www.linkedin.com/in/volodimir-shkrupskiy/",  
+    "avatar": "/avatars/VolodymyrShkrupskyi.jpeg"
+  }	
 ]
