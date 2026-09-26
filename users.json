@@ -2231,5 +2231,18 @@
     "bio": "Senior Cloud Engineer @NEX4 | 12x AWS Certified",
     "linkedin": "wai-aung-chit",
     "avatar": "/avatars/WaiAungChit.jpg"
+  },
+  {
+    "name": "Ganesh Pawar",
+    "github": "frnd4gan",
+    "certs": [
+      "awstronaut"
+    ],
+    "city": "Helsingborg",
+    "country": "Sweden",
+    "date": "2026-09-19",
+    "bio": "Senior Cloud Engineer | 12x AWS Certified",
+    "linkedin": "frnd4gan",
+    "avatar": "/avatars/ganeshpawar.jpg"
   }
 ]
