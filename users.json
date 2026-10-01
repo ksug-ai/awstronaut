@@ -2244,5 +2244,18 @@
     "bio": "Senior Cloud Engineer | 12x AWS Certified",
     "linkedin": "frnd4gan",
     "avatar": "/avatars/ganeshpawar.jpg"
+  },
+  {
+    "name": "Máximo Lorenzo y Losada",
+    "github": "maxilylm",
+    "certs": [
+      "awstronaut"
+    ],
+    "city": "Montevideo",
+    "country": "Uruguay",
+    "date": "2026-09-11",
+    "bio": "Data Scientist & AI Engineer @Blend360 | 13x AWS Certified",
+    "linkedin": "maximo-lorenzo-y-losada-12164623b",
+    "avatar": "/avatars/maxilylm.jpg"
   }
 ]
