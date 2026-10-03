@@ -1554,12 +1554,14 @@
     "github": "mlechonczak",
     "certs": [
       "awstronaut",
-      "kubestronaut"
+      "kubestronaut",
+	  "golden kubestronaut",
+	  "golden kubestrong"
     ],
     "city": "Koszalin",
     "country": "Poland",
     "date": "2024-04-13",
-    "bio": "Cloud Network Engineer | AWS Golden Jacket | Kubestronaut",
+    "bio": "Senior Cloud Network Engineer | AWS Golden Jacket | Golden Kubestronaut",
     "linkedin": "mariolechonczak",
     "avatar": "/avatars/mariolechonczak.jpg"
   },
