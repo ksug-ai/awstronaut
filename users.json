@@ -2259,5 +2259,19 @@
     "bio": "Data Scientist & AI Engineer @Blend360 | 13x AWS Certified",
     "linkedin": "maximo-lorenzo-y-losada-12164623b",
     "avatar": "/avatars/maxilylm.jpg"
-  }
+  },
+  {
+    "name": "Volodymyr Shkrupskyi",
+    "github": "volodymyrvs",
+    "certs": [
+      "awstronaut"
+    ],
+    "city": "Krakow",
+    "country": "Poland",
+    "date": "2026-09-19",
+    "bio": "32x MS certified; 12/12 AWS; 14/14 GCP; 17x OCI; CCNA; 1000+ Credly badges",
+    "linkedin": "volodimir-shkrupskiy",
+	"website": "https://www.linkedin.com/in/volodimir-shkrupskiy/",  
+    "avatar": "/avatars/VolodymyrShkrupskyi.jpeg"
+  }	
 ]
