@@ -1554,12 +1554,14 @@
     "github": "mlechonczak",
     "certs": [
       "awstronaut",
-      "kubestronaut"
+      "kubestronaut",
+	  "golden kubestronaut",
+	  "golden kubestrong"
     ],
     "city": "Koszalin",
     "country": "Poland",
     "date": "2024-04-13",
-    "bio": "Cloud Network Engineer | AWS Golden Jacket | Kubestronaut",
+    "bio": "Senior Cloud Network Engineer | AWS Golden Jacket | Golden Kubestronaut",
     "linkedin": "mariolechonczak",
     "avatar": "/avatars/mariolechonczak.jpg"
   },
@@ -2233,17 +2235,29 @@
     "avatar": "/avatars/WaiAungChit.jpg"
   },
   {
-    "name": "Volodymyr Shkrupskyi",
-    "github": "volodymyrvs",
+    "name": "Ganesh Pawar",
+    "github": "frnd4gan",
     "certs": [
       "awstronaut"
     ],
-    "city": "Krakow",
-    "country": "Poland",
+    "city": "Helsingborg",
+    "country": "Sweden",
     "date": "2026-09-19",
-    "bio": "32x MS certified; 12/12 AWS; 14/14 GCP; 17x OCI; CCNA; 1000+ Credly badges",
-    "linkedin": "volodimir-shkrupskiy",
-	"website": "https://www.linkedin.com/in/volodimir-shkrupskiy/",  
-    "avatar": "/avatars/VolodymyrShkrupskyi.jpeg"
-  }	
+    "bio": "Senior Cloud Engineer | 12x AWS Certified",
+    "linkedin": "frnd4gan",
+    "avatar": "/avatars/ganeshpawar.jpg"
+  },
+  {
+    "name": "Máximo Lorenzo y Losada",
+    "github": "maxilylm",
+    "certs": [
+      "awstronaut"
+    ],
+    "city": "Montevideo",
+    "country": "Uruguay",
+    "date": "2026-09-11",
+    "bio": "Data Scientist & AI Engineer @Blend360 | 13x AWS Certified",
+    "linkedin": "maximo-lorenzo-y-losada-12164623b",
+    "avatar": "/avatars/maxilylm.jpg"
+  }
 ]
