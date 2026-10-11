@@ -1566,12 +1566,14 @@
     "github": "mlechonczak",
     "certs": [
       "awstronaut",
-      "kubestronaut"
+      "kubestronaut",
+	  "golden kubestronaut",
+	  "golden kubestrong"
     ],
     "city": "Koszalin",
     "country": "Poland",
     "date": "2024-04-13",
-    "bio": "Cloud Network Engineer | AWS Golden Jacket | Kubestronaut",
+    "bio": "Senior Cloud Network Engineer | AWS Golden Jacket | Golden Kubestronaut",
     "linkedin": "mariolechonczak",
     "avatar": "/avatars/mariolechonczak.jpg"
   },
@@ -2243,5 +2245,43 @@
     "bio": "Senior Cloud Engineer @NEX4 | 12x AWS Certified",
     "linkedin": "wai-aung-chit",
     "avatar": "/avatars/WaiAungChit.jpg"
+  },
+  {
+    "name": "Ganesh Pawar",
+    "github": "frnd4gan",
+    "certs": [
+      "awstronaut"
+    ],
+    "city": "Helsingborg",
+    "country": "Sweden",
+    "date": "2026-09-19",
+    "bio": "Senior Cloud Engineer | 12x AWS Certified",
+    "linkedin": "frnd4gan",
+    "avatar": "/avatars/ganeshpawar.jpg"
+  },
+  {
+    "name": "Máximo Lorenzo y Losada",
+    "github": "maxilylm",
+    "certs": [
+      "awstronaut"
+    ],
+    "city": "Montevideo",
+    "country": "Uruguay",
+    "date": "2026-09-11",
+    "bio": "Data Scientist & AI Engineer @Blend360 | 13x AWS Certified",
+    "linkedin": "maximo-lorenzo-y-losada-12164623b",
+    "avatar": "/avatars/maxilylm.jpg"
+  },
+  {
+  	"name": "Umesh Kumar Sharma",
+	  "github": "21H2",
+	  "certs": ["awstronaut"],
+	  "city": "Noida",
+	  "country": "India",
+	  "date": "2026-08-30",
+	  "bio": "Worlds youngest AWS Golden jacket | 12x AWS Certified🧥 | 5x Azure Certified & 2x SAP",
+	  "linkedin": "uniqueumesh",
+	  "website": "https://umesh.lol",
+	  "avatar": "/avatars/umeshkumarsharma.png"
   }
 ]
