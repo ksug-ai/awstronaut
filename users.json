@@ -83,6 +83,18 @@
     "avatar": "/avatars/sammycheung.png"
   },
   {
+    "name": "Hastimal Jangid",
+    "certs": [
+      ["awstronaut"],
+    ],
+    "city": "Houston",
+    "country": "USA",
+    "date": "2025-09-09",
+	  "bio": "Founder @RakRabbit.ai | Multi-Cloud | Tech Speaker | Community Reach",
+    "linkedin": "hastimaljangid",
+    "avatar": "/avatars/HastimalJangid.jpg"
+  },
+  {
     "name": "Stanislav Kolenkin",
     "certs": [
       "awstronaut",
