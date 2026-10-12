@@ -2271,5 +2271,17 @@
 	  "linkedin": "uniqueumesh",
 	  "website": "https://umesh.lol",
 	  "avatar": "/avatars/umeshkumarsharma.png"
+  },
+  {
+  	"name": "Diana Alfaro",
+	  "github": "dicaalba",
+	  "certs": ["awstronaut"],
+	  "city": "Lima",
+	  "country": "Perú",
+	  "date": "2026-09-21",
+	  "bio": "Cloud Solution Architect 🚀 | FinOps 💰| AWS Certified x13 🧥 ☁️ | AWS Girls | AWS Community Builder | AWS ReStart Instructor",
+	  "linkedin": "dianaalfarobazan",
+	  "website": "https://umesh.lol",
+	  "avatar": "/avatars/DianaAlfaro.png"
   }
 ]
