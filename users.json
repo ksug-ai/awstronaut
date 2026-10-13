@@ -2231,5 +2231,16 @@
     "bio": "Senior Cloud Engineer @NEX4 | 12x AWS Certified",
     "linkedin": "wai-aung-chit",
     "avatar": "/avatars/WaiAungChit.jpg"
+  },
+  {
+  	"name": "Cristian Julian Ramiro",
+	  "github": "CristianJuli",
+	  "certs": ["awstronaut"],
+	  "city": "Zaragoza",
+	  "country": "Spain",
+	  "date": "2026-08-11",
+	  "bio": "Expert architect @NttData | AWS Community builder",
+	  "linkedin": "cjulianramiro",
+	  "avatar": "/avatars/CristianJulian.jpg"
   }
 ]
