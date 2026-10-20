@@ -2271,9 +2271,7 @@
 	  "linkedin": "uniqueumesh",
 	  "website": "https://umesh.lol",
 	  "avatar": "/avatars/umeshkumarsharma.png"
-  },
-	{
-		
+  },	
 {
   "name": "Talib Khan",
   "github": "https://github.com/talibkhan172001",
@@ -2282,8 +2280,7 @@
   "country": "India",
   "date": "2026-07-20",
   "bio": "Champion - AWS Authorized Instructor | MCT | Cloud Specialist | 12x AWS Certified | 2x Azure Certified | GCP Certified",
-  "linkedin": "https://www.linkedin.com/in/talib-khan-3a1a61186/"
+  "linkedin": "https://www.linkedin.com/in/talib-khan-3a1a61186/",
+  "avatar": "/avatars/talibkhan.png"
 }
-
-	}
 ]
