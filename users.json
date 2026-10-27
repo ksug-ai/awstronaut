@@ -2271,5 +2271,16 @@
 	  "linkedin": "uniqueumesh",
 	  "website": "https://umesh.lol",
 	  "avatar": "/avatars/umeshkumarsharma.png"
+  },
+  {
+  	"name": "Rafael Linhares Dias",
+	  "github": "rafael-linhares",
+	  "certs": ["awstronaut"],
+	  "city": "Brasilia",
+	  "country": "Brazil",
+	  "date": "2026-08-07",
+	  "bio": "Cloud Platform Architect | Technology Transformation | AWS Golden Jacket (14x Certified)",
+	  "linkedin": "rafaelld",
+	  "avatar": "/avatars/rafael-linhares.png"
   }
 ]
