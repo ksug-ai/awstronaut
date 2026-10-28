@@ -2262,14 +2262,25 @@
   },
   {
   	"name": "Umesh Kumar Sharma",
-	  "github": "21H2",
-	  "certs": ["awstronaut"],
-	  "city": "Noida",
-	  "country": "India",
-	  "date": "2026-08-30",
-	  "bio": "Worlds youngest AWS Golden jacket | 12x AWS Certified🧥 | 5x Azure Certified & 2x SAP",
-	  "linkedin": "uniqueumesh",
-	  "website": "https://umesh.lol",
-	  "avatar": "/avatars/umeshkumarsharma.png"
+	"github": "21H2",
+	"certs": ["awstronaut"],
+	"city": "Noida",
+	"country": "India",
+	"date": "2026-08-30",
+	"bio": "Worlds youngest AWS Golden jacket | 12x AWS Certified🧥 | 5x Azure Certified & 2x SAP",
+	"linkedin": "uniqueumesh",
+	"website": "https://umesh.lol",
+	"avatar": "/avatars/umeshkumarsharma.png"
+  },	
+  {
+	"name": "Talib Khan",
+	"github": "talibkhan172001",
+	"certs": ["awstronaut"],
+	"city": "Bareilly",
+	"country": "India",
+	"date": "2026-07-20",
+	"bio": "Champion - AWS Authorized Instructor | MCT | Cloud Specialist | 12x AWS Certified | 2x Azure Certified | GCP Certified",
+	"linkedin": "talib-khan-3a1a61186",
+	"avatar": "/avatars/talibkhan.png"
   }
 ]
