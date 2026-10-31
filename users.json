@@ -2282,5 +2282,16 @@
 	"bio": "Champion - AWS Authorized Instructor | MCT | Cloud Specialist | 12x AWS Certified | 2x Azure Certified | GCP Certified",
 	"linkedin": "talib-khan-3a1a61186",
 	"avatar": "/avatars/talibkhan.png"
+  },
+  {
+	"name": "Ganesh Nataraj",
+	"github": "GaneshNadaraj",
+	"certs": ["awstronaut"],
+	"city": "Rocky Hill",
+	"country": "USA",
+	"date": "2026-10-31",
+	"bio": "Lead Developer @ Thoughtworks | 13x AWS Certified",
+	"linkedin": "ganesh-nataraj-0196449a",
+	"avatar": "/avatars/ganeshnataraj.png"
   }
 ]
