@@ -2282,5 +2282,16 @@
 	"bio": "Champion - AWS Authorized Instructor | MCT | Cloud Specialist | 12x AWS Certified | 2x Azure Certified | GCP Certified",
 	"linkedin": "talib-khan-3a1a61186",
 	"avatar": "/avatars/talibkhan.png"
+  },
+  {
+    "name": "Damian Pudlo",
+    "github": "damianpudlo",
+    "certs": ["awstronaut"],
+    "city": "London",
+    "country": "United Kingdom",
+    "date": "2026-10-17",
+    "bio": "Software Engineer | 12x AWS",
+    "linkedin": "damian-pudlo-ab019053",
+    "avatar": "/avatars/DamianPudlo.jpeg"
   }
 ]
