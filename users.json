@@ -2282,5 +2282,16 @@
 	"bio": "Champion - AWS Authorized Instructor | MCT | Cloud Specialist | 12x AWS Certified | 2x Azure Certified | GCP Certified",
 	"linkedin": "talib-khan-3a1a61186",
 	"avatar": "/avatars/talibkhan.png"
+  },
+	{
+	"name": "Guillermo Urdaneta",
+	"github": "gurdanet",
+	"certs": ["awstronaut"],
+	"city": "Mckinney",
+	"country": "United States",
+	"date": "2026-11-11",
+	"bio": "AWS Golden Jacket",
+	"linkedin": "gurdanet",
+	"avatar": "/avatars/guillermourdaneta.png"
   }
 ]
