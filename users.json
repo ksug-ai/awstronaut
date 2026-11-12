@@ -2271,7 +2271,7 @@
     "linkedin": "uniqueumesh",
     "website": "https://umesh.lol",
     "avatar": "/avatars/umeshkumarsharma.png"
-  },	
+  },
   {
     "name": "Talib Khan",
     "github": "talibkhan172001",
@@ -2328,5 +2328,16 @@
     "bio": "Lead Developer @ Thoughtworks | 13x AWS Certified",
     "linkedin": "ganesh-nataraj-0196449a",
     "avatar": "/avatars/ganeshnataraj.png"
+  },
+  {
+    "name": "Damian Pudlo",
+    "github": "damianpudlo",
+    "certs": ["awstronaut"],
+    "city": "London",
+    "country": "United Kingdom",
+    "date": "2026-10-17",
+    "bio": "Software Engineer | 12x AWS",
+    "linkedin": "damian-pudlo-ab019053",
+    "avatar": "/avatars/DamianPudlo.jpeg"
   }
 ]
