@@ -1554,12 +1554,14 @@
     "github": "mlechonczak",
     "certs": [
       "awstronaut",
-      "kubestronaut"
+      "kubestronaut",
+	  "golden kubestronaut",
+	  "golden kubestrong"
     ],
     "city": "Koszalin",
     "country": "Poland",
     "date": "2024-04-13",
-    "bio": "Cloud Network Engineer | AWS Golden Jacket | Kubestronaut",
+    "bio": "Senior Cloud Network Engineer | AWS Golden Jacket | Golden Kubestronaut",
     "linkedin": "mariolechonczak",
     "avatar": "/avatars/mariolechonczak.jpg"
   },
@@ -1670,7 +1672,7 @@
     "city": "Seoul",
     "country": "South Korea",
     "date": "2026-02-05",
-    "bio": "DevSecOps Engineer | Information Security Manager (GRC Manager) | Experienced in achieving ISMS-P Certification (ISO 27001 & 27701 equivalent with Korean legal requirements) | AWS Solutions Architect | AWS All-Star (13× AWS Certified) | awstronaut",
+    "bio": "AWS SA at ETECH SYSTEM | Founder of DEVS | AWS Ambassador | AWS Golden Jacket (All Certified) | awstronaut",
     "linkedin": "donghee-kim-478a27297",
     "avatar": "/avatars/DongheeKim.jpg"
   },
@@ -2231,6 +2233,55 @@
     "bio": "Senior Cloud Engineer @NEX4 | 12x AWS Certified",
     "linkedin": "wai-aung-chit",
     "avatar": "/avatars/WaiAungChit.jpg"
+  },
+  { 
+    "name": "Ganesh Pawar",
+    "github": "frnd4gan",
+    "certs": [
+      "awstronaut"
+    ],
+    "city": "Helsingborg",
+    "country": "Sweden",
+    "date": "2026-09-19",
+    "bio": "Senior Cloud Engineer | 12x AWS Certified",
+    "linkedin": "frnd4gan",
+    "avatar": "/avatars/ganeshpawar.jpg"
+  },
+  {
+    "name": "Máximo Lorenzo y Losada",
+    "github": "maxilylm",
+    "certs": [
+      "awstronaut"
+    ],
+    "city": "Montevideo",
+    "country": "Uruguay",
+    "date": "2026-09-11",
+    "bio": "Data Scientist & AI Engineer @Blend360 | 13x AWS Certified",
+    "linkedin": "maximo-lorenzo-y-losada-12164623b",
+    "avatar": "/avatars/maxilylm.jpg"
+  },
+  {
+  	"name": "Umesh Kumar Sharma",
+	"github": "21H2",
+	"certs": ["awstronaut"],
+	"city": "Noida",
+	"country": "India",
+	"date": "2026-08-30",
+	"bio": "Worlds youngest AWS Golden jacket | 12x AWS Certified🧥 | 5x Azure Certified & 2x SAP",
+	"linkedin": "uniqueumesh",
+	"website": "https://umesh.lol",
+	"avatar": "/avatars/umeshkumarsharma.png"
+  },	
+  {
+	"name": "Talib Khan",
+	"github": "talibkhan172001",
+	"certs": ["awstronaut"],
+	"city": "Bareilly",
+	"country": "India",
+	"date": "2026-07-20",
+	"bio": "Champion - AWS Authorized Instructor | MCT | Cloud Specialist | 12x AWS Certified | 2x Azure Certified | GCP Certified",
+	"linkedin": "talib-khan-3a1a61186",
+	"avatar": "/avatars/talibkhan.png"
   },
   {
   	"name": "Cristian Julian Ramiro",
