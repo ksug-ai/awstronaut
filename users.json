@@ -2339,5 +2339,16 @@
     "bio": "Software Engineer | 12x AWS",
     "linkedin": "damian-pudlo-ab019053",
     "avatar": "/avatars/DamianPudlo.jpeg"
+  },
+  {
+	"name": "Guillermo Urdaneta",
+	"github": "gurdanet",
+	"certs": ["awstronaut"],
+	"city": "Mckinney",
+	"country": "United States",
+	"date": "2026-11-11",
+	"bio": "AWS Golden Jacket",
+	"linkedin": "gurdanet",
+	"avatar": "/avatars/GuillermoUrdaneta.png"
   }
 ]
