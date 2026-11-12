@@ -2285,14 +2285,14 @@
   },
   {
   	"name": "Cristian Julian Ramiro",
-	  "github": "CristianJuli",
-	  "certs": ["awstronaut"],
-	  "city": "Zaragoza",
-	  "country": "Spain",
-	  "date": "2026-08-11",
-	  "bio": "Expert architect @NttData | AWS Community builder",
-	  "linkedin": "cjulianramiro",
-	  "avatar": "/avatars/CristianJulian.jpg"
+	"github": "CristianJuli",
+	"certs": ["awstronaut"],
+	"city": "Zaragoza",
+	"country": "Spain",
+	"date": "2026-08-11",
+	"bio": "Expert architect @NttData | AWS Community builder",
+	"linkedin": "cjulianramiro",
+	"avatar": "/avatars/CristianJulian.jpg"
   },
   {
     "name": "Volodymyr Shkrupskyi",
@@ -2310,9 +2310,7 @@
   },
   {
     "name": "Hastimal Jangid",
-    "certs": [
-      ["awstronaut"],
-    ],
+    "certs": ["awstronaut"],
     "city": "Houston",
     "country": "USA",
     "date": "2025-09-09",
