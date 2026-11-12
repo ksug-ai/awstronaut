@@ -2282,5 +2282,18 @@
 	"bio": "Champion - AWS Authorized Instructor | MCT | Cloud Specialist | 12x AWS Certified | 2x Azure Certified | GCP Certified",
 	"linkedin": "talib-khan-3a1a61186",
 	"avatar": "/avatars/talibkhan.png"
-  }
+  },
+ {
+  "name": "Ramesh Nori",
+  "github": "cloudbuckle-community",
+  "certs": ["awstronaut"],
+  "city": "Los Angeles",
+  "country": "USA",
+  "date": "2026-11-09",
+  "bio": "Executive Leadership | Enterprise Architect |  Angel Investor | Occasional Entrepreneur | 16x AWS Certified Professional Level SME | AWS Certified Golden Jacket | Agentic & Generative AI/ML Strategist | Thinker-doer,
+  "twitter": "cloudbuckle",
+  "linkedin": "rameshnori",
+  "website": "https://cloudbuckle.com",
+  "avatar": "/avatars/rameshnori.png"
+}	
 ]
