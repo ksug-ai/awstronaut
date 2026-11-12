@@ -2285,14 +2285,14 @@
   },
   {
   	"name": "Cristian Julian Ramiro",
-	"github": "CristianJuli",
-	"certs": ["awstronaut"],
-	"city": "Zaragoza",
-	"country": "Spain",
-	"date": "2026-08-11",
-	"bio": "Expert architect @NttData | AWS Community builder",
-	"linkedin": "cjulianramiro",
-	"avatar": "/avatars/CristianJulian.jpg"
+    "github": "CristianJuli",
+    "certs": ["awstronaut"],
+    "city": "Zaragoza",
+    "country": "Spain",
+    "date": "2026-08-11",
+    "bio": "Expert architect @NttData | AWS Community builder",
+    "linkedin": "cjulianramiro",
+    "avatar": "/avatars/CristianJulian.jpg"
   },
   {
     "name": "Volodymyr Shkrupskyi",
@@ -2317,5 +2317,16 @@
 	  "bio": "Founder @RakRabbit.ai | Multi-Cloud | Tech Speaker | Community Reach",
     "linkedin": "hastimaljangid",
     "avatar": "/avatars/HastimalJangid.jpg"
+  },
+  {
+    "name": "Ganesh Nataraj",
+    "github": "GaneshNadaraj",
+    "certs": ["awstronaut"],
+    "city": "Rocky Hill",
+    "country": "USA",
+    "date": "2026-10-31",
+    "bio": "Lead Developer @ Thoughtworks | 13x AWS Certified",
+    "linkedin": "ganesh-nataraj-0196449a",
+    "avatar": "/avatars/ganeshnataraj.png"
   }
 ]
