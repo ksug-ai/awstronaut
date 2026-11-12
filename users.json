@@ -2234,7 +2234,7 @@
     "linkedin": "wai-aung-chit",
     "avatar": "/avatars/WaiAungChit.jpg"
   },
-  {
+  { 
     "name": "Ganesh Pawar",
     "github": "frnd4gan",
     "certs": [
@@ -2282,5 +2282,16 @@
 	"bio": "Champion - AWS Authorized Instructor | MCT | Cloud Specialist | 12x AWS Certified | 2x Azure Certified | GCP Certified",
 	"linkedin": "talib-khan-3a1a61186",
 	"avatar": "/avatars/talibkhan.png"
+  },
+  {
+  	"name": "Cristian Julian Ramiro",
+	  "github": "CristianJuli",
+	  "certs": ["awstronaut"],
+	  "city": "Zaragoza",
+	  "country": "Spain",
+	  "date": "2026-08-11",
+	  "bio": "Expert architect @NttData | AWS Community builder",
+	  "linkedin": "cjulianramiro",
+	  "avatar": "/avatars/CristianJulian.jpg"
   }
 ]
