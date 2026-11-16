@@ -254,7 +254,7 @@
     "linkedin": "duelist2020jp-a03b55227",
     "avatar": "/avatars/kiyomasamiyamoto.jpg",
     "bio": "15x AWS Certified and Community Builder :: Follow me on LinkedIn to know more 😄"
-  }, 
+  },
   {
     "name": "Preyash Vrat",
     "github": "preyashvr",
@@ -2086,7 +2086,7 @@
     "linkedin": "omshree-butani",
     "avatar": "/avatars/omshreebutani.jpg"
   },
-  { 
+  {
     "name": "Priyanshi Gangwar",
   	"github": "priyanshigangwar",
     "certs": [
@@ -2169,7 +2169,7 @@
 	"bio": "Solution Architect | AWS (12x Certified) | Microsoft (3x Certified) | Cloud & AI Architect",
     "linkedin": "sauharddobhal",
     "avatar": "/avatars/sauharddobhal.png"
-  },	
+  },
   {
     "name": "Thant Zin Phyo",
 	"certs": ["awstronaut"],
@@ -2234,7 +2234,7 @@
     "linkedin": "wai-aung-chit",
     "avatar": "/avatars/WaiAungChit.jpg"
   },
-  { 
+  {
     "name": "Ganesh Pawar",
     "github": "frnd4gan",
     "certs": [
@@ -2305,7 +2305,7 @@
     "date": "2026-09-19",
     "bio": "32x MS certified; 12/12 AWS; 14/14 GCP; 17x OCI; CCNA; 1000+ Credly badges",
     "linkedin": "volodimir-shkrupskiy",
-	"website": "https://www.linkedin.com/in/volodimir-shkrupskiy/",  
+	"website": "https://www.linkedin.com/in/volodimir-shkrupskiy/",
     "avatar": "/avatars/VolodymyrShkrupskyi.jpeg"
   },
   {
@@ -2350,5 +2350,31 @@
 	"bio": "AWS Golden Jacket",
 	"linkedin": "gurdanet",
 	"avatar": "/avatars/GuillermoUrdaneta.png"
+  },
+  {
+    "name": "Vishal Periyasamy Rajendran",
+    "github": "vishalrv1904",
+    "certs": [
+      "awstronaut"
+    ],
+    "city": "Chennai",
+    "country": "India",
+    "date": "2026-09-20",
+    "bio": "AWS Golden Jacket Holder | AWS Community Builder",
+    "linkedin": "vishal-periyasamy",
+    "avatar": "/avatars/VishalPeriyasamyRajendran.jpeg"
+  },
+  {
+    "name": "Senapathi Thirumurugan",
+    "github": "vishalrv1904",
+    "certs": [
+      "awstronaut"
+    ],
+    "city": "Erode",
+    "country": "India",
+    "date": "2026-09-20",
+    "bio": "AWS Golden Jacket Holder",
+    "linkedin": "senapathi-t",
+    "avatar": "/avatars/SenapathiThirumurugan.jpeg"
   }
 ]
